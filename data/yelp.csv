@@ -1,0 +1,2794 @@
+addr,city,state,restaurant_count,restaurant_rating,restaurant_price,shopping_count,shopping_rating,shopping_price
+1615 Duffield St,Pittsburgh,PA,3,4.25,1.5,6,3,1
+1546 Greentree Rd,Pittsburgh,PA,5,3,1.75,9,3.7,1.8
+107 W Pennview St,Pittsburgh,PA,3,1.5,1,8,5,2
+439 W Sycamore St,Pittsburgh,PA,56,4,2.2,21,3.65,2
+4375 New Texas Rd,Pittsburgh,PA,0,-1,-1,27,4.6,2.2
+1910 Lafayette St,Pittsburgh,PA,22,3.094,1.312,36,3.25,1.5
+4661 Gangwish St,Pittsburgh,PA,71,4.125,1.7,62,4.474,2.053
+2027 Lowrie St,Pittsburgh,PA,10,3.4,1.6,12,1,2
+113 Jucunda St,Pittsburgh,PA,23,3.577,1.385,26,4,1.5
+2378 E Beckert Ave,Pittsburgh,PA,14,4.286,1.429,74,4.469,2.062
+2532 Woodward Ave,Pittsburgh,PA,26,3.6,1.3,24,4.056,2.333
+117 Davis St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+3316 Dawson St,Pittsburgh,PA,81,3.9,1.35,45,3.765,2
+1317 Firwood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+4809 Gardenville Rd,Pittsburgh,PA,3,3.75,1.5,3,3,2
+1222 Tybee St,Pittsburgh,PA,4,-1,-1,7,-1,-1
+2623 Stromberg St,Pittsburgh,PA,61,3.95,1.9,67,4.025,2.05
+1389 Washington Rd,Pittsburgh,PA,16,3.773,1.818,97,4.147,2.118
+522 Lincoln Ave,Pittsburgh,PA,12,3.111,1.222,38,3.938,2.375
+624 Driftwood Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+7003 Blackhawk St,Pittsburgh,PA,10,3.071,1.143,16,3.1,2
+1509 Orchardview Dr,Pittsburgh,PA,3,2.5,1.5,8,3.375,2
+6328 Crombie St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+2740 Mission St,Pittsburgh,PA,55,3.925,1.9,55,3.95,2
+1036 Sanda Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+228 Sample St,Pittsburgh,PA,96,3.825,1.35,51,3.806,2.056
+208 Falconhurst Dr N,Pittsburgh,PA,0,-1,-1,34,4.125,2.375
+335 Roberts Rd,Pittsburgh,PA,2,2.5,1,2,-1,-1
+2 Rolling Hills Ct,Pittsburgh,PA,1,-1,-1,27,4.6,2.2
+168 6th Ave,Pittsburgh,PA,8,3.429,1.429,14,4.667,1.667
+2 Patton Dr,Pittsburgh,PA,32,3.421,1.737,141,3.944,2.389
+130 Merrimac St,Pittsburgh,PA,46,3.9,2.15,20,3.778,2
+227 S Home Ave 709,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+1779 Norsen Dr,Pittsburgh,PA,3,4,1.667,9,2.75,2
+2017 Blvd Of The Allies,Pittsburgh,PA,101,4.2,1.8,139,4.263,1.842
+57 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+618 Orchard Hill Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+3811 Henley Dr,Pittsburgh,PA,1,-1,-1,7,-1,-1
+813 Bethany Dr,Pittsburgh,PA,2,3,2,5,1,2
+70 Schley Ave,Pittsburgh,PA,14,3.611,1.333,23,3.929,1.714
+2328 Shady Ave,Pittsburgh,PA,62,4.075,1.65,84,4.278,2.056
+406 Wabana St,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+6409 Nicholson St,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+241 Valley Park Dr,Pittsburgh,PA,5,3,1.8,10,3,4
+34 Beltzhoover Ave,Pittsburgh,PA,31,3.556,1.778,30,3.778,2.111
+776 Scrubgrass Rd,Pittsburgh,PA,22,3.294,1.824,15,3.5,2.167
+2219 Wilson Ave,Pittsburgh,PA,2,4.5,2,8,5,1
+205 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,25,3.95,1.4
+6942 Greenwood St,Pittsburgh,PA,13,3.9,1.9,5,3,1
+120 Snowden Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+44 Cobb Ave,Pittsburgh,PA,22,3.769,1.462,54,4.265,1.824
+714 Klemont Ave,Pittsburgh,PA,1,-1,-1,4,5,2
+7402 Yale Ave,Pittsburgh,PA,5,3.75,1.75,8,5,2
+2845 Josephine St,Pittsburgh,PA,47,3.9,1.85,47,3.882,2.059
+6752 Mcpherson Blvd,Pittsburgh,PA,14,3.182,1.364,39,4.125,2.375
+224 Virginia Ave,Pittsburgh,PA,63,3.9,2.15,34,3.708,1.917
+233 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,46,3.559,1.824
+910 Louann St,Pittsburgh,PA,5,2.333,1,8,5,2
+726 Orchard Hill Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+109 Cabin Ln,Pittsburgh,PA,2,4,1,35,4.125,2.375
+4352 Winterburn Ave,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+318 Howard Dr,Pittsburgh,PA,32,3.421,1.737,137,3.917,2.389
+1457 Leaside Dr,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+19 Avon Dr,Pittsburgh,PA,6,3.917,1.667,3,-1,-1
+408 Fort Couch Rd,Pittsburgh,PA,19,3.115,1.692,101,3.9,2.6
+3781 Rural Ct W,Pittsburgh,PA,0,-1,-1,3,-1,-1
+620 Morewood Ave,Pittsburgh,PA,80,3.95,1.75,69,4.316,2.368
+6926 Standish St,Pittsburgh,PA,16,4.143,1.714,67,4.438,2
+6926 Chaucer St,Pittsburgh,PA,7,3.75,1,6,-1,-1
+209 Gibson Ln,Pittsburgh,PA,2,-1,-1,4,-1,-1
+829 Stanton Ave,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+320 Fort Duquesne Blvd 5h,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+5400 Black St,Pittsburgh,PA,11,4.167,1.667,30,4.115,1.692
+227 S Home Ave 409,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+5665 Koeffler Dr,Pittsburgh,PA,3,3.75,1.5,2,3,2
+6956 Upland St,Pittsburgh,PA,7,3.75,1,8,-1,-1
+109 Fremont St,Pittsburgh,PA,17,3.125,1.25,26,3.75,1.5
+108 West Dr,Pittsburgh,PA,25,3.429,1.643,100,4.088,2
+1318 Juniata St,Pittsburgh,PA,17,2.8,1.2,23,5,2
+5506 Jane St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+113 Mckinley Ave,Pittsburgh,PA,15,3.562,1.375,65,4.531,2
+1802 Plainview Ave,Pittsburgh,PA,7,3.25,1,6,-1,-1
+109 W Genessee St,Pittsburgh,PA,7,2.625,1,9,5,2
+7 Johnson St,Pittsburgh,PA,14,4.222,1.556,76,4.469,2.062
+1633 Morningside Ave,Pittsburgh,PA,7,4.1,2,6,3,1
+121 Frederick St,Pittsburgh,PA,17,3.125,1.25,24,3.75,1.5
+2113 Delaware Ave,Pittsburgh,PA,22,3.433,1.467,98,4.361,1.778
+108 Fremont St,Pittsburgh,PA,17,3.125,1.25,26,3.75,1.5
+827 Londonderry Dr,Pittsburgh,PA,10,3.35,1.5,9,3.5,1
+825 Morewood Ave G8,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+3708 Greensburg Pike,Pittsburgh,PA,0,-1,-1,5,-1,-1
+229 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+716 Lamar Ave,Pittsburgh,PA,37,3.889,1.556,96,4.5,2.105
+208 Maxwell St,Pittsburgh,PA,24,3.786,1.5,53,4.265,1.824
+125 Valley Fields Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+825 Morewood Ave C1,Pittsburgh,PA,80,3.825,1.75,85,4.225,2.3
+2003 Blvd Of The Allies,Pittsburgh,PA,102,4.2,1.85,141,4.275,1.85
+303 Evergreen Ave,Pittsburgh,PA,18,4.042,1.583,81,4.469,2.062
+1562 Spreading Oak Dr,Pittsburgh,PA,4,3,1.75,9,3.7,1.8
+1334 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+1511 Spreading Oak Dr,Pittsburgh,PA,1,3,2,5,3.25,2
+227 S Home Ave 411,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+134 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+210 Timber Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+5005 Windover Dr,Pittsburgh,PA,0,-1,-1,6,-1,-1
+2618 Mccord St,Pittsburgh,PA,61,3.95,1.9,70,4.025,2.05
+330 Bracken Ave,Pittsburgh,PA,32,3.567,1.333,96,4.441,1.882
+287 Barclay Ave,Pittsburgh,PA,3,3.75,1.5,2,-1,-1
+1220 Clover Circle Ct,Pittsburgh,PA,2,4,2,0,-1,-1
+908 Penn St,Pittsburgh,PA,15,4.4,1.8,87,4.607,2
+1523 Mansion Pl,Pittsburgh,PA,18,3,1.267,31,2.778,1.556
+118 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1281 Cedar Blvd,Pittsburgh,PA,2,3,2,3,1.75,2
+120 Marshall Dr,Pittsburgh,PA,5,-1,-1,14,3.25,2.5
+1903 Forbes Ave,Pittsburgh,PA,79,4.075,1.75,125,4.289,1.895
+3321 Comanche Rd,Pittsburgh,PA,14,3,1.875,97,3.9,2.4
+681 Fruithurst Dr,Pittsburgh,PA,2,2.5,1.5,6,-1,-1
+2015 Tustin St,Pittsburgh,PA,95,4.225,1.75,137,4.263,1.842
+824 Bethany Dr,Pittsburgh,PA,2,3,2,5,1,2
+815 Mifflin Ave,Pittsburgh,PA,20,3.781,1.562,30,4.188,2.125
+406 Millbridge St,Pittsburgh,PA,18,3.577,1.385,20,4,1.5
+620 Little Pine Creek Rd,Pittsburgh,PA,2,-1,-1,8,5,2
+1325 Powers Run Rd,Pittsburgh,PA,2,4,1,34,4.125,2.375
+847 Newport Dr,Pittsburgh,PA,8,3.312,1.5,13,3.5,2.4
+206 Seavey Rd,Pittsburgh,PA,8,4.167,1.667,56,4.562,2.062
+252 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+1439 Juniata St,Pittsburgh,PA,16,3.375,1.5,22,5,2
+507 Transverse Ave,Pittsburgh,PA,20,3.111,1.111,23,3.75,1.5
+1701 N Highland Rd,Pittsburgh,PA,34,3.425,1.7,154,3.941,2.412
+116 Moultrie St,Pittsburgh,PA,14,3.875,1.5,72,4.375,2.083
+859 Stanton Ave,Pittsburgh,PA,12,4.143,1.571,71,4.433,2.067
+1338 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+703 Woodland Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+114 Woodshire Dr,Pittsburgh,PA,4,3.625,1.25,15,3.833,1.889
+929 Jackman Ave,Pittsburgh,PA,29,3.444,1.333,93,4.406,1.875
+303 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,47,3.559,1.824
+1109 Marathon St,Pittsburgh,PA,2,3,1,2,-1,-1
+111 Sherman St,Pittsburgh,PA,18,4.042,1.583,80,4.469,2.062
+135 Peter Dr,Pittsburgh,PA,3,2.5,1,13,2.667,2
+1907 Warren St,Pittsburgh,PA,18,3.7,1.5,4,5,1
+1122 S Side Ave,Pittsburgh,PA,2,3,1,3,-1,-1
+1432 Duffield St,Pittsburgh,PA,4,4.25,1.5,6,3,1
+7035 Hamilton Ave,Pittsburgh,PA,12,4.333,1.333,18,4.667,2
+5815 Kentucky Ave,Pittsburgh,PA,64,4.05,2.15,128,4.3,2.45
+101 The Oaks,Pittsburgh,PA,21,3.333,1.467,43,3.556,1.778
+3423 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+920 Mifflin Ave,Pittsburgh,PA,22,3.706,1.588,34,3.875,1.917
+710 Woodland Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+30 Miltenberger St,Pittsburgh,PA,91,4.225,1.7,130,4.342,1.895
+196 Seavey Rd,Pittsburgh,PA,8,4.167,1.667,63,4.562,2.062
+2104 Suzanne Dr,Pittsburgh,PA,2,3.5,1,6,-1,-1
+1915 Monroe St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+763 Newport Dr,Pittsburgh,PA,7,3.357,1.429,11,3.5,2.75
+1572 Greentree Rd,Pittsburgh,PA,6,2.6,1.8,10,3.7,1.8
+118 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+417 Orchard Spring Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+109 Orchard Pl,Pittsburgh,PA,22,3.577,1.385,26,4,1.5
+19 Hemingway St,Pittsburgh,PA,92,4.15,1.75,68,4.211,1.789
+5811 Howe St,Pittsburgh,PA,69,4.075,2.2,141,4.2,2.4
+1405 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+4053 Cabinet St,Pittsburgh,PA,75,4.025,1.8,66,4.6,1.95
+1423 Sheffield St,Pittsburgh,PA,21,3.036,1.429,21,5,2
+13 Locust St,Pittsburgh,PA,5,4,1.8,5,-1,-1
+877 Reserve St,Pittsburgh,PA,11,4.143,1.571,70,4.433,2.067
+5088 W Harbison Rd,Pittsburgh,PA,1,-1,-1,13,1.5,3
+2313 Cobden St,Pittsburgh,PA,77,4.05,1.85,71,4.15,1.95
+501 Grandview Ave 3001,Pittsburgh,PA,63,3.975,2.35,30,3.786,2.071
+396 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+542 Beaufort Ave,Pittsburgh,PA,17,3.929,1.214,13,4.25,2.5
+2543 Penn Ave 101,Pittsburgh,PA,65,4.175,1.7,68,4.25,2.278
+1924 5th Ave,Pittsburgh,PA,31,3.773,1.545,90,4.385,2.077
+16 Perry Ln,Pittsburgh,PA,2,4.25,1.5,10,4.25,2
+1832 Antietam St,Pittsburgh,PA,11,3.889,1.889,2,3,1
+141 Shady Ln,Pittsburgh,PA,21,3.464,1.571,46,3.706,1.941
+401 Pearce Rd,Pittsburgh,PA,4,3.125,1.5,6,-1,-1
+433 Irwin Ln,Pittsburgh,PA,0,-1,-1,3,3.5,2
+812 Beech Ave,Pittsburgh,PA,53,3.842,1.789,31,4.5,2
+320 Fort Duquesne Blvd 7k,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+1813 Locust St,Pittsburgh,PA,98,4.25,1.8,137,4.289,1.895
+2332 Shady Ave,Pittsburgh,PA,62,4.075,1.65,84,4.278,2.056
+5809 Howe St,Pittsburgh,PA,67,4.075,2.2,134,4.2,2.4
+93 Schley Ave,Pittsburgh,PA,15,3.6,1.4,22,3.929,1.714
+406 N Mathilda St,Pittsburgh,PA,52,4.075,1.9,47,4.342,1.789
+1734 Jancey St,Pittsburgh,PA,12,4.143,1.857,66,4.438,2
+25 Hemingway St,Pittsburgh,PA,82,4.1,1.8,60,4.211,1.789
+932 S Side Ave,Pittsburgh,PA,2,3,1,1,-1,-1
+127 Woodshire Dr,Pittsburgh,PA,16,3.625,1.417,37,3.321,1.786
+100 Walton Rd,Pittsburgh,PA,4,3.5,1,0,-1,-1
+1341 Adams St,Pittsburgh,PA,14,3.071,1.286,20,5,2
+84 Schley Ave,Pittsburgh,PA,14,3.611,1.333,22,3.929,1.714
+417 Grant Ave,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+208 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,8,3.333,2.333
+853 Somerville Dr,Pittsburgh,PA,2,3,2,5,1,2
+6914 Standish St,Pittsburgh,PA,19,4.125,1.75,69,4.438,2
+4306 Tesla St,Pittsburgh,PA,9,3.438,1.125,12,4.357,1.857
+134 Carnegie Pl,Pittsburgh,PA,11,4.25,1.5,16,4.667,2
+313 Oregon St,Pittsburgh,PA,11,3.8,1.2,18,5,3
+2075 Hampstead Dr,Pittsburgh,PA,2,3.5,1,6,-1,-1
+3831 Henley Dr,Pittsburgh,PA,5,3.167,1.333,8,-1,-1
+33 Bascom Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+390 Roberts Rd,Pittsburgh,PA,3,2.5,1,1,-1,-1
+1602 Chelsea Ct,Pittsburgh,PA,0,-1,-1,1,-1,-1
+2723 Mccord St,Pittsburgh,PA,55,3.925,1.9,56,3.95,2
+128 Markham Dr,Pittsburgh,PA,9,3.333,1.889,31,3.125,2.5
+113 Ridgway Ct,Pittsburgh,PA,5,4.75,2,63,4.3,2.2
+23 Locust Ln,Pittsburgh,PA,33,3.421,1.737,147,3.971,2.471
+27 Fountain St,Pittsburgh,PA,32,4.167,1.556,23,4.2,2
+131 Seneca Dr,Pittsburgh,PA,8,3.25,2,31,2.962,2.462
+1309 Adams St,Pittsburgh,PA,16,3.056,1.222,22,5,2
+5489 Broad St,Pittsburgh,PA,47,4.075,2.15,88,4.2,2.467
+281 Orchard Spring Rd,Pittsburgh,PA,24,3.211,1.789,19,3.5,2.111
+59 Bethany Dr B,Pittsburgh,PA,12,2.9,1.3,16,2.75,1.75
+1621 Duffield St,Pittsburgh,PA,3,4.25,1.5,6,3,1
+609 Farragut St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+103 Carl St,Pittsburgh,PA,10,2.833,1,16,4.667,2.667
+120 Oakridge Rd,Pittsburgh,PA,12,3.75,1.375,59,4.346,2.385
+1216 Hillsboro St,Pittsburgh,PA,5,-1,-1,7,-1,-1
+104 Conover Rd,Pittsburgh,PA,17,3.179,1.357,45,4,2.312
+2307 Michael Dr 109d 109d 109d,Pittsburgh,PA,2,3.5,1,0,-1,-1
+133 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+1232 Pocono St,Pittsburgh,PA,3,2.667,1,20,3.538,2.231
+5520 Beacon St,Pittsburgh,PA,49,4.025,1.6,64,4.306,2.056
+102 Cobb Ave,Pittsburgh,PA,15,3.6,1.4,22,3.929,1.714
+1839 Chislett St,Pittsburgh,PA,19,4.125,1.75,72,4.5,1.933
+8393 Edwood Rd,Pittsburgh,PA,6,3.625,1.75,17,4.375,2
+1909 Warren St,Pittsburgh,PA,18,3.7,1.5,4,5,1
+2238 Whited St,Pittsburgh,PA,2,4.5,1,5,3.75,1.5
+1823 Woodward Ave,Pittsburgh,PA,8,3.1,1.2,6,-1,-1
+218 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,45,3.559,1.824
+287 Yosemite Dr,Pittsburgh,PA,14,4,1.25,18,5,2
+320 Fort Duquesne Blvd 6m,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+525 Fremont St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+106 Timberlane Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+9 Hemingway St,Pittsburgh,PA,92,4.15,1.8,64,4.211,1.789
+3816 Rural Ct W,Pittsburgh,PA,2,3.5,1,3,-1,-1
+2809 Wohleber St,Pittsburgh,PA,12,4.167,1.5,72,4.433,2.067
+2543 Penn Ave 102,Pittsburgh,PA,65,4.175,1.7,68,4.25,2.278
+1715 Reed St,Pittsburgh,PA,35,3.6,1.733,77,4.375,2.167
+1332 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+3136 Terrace St,Pittsburgh,PA,43,3.75,1.15,36,3.556,2.111
+203 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,26,3.95,1.4
+210 Davis Ave,Pittsburgh,PA,8,4.167,1.667,55,4.533,2.133
+105 Carl St,Pittsburgh,PA,10,2.833,1,16,4.667,2.667
+1210 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2036 Monongahela Ave,Pittsburgh,PA,28,3.324,1.412,99,4.25,1.722
+804 Stanton Ave,Pittsburgh,PA,15,4.05,1.5,76,4.469,2.062
+5933 Kentucky Ave,Pittsburgh,PA,62,4.1,2.15,118,4.175,2.55
+6925 Greenwood St,Pittsburgh,PA,10,3.875,1.875,3,3,1
+227 S Home Ave 701,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+309 N Fairmount St,Pittsburgh,PA,40,4.05,2,75,4.167,2.4
+100 Oak Park Pl,Pittsburgh,PA,12,3,1.636,16,3.625,2
+1423 Dagmar Ave,Pittsburgh,PA,15,3.714,1.286,7,5,1
+125 1st St,Pittsburgh,PA,12,3.727,1.455,18,4.5,1.6
+31 Mazer St,Pittsburgh,PA,5,4.75,2,60,4.333,2
+2319 5th Ave,Pittsburgh,PA,28,3.643,1.571,88,4.286,1.857
+7039 Bennett St,Pittsburgh,PA,11,4.4,1.4,15,4.75,2
+3270 Ward St,Pittsburgh,PA,75,3.925,1.45,43,3.719,2
+3 Seneca St,Pittsburgh,PA,67,3.9,1.65,111,4.25,1.938
+3321 Longbow Dr,Pittsburgh,PA,2,-1,-1,6,-1,-1
+75 8th Ave,Pittsburgh,PA,7,3.667,1.5,11,4,2
+93 Warwick Dr,Pittsburgh,PA,22,3.067,1.667,119,3.938,2.562
+1533 Fallowfield Ave,Pittsburgh,PA,16,3.75,1.25,5,5,1
+205 Karen Dr,Pittsburgh,PA,10,4.167,1.5,69,4.375,2.125
+2020 Forbes Ave,Pittsburgh,PA,93,4.225,1.75,137,4.263,1.842
+1007 Highmont Rd,Pittsburgh,PA,44,4.05,2.15,81,4.028,2.556
+358 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+2107 Suzanne Dr,Pittsburgh,PA,2,3.5,1,6,-1,-1
+2106 Swiss Mt Dr,Pittsburgh,PA,63,4.1,1.6,93,4.278,2.333
+549 N Aiken Ave,Pittsburgh,PA,12,3.938,1.875,28,4.045,1.545
+3218 Beechdale St,Pittsburgh,PA,20,3.778,1.444,79,4.469,2.062
+8150 Edwood Rd,Pittsburgh,PA,6,3.625,1.75,21,4.5,2.4
+768 Thornwick Dr,Pittsburgh,PA,2,3,2,6,1,2
+736 Brafferton Dr,Pittsburgh,PA,7,3.3,1.4,8,4,2
+1938 Antietam St,Pittsburgh,PA,17,4.071,1.714,69,4.4,2
+132 Mcmonagle Ave,Pittsburgh,PA,6,3.5,1.75,10,3.833,2.333
+6833 Meade St 21,Pittsburgh,PA,8,4.4,1.4,21,4.375,2
+348 Bracken Ave,Pittsburgh,PA,33,3.567,1.333,95,4.353,1.824
+735 N Atlantic Ave,Pittsburgh,PA,13,4.167,1.778,24,4.269,1.462
+806 Stanton Ave,Pittsburgh,PA,15,4.05,1.5,76,4.469,2.062
+512 Montclair St,Pittsburgh,PA,10,3.5,1.222,11,4.357,1.857
+1530 Dagmar Ave,Pittsburgh,PA,16,3.75,1.25,5,5,1
+1647 Durbin St,Pittsburgh,PA,5,3.5,1.75,14,-1,-1
+93 Evans Ave,Pittsburgh,PA,12,3.611,1.333,21,3.929,1.714
+1008 Abdell St,Pittsburgh,PA,37,3.65,1.8,30,4.5,2.2
+1226 Love St,Pittsburgh,PA,3,2.667,1,19,3.458,2.25
+1926 Antietam St,Pittsburgh,PA,17,4.071,1.714,67,4.406,2
+869 Killarney Dr,Pittsburgh,PA,10,3.35,1.5,12,3.5,2.4
+726 E End Ave,Pittsburgh,PA,12,3.727,1.545,15,3.9,2.4
+2227 Lynnbrook Ave,Pittsburgh,PA,2,4.5,1,5,3.75,1.5
+31 Hemingway St,Pittsburgh,PA,89,4.175,1.8,63,4.211,1.789
+1316 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+408 Lamar St,Pittsburgh,PA,3,3.75,1.5,1,-1,-1
+6924 Standish St,Pittsburgh,PA,16,4.143,1.714,67,4.438,2
+6 Edith Pl,Pittsburgh,PA,77,3.95,1.4,44,3.765,2
+4908 Schenley Ave,Pittsburgh,PA,30,4.125,1.75,32,4.235,1.588
+235 N Aiken Ave,Pittsburgh,PA,21,3.967,2,43,4.4,1.733
+521 Rodgers Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+963 Mccormick Ln,Pittsburgh,PA,2,4,1,4,3,4
+117 Fremont St,Pittsburgh,PA,17,3.125,1.25,24,3.75,1.5
+3429 Clearfield St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+208 Charles St,Pittsburgh,PA,22,3.577,1.385,26,4,1.6
+6320 Crombie St,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+306 Walpole Dr,Pittsburgh,PA,3,2.5,1,16,2.667,2
+121 Stilwell Ct,Pittsburgh,PA,4,3,1.75,13,4.8,2
+2314 Beelen St,Pittsburgh,PA,28,3.643,1.571,88,4.286,1.857
+101 W Genessee St,Pittsburgh,PA,7,2.625,1,9,5,2
+609 Klemont Ave,Pittsburgh,PA,1,-1,-1,5,5,2
+5825 5th Ave 315,Pittsburgh,PA,65,4.075,2.15,124,4.275,2.45
+2809 Homehurst Ave,Pittsburgh,PA,6,3.417,1.5,6,3.75,1.5
+307 Bodkin St,Pittsburgh,PA,24,3.684,1.263,16,4.143,2.571
+116 Alpine Cir,Pittsburgh,PA,21,3.357,1.643,44,3.618,1.765
+249 Valley Park Dr,Pittsburgh,PA,5,3,1.8,10,3,4
+1376 Washington Rd,Pittsburgh,PA,15,3.75,1.8,96,4.147,2.118
+851 Inwood St B,Pittsburgh,PA,9,4.375,1.25,24,4.9,2.2
+485 Fort Couch Rd,Pittsburgh,PA,9,3.4,1.6,18,3.125,2.375
+1810 Tustin St,Pittsburgh,PA,99,4.25,1.8,136,4.289,1.895
+2224 Romine St,Pittsburgh,PA,6,3.417,1.5,5,3.5,1
+216 Hope St,Pittsburgh,PA,19,4.15,1.5,31,3.3,2.2
+305 Forest Dr,Pittsburgh,PA,2,3.5,1,7,3,2
+4326 Mccaslin St,Pittsburgh,PA,6,3.75,1.167,4,4.5,1.667
+42 Emma Dr,Pittsburgh,PA,9,2.714,1.286,16,4,2
+606 Eureka St,Pittsburgh,PA,21,3.615,1.538,22,3.6,2.4
+16 Garden Ter,Pittsburgh,PA,2,3.5,1,5,-1,-1
+51 Waterfront Dr,Pittsburgh,PA,27,3.844,1.75,45,4.273,2.091
+42 Swiss Mt,Pittsburgh,PA,10,3.3,1.2,5,4,2
+5622 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2410 Shady Ave,Pittsburgh,PA,63,4.075,1.65,84,4.278,2.056
+253 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1536 Orchardview Dr,Pittsburgh,PA,3,2.5,1.5,7,3.375,2
+38 Gist St,Pittsburgh,PA,99,4.25,1.8,140,4.275,1.85
+1741 Arlington Ave,Pittsburgh,PA,21,3.455,1.455,26,3.667,1.333
+3250 Middletown Rd,Pittsburgh,PA,2,-1,-1,4,-1,-1
+120 Vance Dr,Pittsburgh,PA,3,2.5,1,17,2.667,2
+235 Dinwiddie St,Pittsburgh,PA,26,3.846,1.692,70,4.409,2.182
+5903 5th Ave 106,Pittsburgh,PA,10,3.722,1.556,13,3.75,1.5
+3235 Beechdale St,Pittsburgh,PA,12,3.4,1.2,17,4.5,1.5
+7309 Front River Rd,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+53 Stancey Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+5753 5th Ave,Pittsburgh,PA,51,4.025,2.1,115,4.275,2.45
+835 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,12,3.5,2.4
+114 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+404 Chautauqua St,Pittsburgh,PA,2,4.5,2,9,5,1
+2324 Mount Troy Rd,Pittsburgh,PA,7,3.875,1.5,18,2.75,2.25
+1421 Beechview Ave,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+702 Louann St,Pittsburgh,PA,3,1.5,1,10,5,2
+120 Rochester Rd,Pittsburgh,PA,13,3.1,1.3,15,4.062,1.5
+303 Phillips Dr,Pittsburgh,PA,40,3.425,1.85,214,4,2.471
+897 Karen Dr,Pittsburgh,PA,10,4.167,1.5,69,4.375,2.125
+214 Sunridge Rd,Pittsburgh,PA,0,-1,-1,34,4.125,2.375
+7009 Church St,Pittsburgh,PA,17,3.036,1.286,30,2.944,1.556
+823 Rolling Rock Rd,Pittsburgh,PA,7,3.357,1.429,12,3.5,2.75
+1347 Malvern Ave,Pittsburgh,PA,9,3.25,1,5,3.833,1.667
+506 Mount Royal Blvd,Pittsburgh,PA,4,2.25,1,12,5,2
+215 N Woodland Rd,Pittsburgh,PA,47,4.1,2.2,78,4.25,2.611
+1444 Morningside Ave,Pittsburgh,PA,10,4.071,2,6,3,1
+1285 Cedar Blvd,Pittsburgh,PA,2,3,2,3,1.75,2
+1704 S Shore Ct,Pittsburgh,PA,93,4.25,1.7,87,4.237,1.789
+431 Locust Ln,Pittsburgh,PA,18,3.375,1.812,54,3.781,2.5
+202 Field Club Ridge Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+1430 Rush St,Pittsburgh,PA,16,3.375,1.5,22,5,2
+1831 Locust St,Pittsburgh,PA,100,4.25,1.8,138,4.275,1.9
+2018 Tustin St,Pittsburgh,PA,98,4.2,1.8,139,4.263,1.842
+1287 Cedar Blvd,Pittsburgh,PA,2,3,2,4,1.75,2
+889 Inwood St,Pittsburgh,PA,9,4.375,1.25,23,4.9,2.2
+212 Sleepy Hollow Rd,Pittsburgh,PA,16,3.111,1.667,14,4.25,1.5
+883 Inwood St,Pittsburgh,PA,9,4.375,1.25,23,4.9,2.2
+117 Van Braam St,Pittsburgh,PA,64,3.925,1.85,112,4.219,1.875
+336 Greenway Dr,Pittsburgh,PA,3,-1,-1,8,-1,-1
+1283 Parkview Blvd,Pittsburgh,PA,4,3.125,1.25,7,3.9,2
+1214 Pocono St,Pittsburgh,PA,3,2.667,1,22,3.464,2.214
+6900 Walnut St,Pittsburgh,PA,3,2.5,1,4,-1,-1
+1704 Grove Crest Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+812 Bethany Dr,Pittsburgh,PA,2,3,2,5,1,2
+150 Fountain St,Pittsburgh,PA,2,-1,-1,1,-1,-1
+1300 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+1776 Moynelle Dr,Pittsburgh,PA,3,4,1.667,9,2.25,2
+120 Moultrie St,Pittsburgh,PA,14,3.875,1.5,72,4.375,2.083
+1826 Plainview Ave,Pittsburgh,PA,7,3.25,1,6,-1,-1
+805 Ravenswood Ave,Pittsburgh,PA,1,4.5,1,6,5,2
+570 Bigelow St,Pittsburgh,PA,10,3.5,1.222,11,4.357,1.857
+4 Waterside Pl,Pittsburgh,PA,26,3.8,1.733,45,4.273,2.091
+156 Glenfield Dr,Pittsburgh,PA,7,3.5,1.2,36,4.438,2.375
+166 Merrimac St,Pittsburgh,PA,45,3.9,2.15,20,3.778,2
+1748 Ballinger St,Pittsburgh,PA,6,3.5,1.2,6,3,1.667
+4707 Norma Dr,Pittsburgh,PA,12,3.786,1.429,16,3.375,1.75
+207 Walpole Dr,Pittsburgh,PA,3,2.5,1,20,2.667,2
+128 Charles St,Pittsburgh,PA,23,3.577,1.385,27,4,1.6
+4760 Norma Dr,Pittsburgh,PA,3,3.75,1,2,-1,-1
+105 Walton Rd,Pittsburgh,PA,3,3.5,1,0,-1,-1
+152 Maple Heights Rd,Pittsburgh,PA,37,3.725,1.95,79,4.2,2.45
+1247 Goodman St,Pittsburgh,PA,3,2.667,1,22,3.536,2.214
+5627 5th Ave,Pittsburgh,PA,52,4.025,2.1,112,4.25,2.45
+927 Mcneilly Rd,Pittsburgh,PA,5,3.875,1.5,7,5,4
+781 Brafferton Dr,Pittsburgh,PA,3,2.667,1.667,7,-1,-1
+12 Parklane Dr,Pittsburgh,PA,14,4.071,1.286,18,4.667,2
+305 10th St,Pittsburgh,PA,15,4.4,1.8,86,4.607,2
+237 Valley Park Dr,Pittsburgh,PA,7,3.167,1.667,11,3.5,3
+5420 Mifflin Rd,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+1956 Lowrie St 2,Pittsburgh,PA,14,3.688,1.625,18,3.625,2
+207 Sedgwick St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+111 Buckingham Rd,Pittsburgh,PA,1,-1,-1,2,-1,-1
+7 Butterfield Ave,Pittsburgh,PA,10,4.3,1.4,65,4.531,2
+732 New Texas Rd,Pittsburgh,PA,4,4.25,2,3,5,2
+6915 Bishop St,Pittsburgh,PA,14,4.143,1.857,67,4.438,2
+3257 Fadette St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+34 Kenneth Dr,Pittsburgh,PA,9,2.714,1.286,19,4.333,2
+6900 Standish St,Pittsburgh,PA,19,4.125,1.75,72,4.438,2
+234 Taylor St,Pittsburgh,PA,75,4.1,1.75,59,4.389,1.944
+210 Sunridge Rd,Pittsburgh,PA,0,-1,-1,34,4.125,2.375
+1317 Mutual St,Pittsburgh,PA,3,-1,-1,5,-1,-1
+18 Emma Dr,Pittsburgh,PA,9,2.786,1.286,16,4,2
+7115 Vivianna St,Pittsburgh,PA,4,3.833,1.667,4,-1,-1
+4643 Mckee Dr,Pittsburgh,PA,13,3.75,1.625,16,3.125,1.75
+45 Miltenberger St,Pittsburgh,PA,96,4.25,1.8,135,4.25,1.85
+1208 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+97 N Duane St,Pittsburgh,PA,13,3.6,1.4,19,3.929,1.714
+1020 Coal Hollow Rd,Pittsburgh,PA,3,2.5,1,20,2.667,2
+1326 Squirrel Hill Ave,Pittsburgh,PA,10,3.5,1.2,25,4.091,2.364
+3180 Glendale Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+806 Saratoga Dr,Pittsburgh,PA,12,3.208,1.583,22,3.292,2
+1721 Lanark St,Pittsburgh,PA,28,3.944,1.444,22,4.2,2
+102 Whipple St,Pittsburgh,PA,3,2.667,1,13,3.222,2
+741 Glenside St,Pittsburgh,PA,1,3.5,2,4,2,1
+104 Mulkerin Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+907 Delafield Rd,Pittsburgh,PA,9,3.714,1.286,33,3.781,1.875
+325 Grandview Ave,Pittsburgh,PA,106,4.1,2.15,68,4.026,2.368
+320 Fort Duquesne Blvd 8d,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+40 Mazer St,Pittsburgh,PA,5,4.75,2,60,4.333,2
+2109 Straubs Ln,Pittsburgh,PA,9,3.4,1.6,12,1,2
+758 Newport Dr,Pittsburgh,PA,7,3.357,1.429,12,3.5,2.75
+4329 Glen Lytle Rd,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+1336 Fairstead Ln,Pittsburgh,PA,6,3.083,1.333,11,5,2
+1510 Rutherford Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+3400 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+10 Vine Ave,Pittsburgh,PA,10,4.2,1.4,64,4.562,2.062
+1129 Michael Dr,Pittsburgh,PA,4,3.75,1.5,1,-1,-1
+2013 Forbes Ave,Pittsburgh,PA,73,3.95,1.65,122,4.306,1.944
+1454 Mohican Dr,Pittsburgh,PA,18,3.769,1.846,111,4.219,2.5
+5744 Kentucky Ave 2,Pittsburgh,PA,52,4.025,2.1,119,4.275,2.45
+204 Karen Dr,Pittsburgh,PA,9,4.2,1.6,68,4.375,2.125
+1205 Fairdale St,Pittsburgh,PA,1,-1,-1,3,-1,-1
+233 N Aiken Ave,Pittsburgh,PA,21,4,2,47,4.4,1.733
+7212 Front River Rd,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+229 Orchard Spring Rd,Pittsburgh,PA,24,3.211,1.789,18,3.375,2.125
+213 Karen Dr,Pittsburgh,PA,6,4.75,2,61,4.533,2.133
+1617 Lowrie St,Pittsburgh,PA,25,3.781,1.875,37,4.056,2.222
+415 Fairway Dr,Pittsburgh,PA,5,3.75,1,12,4,2
+210 Field Club Ridge Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+206 Mcmonagle Ave,Pittsburgh,PA,7,3.3,1.6,14,3.833,2.333
+166 Foxcroft Rd,Pittsburgh,PA,18,3.462,1.923,18,3.25,2.125
+1413 Scarlett Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+1693 Jancey St,Pittsburgh,PA,9,4.125,1.875,7,3,1
+4254 Perrysville Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+7043 Hamilton Ave,Pittsburgh,PA,12,4.333,1.333,19,4.667,2
+825 Morewood Ave G10,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+2449 Woodward Ave,Pittsburgh,PA,24,3.684,1.263,15,4.4,2.2
+22 4th St,Pittsburgh,PA,19,3.95,1.9,89,4.357,2.214
+638 Ryland Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1512 Orchardview Dr,Pittsburgh,PA,2,3,2,5,3.25,2
+161 Black Oak Dr,Pittsburgh,PA,3,3.833,1,2,-1,-1
+123 Highview Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+819 Rolling Rock Rd,Pittsburgh,PA,8,3.312,1.5,12,3.5,2.75
+216 Ella St,Pittsburgh,PA,69,4.175,1.7,61,4.474,2.053
+186 Chartiers Ave,Pittsburgh,PA,0,-1,-1,2,-1,-1
+17 Ettwein St,Pittsburgh,PA,18,3.071,1.786,58,3.8,2.3
+3209 Glendale Ave,Pittsburgh,PA,22,3.909,1.364,84,4.5,2
+1246 Pocono St,Pittsburgh,PA,3,2.667,1,20,3.538,2.231
+3317 Comanche Rd,Pittsburgh,PA,14,3,1.875,97,3.9,2.4
+1341 Fairstead Ln,Pittsburgh,PA,7,2.857,1.286,10,5,2
+1116 Hillsboro St,Pittsburgh,PA,5,-1,-1,7,-1,-1
+6904 Thomas Blvd,Pittsburgh,PA,13,3.889,1.444,23,4.1,2.6
+245 Dinwiddie St,Pittsburgh,PA,27,3.714,1.643,70,4.409,2.182
+221 Valley Park Dr,Pittsburgh,PA,7,3.167,1.667,12,3.5,3
+363 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+211 Nebraska Ave,Pittsburgh,PA,3,2.5,1,2,-1,-1
+1042 Sanda Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+1309 Methyl St,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+106 Snowden Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+953 Jackman Ave,Pittsburgh,PA,30,3.444,1.333,96,4.406,1.875
+340 Fort Couch Rd,Pittsburgh,PA,31,3.325,1.75,147,4.031,2.438
+1230 Dagmar Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+106 Bartley Rd,Pittsburgh,PA,39,3.45,1.8,198,4.029,2.412
+1429 Duffield St,Pittsburgh,PA,4,4.25,1.5,6,3,1
+129 Mcjunkin Rd,Pittsburgh,PA,2,3.5,2,1,-1,-1
+104 Marshall Dr,Pittsburgh,PA,1,-1,-1,5,-1,-1
+5100 W Harbison Rd,Pittsburgh,PA,1,-1,-1,14,1.5,3
+1138 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+3254 Beechdale St,Pittsburgh,PA,9,3.5,1.333,14,4.5,1.5
+124 Bartley Rd,Pittsburgh,PA,33,3.421,1.737,144,4,2.412
+117 Sherman St,Pittsburgh,PA,18,4.042,1.583,80,4.469,2.062
+530 Oakwood St,Pittsburgh,PA,32,3.875,1.667,87,4.676,1.941
+1233 Dagmar Ave,Pittsburgh,PA,8,3.5,1.25,6,-1,-1
+1122 N Murtland St,Pittsburgh,PA,11,4.4,1.4,8,-1,-1
+5525 Kentucky Ave,Pittsburgh,PA,56,4.025,2.05,111,4.2,2.45
+6322 Phillips Ave,Pittsburgh,PA,59,4.05,1.65,75,4.306,2.111
+101 Dilworth St,Pittsburgh,PA,35,3.675,1.8,20,3.7,2
+5503 5th Ave,Pittsburgh,PA,52,4.025,2.05,104,4.2,2.45
+233 Valley Park Dr,Pittsburgh,PA,7,3.167,1.667,11,3.5,3
+4915 Kincaid St,Pittsburgh,PA,45,4.15,1.85,43,4.278,1.722
+1305 N Murtland St,Pittsburgh,PA,10,4.375,1.25,8,-1,-1
+516 Colquitt Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+1043 Highmont Rd,Pittsburgh,PA,29,3.8,1.95,67,3.971,2.529
+121 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+1291 Cedar Blvd,Pittsburgh,PA,2,3,2,4,1.75,2
+830 Newport Dr,Pittsburgh,PA,8,3.312,1.5,13,3.5,2.4
+104 Homestead St,Pittsburgh,PA,2,3,1,13,3.222,2
+4052 Mintwood St 6,Pittsburgh,PA,75,4.025,1.8,69,4.625,2.1
+1843 Locust St,Pittsburgh,PA,100,4.25,1.8,138,4.275,1.9
+1645 Lowrie St,Pittsburgh,PA,23,3.833,1.733,33,3.938,2.25
+101 Cabin Ln,Pittsburgh,PA,2,4,1,35,4.125,2.375
+640 Kewanna Ave,Pittsburgh,PA,11,3.4,1.6,29,4.115,1.846
+450 Maxwell Dr,Pittsburgh,PA,11,3.889,1.333,40,3.75,2.333
+164 Sunset Dr,Pittsburgh,PA,3,4.25,2,14,4,2
+1004 Elmhurst Rd,Pittsburgh,PA,4,3.75,1.5,14,3.938,1.875
+202 Harrow Rd,Pittsburgh,PA,0,-1,-1,35,4.125,2.375
+552 N Neville St 73,Pittsburgh,PA,115,4,1.65,55,3.947,2.158
+135 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+9252 Highland Rd,Pittsburgh,PA,1,3,2,4,-1,-1
+260 Ingram Ave,Pittsburgh,PA,11,3.562,1.375,19,4,1.75
+1314 Lakemont Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+121 Valley Fields Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+1439 Morningside Ave,Pittsburgh,PA,5,4.333,2,6,3,1
+515 Teece Ave,Pittsburgh,PA,26,3.562,1.438,84,4.267,2
+3773 Rural Ct E,Pittsburgh,PA,0,-1,-1,3,-1,-1
+220 Valley Park Dr,Pittsburgh,PA,8,3.25,1.5,10,4,2
+412 Emerson Ave,Pittsburgh,PA,24,3.567,1.667,93,4.206,2.059
+2700 Pioneer Ave,Pittsburgh,PA,18,3.559,1.294,22,3.938,2.5
+825 Morewood Ave F2,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+6928 Standish St,Pittsburgh,PA,16,4.143,1.714,67,4.438,2
+1708 Watson St,Pittsburgh,PA,63,3.925,1.85,111,4.219,1.875
+1259 Westfield St,Pittsburgh,PA,6,3.667,1,6,-1,-1
+1510 Fallowfield Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+3842 Greensburg Pike,Pittsburgh,PA,3,3.75,1.5,2,-1,-1
+213 Sedgwick St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+52 Garden Ter,Pittsburgh,PA,3,3.5,1,5,-1,-1
+5515 Jane St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1010 Sedalia Ave,Pittsburgh,PA,21,3.767,1.467,93,4.5,1.938
+414 Long Dr,Pittsburgh,PA,23,3.306,1.722,76,3.667,2.667
+1052 Shady Ave,Pittsburgh,PA,41,4,2.1,72,4,2.611
+1820 Plainview Ave,Pittsburgh,PA,7,3.25,1,6,-1,-1
+116 E Francis Ave,Pittsburgh,PA,27,3.929,1.286,90,4.286,2.143
+1689 Jancey St,Pittsburgh,PA,9,4.125,1.875,7,3,1
+122 Woodshire Dr,Pittsburgh,PA,13,3.6,1.3,38,3.5,1.75
+105 Homestead St,Pittsburgh,PA,2,3,1,13,3.222,2
+5416 Page Dr,Pittsburgh,PA,12,3.786,1.571,17,3.3,1.8
+7940 Tioga St,Pittsburgh,PA,34,3.625,1.5,92,4.647,1.941
+109 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+1 Woodland Ter,Pittsburgh,PA,19,3.208,1.417,29,3.95,1.4
+1033 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+352 Orchard Spring Rd,Pittsburgh,PA,23,3.222,1.833,18,3.375,2.125
+127 Beech Rd,Pittsburgh,PA,2,3.5,2,0,-1,-1
+2297 Whited St,Pittsburgh,PA,4,4.5,1.667,8,3.75,3
+5412 Bartlett St,Pittsburgh,PA,7,3.9,1.2,12,4.333,2
+1222 Mutual St,Pittsburgh,PA,3,-1,-1,4,-1,-1
+34 Schley Ave,Pittsburgh,PA,23,3.808,1.462,54,4.265,1.824
+336 E Francis Ave,Pittsburgh,PA,13,3.5,1.167,15,5,1
+309 Bodkin St,Pittsburgh,PA,24,3.684,1.263,16,4.143,2.571
+2 Parklane Dr,Pittsburgh,PA,14,4.071,1.286,19,4.667,2
+124 Labelle St,Pittsburgh,PA,25,3.675,2.05,7,3.75,1.75
+112 Catskill Ave,Pittsburgh,PA,29,3.867,1.333,92,4.321,2.071
+55 Mazer St,Pittsburgh,PA,5,4.75,2,59,4.333,2
+1020 Highmont Rd,Pittsburgh,PA,37,3.875,2.1,75,4.028,2.556
+5151 Ridge Dr,Pittsburgh,PA,4,3.5,2,3,-1,-1
+2177 Whited St,Pittsburgh,PA,4,4,1.333,6,3.75,1.5
+15 Rose Leaf Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+538 Bigelow St,Pittsburgh,PA,7,3.786,1.286,4,4.5,1.667
+5610 Villa Haven Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+356 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+7417 Richland Manor Dr,Pittsburgh,PA,11,4.25,1.5,13,4.667,2
+2444 Craftmont Ave,Pittsburgh,PA,3,3.333,1.667,8,-1,-1
+71 Stancey Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+1135 Oblock Rd,Pittsburgh,PA,5,4.25,2,4,5,2
+11 Patton Dr,Pittsburgh,PA,32,3.421,1.737,135,3.972,2.333
+230 N Fairmount St,Pittsburgh,PA,42,4.05,2.05,84,4.067,2.4
+8179 Ohio River Blvd 31,Pittsburgh,PA,6,4,1.833,7,-1,-1
+502 Roosevelt Ave,Pittsburgh,PA,12,2.889,1.333,18,3.1,1.8
+1813 Commercial St,Pittsburgh,PA,16,3.038,1.231,28,2.7,1.7
+225 Bigham St,Pittsburgh,PA,32,3.75,1.95,10,3.4,1.8
+1723 Locust St,Pittsburgh,PA,94,4.25,1.8,137,4.263,1.842
+423 Kaercher St,Pittsburgh,PA,6,4,1.333,4,4.375,1.75
+155 North Dr,Pittsburgh,PA,1,3,2,34,4.05,2.6
+3729 Rural Ct E,Pittsburgh,PA,0,-1,-1,3,-1,-1
+1010 S Side Ave,Pittsburgh,PA,2,3,1,2,-1,-1
+2719 Shelly St,Pittsburgh,PA,57,3.95,1.9,61,3.95,2
+1339 Squirrel Hill Ave,Pittsburgh,PA,9,3.625,1.25,25,4.167,2.333
+2011 Lafayette St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+2447 Plainview Ave,Pittsburgh,PA,25,3.684,1.263,18,4.4,2.2
+413 Bigelow St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+120 Valley Hi Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+5501 Jane St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+216 Seabright St,Pittsburgh,PA,2,4.5,2,8,5,1
+25 Edith Pl,Pittsburgh,PA,75,3.925,1.45,42,3.719,2
+101 Marshall Dr,Pittsburgh,PA,1,-1,-1,5,-1,-1
+223 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,45,3.559,1.824
+140 E Francis Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+3821 Greensburg Pike,Pittsburgh,PA,2,3.5,1,3,-1,-1
+2318 Birtley Ave,Pittsburgh,PA,20,3.706,1.235,14,4.25,2.5
+710 Filmore Rd,Pittsburgh,PA,0,-1,-1,5,-1,-1
+80 Duncan Ave,Pittsburgh,PA,16,3.6,1.4,23,3.929,1.714
+105 E Genessee St,Pittsburgh,PA,9,2.833,1,14,4.667,2.667
+7919 Lloyd Ave,Pittsburgh,PA,12,3.75,1.667,76,4.471,1.824
+424 Willock Ave,Pittsburgh,PA,0,-1,-1,2,-1,-1
+1907 Lafayette St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+219 Labelle St,Pittsburgh,PA,27,3.675,2.05,7,3.75,1.75
+748 Riehl Dr,Pittsburgh,PA,8,3.312,1.5,11,3.375,2.5
+128 Brunner Dr,Pittsburgh,PA,0,-1,-1,4,2,1
+2059 Monongahela Ave,Pittsburgh,PA,28,3.324,1.412,99,4.25,1.722
+964 Jackman Ave,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+1342 Malvern Ave,Pittsburgh,PA,12,3.3,1,6,3.833,1.667
+401 Aisbett Way,Pittsburgh,PA,13,4.1,1.8,21,4.208,1.417
+146 E Francis Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+134 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+737 Brafferton Dr,Pittsburgh,PA,7,3.3,1.4,9,4,2
+4336 Glen Lytle Rd,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+112 Eton Dr,Pittsburgh,PA,4,3.5,1.333,13,3.812,1.875
+7017 Grand Ave,Pittsburgh,PA,2,-1,-1,4,-1,-1
+3803 Rural Ct W,Pittsburgh,PA,0,-1,-1,3,-1,-1
+617 Linda Dr,Pittsburgh,PA,4,3.333,1.333,7,3.5,1
+1241 Page St,Pittsburgh,PA,33,3.528,1.5,39,4.714,2.286
+7800 Perry Hwy,Pittsburgh,PA,12,3.75,1.375,60,4.346,2.385
+887 E Arcadia Dr,Pittsburgh,PA,12,3.208,1.583,19,3.227,2
+2805 Homehurst Ave,Pittsburgh,PA,6,3.417,1.5,6,3.75,1.5
+2021 Lowrie St,Pittsburgh,PA,10,3.4,1.6,13,2.25,1.5
+6219 Nicholson St,Pittsburgh,PA,59,4.075,1.65,78,4.278,2.111
+1210 Michael Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+781 Elm Spring Rd,Pittsburgh,PA,13,2.923,1.769,14,3.611,2
+209 Clay St,Pittsburgh,PA,17,3.562,1.375,32,4.75,2
+2414 Pioneer Ave,Pittsburgh,PA,26,3.684,1.263,15,4.4,2.2
+751 Riehl Dr,Pittsburgh,PA,9,3.5,1.556,9,3,2.5
+1428 Jefferson Heights Rd,Pittsburgh,PA,3,3.75,1.5,4,4,2
+6929 Hamilton Ave,Pittsburgh,PA,10,4.4,1.4,18,4.75,2
+3917 Howley St,Pittsburgh,PA,69,3.975,1.9,66,4.675,1.95
+7 Reserve St,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+4319 Tesla St,Pittsburgh,PA,10,3.5,1.222,13,4.357,1.857
+1416 Fallowfield Ave,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+126 Blackhawk St,Pittsburgh,PA,10,3.214,1.143,16,3.091,2
+6435 Nicholson St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+143 Hidden Valley Dr,Pittsburgh,PA,9,3.2,1.2,12,4,1.714
+1318 Arrowood Dr,Pittsburgh,PA,2,3,2,3,1,2
+303 Miltenberger St,Pittsburgh,PA,99,4.25,1.8,136,4.289,1.895
+123 Conover Rd,Pittsburgh,PA,17,3.179,1.357,45,4,2.312
+1515 Rutherford Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+114 7th St,Pittsburgh,PA,7,3.667,1.5,11,4.5,2
+1130 Gilchrest Dr,Pittsburgh,PA,2,4,1,7,4,2
+2039 Moredale St,Pittsburgh,PA,3,3.667,1.333,5,3,1.667
+2010 Tustin St,Pittsburgh,PA,98,4.2,1.8,139,4.263,1.842
+869 Reserve St,Pittsburgh,PA,12,4.143,1.571,70,4.433,2.067
+1709 Locust St,Pittsburgh,PA,96,4.25,1.8,138,4.263,1.842
+4736 Mckee Dr,Pittsburgh,PA,4,4.167,1.667,5,3,2
+1620 Durbin St,Pittsburgh,PA,7,3.667,1.5,14,-1,-1
+105 Bradley Ct,Pittsburgh,PA,0,-1,-1,4,3.5,2
+5758 Kentucky Ave,Pittsburgh,PA,52,4.025,2.1,118,4.3,2.45
+962 Jackman Ave,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+114 Biddle Ave,Pittsburgh,PA,14,3.792,1.583,21,4.071,2.143
+2435 Woodward Ave,Pittsburgh,PA,24,3.684,1.263,15,4.4,2.2
+116 Ulysses St,Pittsburgh,PA,62,4.025,2.3,30,3.786,2.071
+12707 Frankstown Rd,Pittsburgh,PA,13,4,1.333,17,5,2
+2215 Starkamp St,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+900 Grandview Ave,Pittsburgh,PA,29,3.725,1.95,10,3.583,1.833
+104 5th Ave,Pittsburgh,PA,10,3.722,1.556,15,4.375,1.75
+7310 Church St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+809 White Oak Cir,Pittsburgh,PA,14,3.722,1.778,76,4.406,2.125
+121 Beech Rd,Pittsburgh,PA,1,-1,-1,0,-1,-1
+65 Schley Ave,Pittsburgh,PA,16,3.636,1.455,23,3.929,1.714
+321 N Fairmount St,Pittsburgh,PA,36,3.95,2.1,72,4.179,2.429
+1214 Brighton Rd,Pittsburgh,PA,52,3.947,1.737,25,4.5,2
+65 Fountain St,Pittsburgh,PA,31,4.059,1.529,22,4.2,2
+3254 Shadyway Dr,Pittsburgh,PA,8,3.5,1.333,13,4,2
+46 Rochester Rd,Pittsburgh,PA,20,3.231,1.385,31,4.045,1.455
+614 Driftwood Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+920 Oakdale Ave,Pittsburgh,PA,9,3.389,1.444,14,3.5,2.4
+97 Evans Ave,Pittsburgh,PA,12,3.611,1.333,21,3.929,1.714
+107 Mulkerin Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+1518 Evan Dr,Pittsburgh,PA,2,-1,-1,5,-1,-1
+1311 Methyl St,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+1740 S Shore Ct,Pittsburgh,PA,95,4.25,1.75,92,4.263,1.842
+815 Argonne Ave,Pittsburgh,PA,4,2.5,1,12,5,2
+1306 Arrowood Dr,Pittsburgh,PA,2,3,2,3,1,2
+351 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+53 Beltzhoover Ave,Pittsburgh,PA,21,3.615,1.538,21,4.25,2
+1725 Hallowell St,Pittsburgh,PA,3,3.667,1.333,5,3,1.667
+225 Davis Ave,Pittsburgh,PA,7,4.167,1.667,55,4.533,2.133
+1717 Grove Crest Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+2306 Tilbury Ave,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+1713 Michael Dr 112a 112a 112a,Pittsburgh,PA,3,3.5,1,1,-1,-1
+223 Erhardt Dr,Pittsburgh,PA,3,2.5,1,13,2.667,2
+1003 Agnew Rd,Pittsburgh,PA,1,-1,-1,0,-1,-1
+101 Elias Dr,Pittsburgh,PA,3,2.5,1,13,2.667,2
+4750 Hamilton Rd,Pittsburgh,PA,3,3.75,1.5,2,3,2
+323 Howard Dr,Pittsburgh,PA,32,3.421,1.737,137,3.917,2.389
+430 Ryndwood Rd,Pittsburgh,PA,10,3.75,1.375,26,4.417,2.333
+7211 Pine Way,Pittsburgh,PA,5,3.75,1.75,8,5,2
+107 Morewood Ave,Pittsburgh,PA,77,4.125,1.85,55,4.053,1.842
+2 Lear Dr,Pittsburgh,PA,6,3.375,1.25,6,-1,-1
+1208 Gallupe Dr,Pittsburgh,PA,7,4.3,1.4,9,4.75,3
+3289 Dawson St 10,Pittsburgh,PA,75,3.925,1.45,42,3.719,2
+1245 Gallupe Dr,Pittsburgh,PA,5,4.5,1.667,7,5,4
+45 N Duane St,Pittsburgh,PA,13,3.6,1.4,19,3.929,1.714
+1235 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+7312 Front River Rd,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+3207 Glendale Ave,Pittsburgh,PA,22,3.909,1.364,84,4.5,2
+1250 Orangewood Ave,Pittsburgh,PA,4,3.25,1,7,5,2
+1533 Orchardview Dr,Pittsburgh,PA,3,2.5,1.5,7,3.375,2
+3286 Dawson St,Pittsburgh,PA,66,3.9,1.5,39,3.667,1.933
+29 Hemingway St,Pittsburgh,PA,82,4.1,1.8,60,4.211,1.789
+920 Maryland Ave,Pittsburgh,PA,57,4.025,2.15,123,4.3,2.45
+635 Kewanna Ave,Pittsburgh,PA,11,3.4,1.6,29,4.115,1.846
+1304 Tyndall St,Pittsburgh,PA,4,-1,-1,8,-1,-1
+4703 Gardenville Rd,Pittsburgh,PA,8,3.875,1.75,13,2,2
+112 7th St,Pittsburgh,PA,7,3.667,1.5,10,4,2
+4315 Tesla St,Pittsburgh,PA,9,3.438,1.125,13,4.357,1.857
+1678 Ballinger St,Pittsburgh,PA,3,3.75,1.5,6,3,1.667
+3 E Sycamore St,Pittsburgh,PA,81,3.925,1.85,61,4,2.067
+125 Orchard Pl,Pittsburgh,PA,22,3.577,1.385,26,4,1.5
+1310 Squirrel Hill Ave,Pittsburgh,PA,22,3.625,1.562,47,4.105,2.421
+218 Mcmonagle Ave,Pittsburgh,PA,6,2.625,1.5,15,2.833,2.667
+63 Stancey Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+1514 Fleck St,Pittsburgh,PA,15,3.722,1.556,26,3.6,2
+20 Garden Ter,Pittsburgh,PA,2,3.5,1,5,-1,-1
+160 Seneca Dr,Pittsburgh,PA,8,3.25,2,31,2.962,2.462
+1821 Sillview Dr,Pittsburgh,PA,3,4,1.667,11,2.75,2
+1349 Pinewood Dr,Pittsburgh,PA,2,3,2,3,1,2
+822 Rolling Rock Rd,Pittsburgh,PA,6,3.417,1.333,12,3.5,2.75
+3058 Brereton St,Pittsburgh,PA,20,4.227,1.818,44,4.367,1.933
+1452 Greentree Rd,Pittsburgh,PA,3,2.5,1.5,8,3.375,2
+305 Golf Dr,Pittsburgh,PA,1,3.5,2,2,3.75,2.5
+6607 Grand Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+915 Edgewood Ave,Pittsburgh,PA,9,3.556,1.444,13,3.5,2.4
+701 Jefferson Dr,Pittsburgh,PA,14,3.182,1.364,18,4.125,1.375
+499 Geyser Rd,Pittsburgh,PA,2,-1,-1,17,1.5,3
+1221 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+5471 Kincaid St,Pittsburgh,PA,45,4.1,2.15,81,4.167,2.333
+4907 Rosetta St,Pittsburgh,PA,44,4.15,1.85,43,4.278,1.722
+121 Vista St,Pittsburgh,PA,16,3.667,1.333,63,4.562,2.062
+176 Promenade St,Pittsburgh,PA,0,-1,-1,2,-1,-1
+1231 Adon St,Pittsburgh,PA,4,-1,-1,7,-1,-1
+129 Lafayette Ave,Pittsburgh,PA,8,3.5,1.714,9,4.5,1.5
+511 Transverse Ave,Pittsburgh,PA,20,3.111,1.111,23,3.75,1.5
+2035 Eggers St,Pittsburgh,PA,10,3.4,1.6,15,2.25,1.5
+1014 Towervue Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+739 Artvue Dr,Pittsburgh,PA,2,3,2,5,1,2
+132 Hidden Valley Dr,Pittsburgh,PA,14,3.111,1.333,19,3.778,1.556
+3219 Nottingham Dr,Pittsburgh,PA,1,-1,-1,7,-1,-1
+100 Eton Dr,Pittsburgh,PA,1,4,2,1,-1,-1
+206 Amanda Ave,Pittsburgh,PA,23,3.577,1.385,27,4,1.6
+118 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+14 Mitchell Dr,Pittsburgh,PA,32,3.421,1.737,139,3.972,2.389
+382 Greenway Dr,Pittsburgh,PA,3,-1,-1,8,-1,-1
+44 Emma Dr,Pittsburgh,PA,9,2.714,1.286,16,4,2
+169 Walton Rd,Pittsburgh,PA,3,3.5,1,0,-1,-1
+321 Dewey Avenue Ext,Pittsburgh,PA,8,4.167,1.667,63,4.562,2.062
+501 Grandview Ave,Pittsburgh,PA,71,3.975,2.25,41,3.778,2.167
+6901 Thomas Blvd,Pittsburgh,PA,13,3.889,1.444,33,4.7,2.3
+2109 Columbia Ave,Pittsburgh,PA,28,3.294,1.412,99,4.25,1.778
+618 Driftwood Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+232 Ella St,Pittsburgh,PA,74,4.1,1.75,58,4.421,1.947
+956 Jackman Ave,Pittsburgh,PA,30,3.444,1.333,96,4.406,1.875
+414 Pasadena Dr N,Pittsburgh,PA,0,-1,-1,6,-1,-1
+2333 Hazelton St,Pittsburgh,PA,1,-1,-1,3,-1,-1
+631 Kewanna Ave,Pittsburgh,PA,11,3.4,1.6,29,4.115,1.846
+148 Walton Rd,Pittsburgh,PA,3,3.5,1,0,-1,-1
+5050 Windover Dr,Pittsburgh,PA,1,-1,-1,14,1.5,3
+4361 Cyril Dr,Pittsburgh,PA,0,-1,-1,27,4.6,2.2
+4610 Friendship Ave,Pittsburgh,PA,67,4.1,1.75,58,4.342,1.895
+171 Connie Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+4329 Mccaslin St,Pittsburgh,PA,9,3.438,1.125,11,4.357,1.857
+5505 Broad St,Pittsburgh,PA,52,4.1,2.2,94,4.219,2.438
+1325 Firwood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+206 Dewey Avenue Ext,Pittsburgh,PA,8,4.167,1.667,60,4.562,2.062
+1627 Duffield St,Pittsburgh,PA,3,4.25,1.5,6,3,1
+4048 Cabinet St,Pittsburgh,PA,75,4.05,1.8,66,4.525,2
+204 Nebraska Ave,Pittsburgh,PA,3,2.5,1,1,-1,-1
+7411 Richland Manor Dr,Pittsburgh,PA,11,4.25,1.5,13,4.667,2
+309 Biddle Ave,Pittsburgh,PA,22,3.794,1.529,32,4.222,2.111
+1356 Washington Rd,Pittsburgh,PA,13,3.722,1.889,95,4.147,2.176
+178 Connie Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+3054 Fadette St,Pittsburgh,PA,3,-1,-1,6,-1,-1
+2434 Smallman St 213,Pittsburgh,PA,64,4.175,1.65,65,4.222,2.278
+4331 Tesla St,Pittsburgh,PA,10,3.5,1.222,13,4.357,1.857
+442 Dawson Ave,Pittsburgh,PA,23,3.607,1.5,85,4.3,1.933
+51 Bethany Dr B,Pittsburgh,PA,12,2.9,1.3,19,2.75,1.75
+622 Driftwood Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+1920 Monroe St,Pittsburgh,PA,27,3.176,1.353,96,4.111,1.778
+633 Field Club Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+122 N Woodland Rd,Pittsburgh,PA,50,4.125,2.25,83,4.167,2.667
+6914 Bishop St,Pittsburgh,PA,13,4.143,1.857,65,4.438,2
+221 E Garden Rd,Pittsburgh,PA,22,3.909,1.364,86,4.429,2.143
+1310 Arrowood Dr,Pittsburgh,PA,2,3,2,3,1,2
+714 Stanton Ave,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+223 Virginia Ave,Pittsburgh,PA,58,3.8,2.1,35,3.5,1.9
+1716 Manhattan St,Pittsburgh,PA,17,2.8,1.2,21,5,2
+251 Von Stein Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+40 N Jackson Ave,Pittsburgh,PA,27,3.656,1.375,86,4.214,1.929
+552 N Neville St 62,Pittsburgh,PA,115,4,1.65,55,3.947,2.158
+9307 Highland Rd,Pittsburgh,PA,4,3.75,2,28,4.55,1.8
+1808 Sillview Dr,Pittsburgh,PA,3,4,1.667,12,3.333,1.667
+64 N Jackson Ave,Pittsburgh,PA,27,3.656,1.375,86,4.214,1.929
+121 Merriman Mews,Pittsburgh,PA,92,4.3,1.8,95,4.211,1.789
+343 Jackson Rd,Pittsburgh,PA,2,2.5,1,2,-1,-1
+2325 Glenarm Ave,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+109 E Genessee St,Pittsburgh,PA,9,2.833,1,14,4.667,2.667
+7913 Tioga St,Pittsburgh,PA,30,3.625,1.5,93,4.647,1.941
+1427 Jefferson Heights Rd,Pittsburgh,PA,3,3.75,1.5,4,4,2
+145 Moultrie St,Pittsburgh,PA,13,3.875,1.5,68,4.458,2.167
+155 Southern Ave,Pittsburgh,PA,37,3.675,1.8,20,3.7,2
+79 Schley Ave,Pittsburgh,PA,15,3.6,1.4,23,3.929,1.714
+422 Fairway Dr,Pittsburgh,PA,5,3.75,1,12,4,2
+217 Dinwiddie St,Pittsburgh,PA,23,3.818,1.727,70,4.409,2.182
+2537 Woodward Ave,Pittsburgh,PA,26,3.6,1.3,20,4.143,2.571
+3363 Monroe St,Pittsburgh,PA,7,4,1.667,23,4.357,1.571
+2722 Stromberg St,Pittsburgh,PA,58,3.95,1.9,61,4.025,2.05
+133 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,26,3.95,1.4
+1303 Orangewood Ave,Pittsburgh,PA,6,3.667,1,7,5,2
+5107 Grand Ave,Pittsburgh,PA,5,3.25,1.5,1,4,1
+201 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+31 Dundee Ct,Pittsburgh,PA,0,-1,-1,27,4.6,2.2
+840 Londonderry Dr,Pittsburgh,PA,10,3.35,1.5,9,3,2.5
+540 N Neville St 603,Pittsburgh,PA,115,4,1.65,55,4,2.15
+244 Phillips Ave,Pittsburgh,PA,5,3.25,1.5,1,4,1
+2323 Sherbrook St,Pittsburgh,PA,63,4.075,1.65,84,4.278,2.056
+825 Morewood Ave H3,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+1900 Woodward Ave,Pittsburgh,PA,8,3.1,1.2,8,3.5,3
+210 Gibson Ln,Pittsburgh,PA,4,2.5,1,4,-1,-1
+1640 Duffield St,Pittsburgh,PA,4,4.333,2,6,3,1
+1530 Rutherford Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+103 Morewood Ave,Pittsburgh,PA,77,4.125,1.9,48,4.029,2
+1330 Washington Rd,Pittsburgh,PA,13,3.722,1.889,95,4.147,2.176
+117 Stilwell Ct,Pittsburgh,PA,4,3,1.75,13,4.8,2
+1716 Tustin St,Pittsburgh,PA,96,4.25,1.8,137,4.263,1.842
+36 Cobb Ave,Pittsburgh,PA,23,3.786,1.5,54,4.265,1.824
+5825 5th Ave 118,Pittsburgh,PA,10,3.611,1.556,13,4,2
+98 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+751 Pinetree Rd,Pittsburgh,PA,24,3.211,1.789,19,3.5,2.111
+208 Nebraska Ave,Pittsburgh,PA,3,2.5,1,1,-1,-1
+4065 Vinceton St,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+8 Enfield St,Pittsburgh,PA,76,4.15,1.85,48,4.031,1.938
+1215 W N Ave,Pittsburgh,PA,2,4.25,1.5,4,-1,-1
+3226 Beechdale St,Pittsburgh,PA,13,3.5,1.167,22,4.5,1.5
+713 Klemont Ave,Pittsburgh,PA,2,4.5,1,4,5,2
+3248 Faronia St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+621 Louann St,Pittsburgh,PA,3,1.5,1,8,5,2
+1766 Arlington Ave,Pittsburgh,PA,17,3.125,1.25,24,3.667,1.333
+3217 Shadyway Dr,Pittsburgh,PA,9,3.5,1.333,14,4.5,1.5
+5708 Interboro Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2051 Straubs Ln,Pittsburgh,PA,10,3.4,1.6,11,1,2
+211 New Haven Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+841 Elm Spring Rd,Pittsburgh,PA,23,3.222,1.778,15,3.571,2.143
+15 E Sycamore St,Pittsburgh,PA,79,3.9,2,62,3.929,2.071
+1313 Methyl St,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+43 S Euclid Ave,Pittsburgh,PA,54,4.075,2.15,105,4,2.375
+351 Clair Dr,Pittsburgh,PA,33,3.45,1.75,139,3.938,2.5
+34 Glen Ridge Ln,Pittsburgh,PA,22,3.294,1.824,13,3.3,2.2
+142 Blackhawk St,Pittsburgh,PA,10,3.071,1.143,18,3.091,2
+2620 Pioneer Ave,Pittsburgh,PA,18,3.625,1.25,16,4.143,2.571
+121 Marshall Dr,Pittsburgh,PA,5,-1,-1,13,3.25,2.5
+3224 Shadyway Dr,Pittsburgh,PA,9,3.5,1.333,14,4.5,1.5
+380 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+1616 Morningside Ave,Pittsburgh,PA,9,4.071,2,6,3,1
+824 Robb Hollow Rd,Pittsburgh,PA,2,3,2,4,1,2
+6913 Greenwood St,Pittsburgh,PA,13,4.143,1.857,65,4.438,2
+3304 Ward St,Pittsburgh,PA,77,3.95,1.4,45,3.765,2
+5903 5th Ave 110,Pittsburgh,PA,10,3.667,1.556,13,3.75,1.5
+161 Palmer Rd,Pittsburgh,PA,2,3.5,2,5,-1,-1
+227 S Home Ave 511,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+7445 Ben Hur St,Pittsburgh,PA,9,4.143,1.429,12,4.667,2
+145 Catskill Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+1216 Juniata St,Pittsburgh,PA,24,3.265,1.353,38,4.833,2
+2194 Beulah Rd,Pittsburgh,PA,6,3.375,1.25,5,-1,-1
+3261 Shadyway Dr,Pittsburgh,PA,5,3.75,1,12,4,2
+820 Mifflin Ave,Pittsburgh,PA,18,3.857,1.571,29,4.188,2
+225 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,46,3.559,1.824
+421 Clair Dr,Pittsburgh,PA,21,3.294,1.765,63,3.625,2.562
+705 Fitzgerald St,Pittsburgh,PA,85,4.125,1.75,65,4.211,1.789
+130 Riverview Ter,Pittsburgh,PA,21,3.333,1.467,39,3.526,1.789
+1445 Orchardview Dr,Pittsburgh,PA,2,3,2,6,3.25,2
+716 New Texas Rd,Pittsburgh,PA,3,4.25,2,2,5,2
+547 Teece Ave,Pittsburgh,PA,27,3.688,1.438,85,4.321,2
+338 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+723 Savannah Ave,Pittsburgh,PA,21,3.781,1.5,23,4.125,2
+116 Hidden Valley Dr,Pittsburgh,PA,14,3.222,1.333,17,4.056,1.556
+605 Little Pine Creek Rd,Pittsburgh,PA,2,-1,-1,8,5,2
+1783 Norsen Dr,Pittsburgh,PA,3,4,1.667,10,2.167,2
+5903 5th Ave 305,Pittsburgh,PA,62,4.05,2.15,114,4.225,2.55
+4554 Friendship Ave,Pittsburgh,PA,69,4.15,1.7,55,4.474,2.053
+756 Thornwick Dr,Pittsburgh,PA,2,3,2,6,1,2
+232 Scott Rd,Pittsburgh,PA,4,3,1.5,6,-1,-1
+1482 Great Oak Dr,Pittsburgh,PA,2,2.5,1.5,7,3.375,2
+1239 Malvern Ave,Pittsburgh,PA,25,3.618,1.529,48,4.105,2.421
+3755 Margate Rd,Pittsburgh,PA,0,-1,-1,3,-1,-1
+3856 Rural Ct W,Pittsburgh,PA,3,3.75,1.5,2,-1,-1
+5903 5th Ave 101,Pittsburgh,PA,11,3.7,1.5,16,4.375,1.75
+602 Orchard Hill Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+2712 Robertson Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+1338 Malvern Ave,Pittsburgh,PA,12,3.3,1,6,3.833,1.667
+129 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+934 Jackman Ave,Pittsburgh,PA,26,3.444,1.333,93,4.406,1.938
+26 Emma Dr,Pittsburgh,PA,8,2.667,1.333,15,4.333,2
+138 N Woodland Rd,Pittsburgh,PA,50,4.075,2.2,84,4.056,2.556
+5456 Rosetta St,Pittsburgh,PA,41,4.05,2,78,4.167,2.267
+Reed St,Pittsburgh,PA,32,4.143,1.571,71,4.3,2.333
+119 Snowden Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+103 Biddle Ave,Pittsburgh,PA,14,3.692,1.538,19,3.917,2.167
+118 Hidden Valley Dr,Pittsburgh,PA,14,3.222,1.333,20,3.9,1.5
+1952 Antietam St,Pittsburgh,PA,16,4.071,1.714,68,4.4,2
+154 Nottingham Dr,Pittsburgh,PA,3,4.5,2,21,1.5,3
+411 Gaywood Cir,Pittsburgh,PA,17,3.182,1.727,87,3.594,2.375
+1622 Morningside Ave,Pittsburgh,PA,9,4.071,2,6,3,1
+1455 Cathell Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+818 Middle Rd,Pittsburgh,PA,7,3.357,1.429,13,3.5,2.4
+144 Riverview Ter,Pittsburgh,PA,20,3.25,1.429,37,3.553,1.789
+113 Cabin Ln,Pittsburgh,PA,2,4,1,34,4.125,2.375
+12 Butterfield Ave,Pittsburgh,PA,10,4.3,1.4,65,4.531,2
+34 Schubert St,Pittsburgh,PA,4,4.5,1.5,8,-1,-1
+237 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+302 Aidyl Ave,Pittsburgh,PA,28,3.775,1.2,37,3.923,2.154
+424 Maxwell St,Pittsburgh,PA,12,3.667,1.333,18,3.929,1.714
+609 Eureka St,Pittsburgh,PA,21,3.615,1.538,22,3.6,2.4
+6921 Bishop St,Pittsburgh,PA,14,4.143,1.857,67,4.438,2
+4658 Rosina Way,Pittsburgh,PA,69,4.175,1.7,55,4.474,2.053
+36 Mazer St,Pittsburgh,PA,5,4.75,2,60,4.333,2
+224 Emerson Ave,Pittsburgh,PA,24,3.567,1.667,93,4.206,2.059
+7127 Grand Ave,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+4714 Mckee Dr,Pittsburgh,PA,4,4.167,1.667,8,3,2
+919 Savannah Ave,Pittsburgh,PA,21,3.588,1.529,32,3.773,1.818
+726 Ravenswood Ave,Pittsburgh,PA,1,4.5,1,4,5,2
+115 Bartley Rd,Pittsburgh,PA,39,3.425,1.8,195,4,2.529
+834 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,13,3.5,2.4
+51 Fountain St,Pittsburgh,PA,32,4.176,1.529,23,4.2,2
+1147 Oblock Rd,Pittsburgh,PA,4,4.25,2,2,-1,-1
+1916 Woodward Ave,Pittsburgh,PA,12,3.333,1.222,9,3.5,3
+4745 Gardenville Rd,Pittsburgh,PA,4,4.167,1.667,5,3,2
+214 Timber Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+81 Evans Ave,Pittsburgh,PA,14,3.611,1.333,22,3.929,1.714
+227 S Home Ave 710,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+315 Evergreen Ave,Pittsburgh,PA,18,4.042,1.583,81,4.469,2.062
+310 Aidyl Ave,Pittsburgh,PA,27,3.763,1.211,37,3.923,2.154
+3445 Clearfield St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+5825 5th Ave 108,Pittsburgh,PA,10,3.667,1.556,13,3.75,1.5
+2326 Mount Troy Rd,Pittsburgh,PA,13,4.357,1.571,75,4.433,2.067
+844 Eisenhower Dr,Pittsburgh,PA,6,4.333,2,68,4.4,2.2
+109 Mccaw Dr,Pittsburgh,PA,5,2.5,2,9,-1,-1
+5728 Villa Haven Dr,Pittsburgh,PA,2,3.75,1.5,3,3,2
+180 Shadow Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+142 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+216 Oak Ln,Pittsburgh,PA,5,3.833,1.667,4,-1,-1
+916 Spring Way,Pittsburgh,PA,15,4.4,1.8,86,4.607,2
+1436 Jefferson Heights Rd,Pittsburgh,PA,6,2.875,1.25,5,4,1.5
+7018 Hamilton Ave,Pittsburgh,PA,12,4.333,1.333,17,4.667,2
+148 Stilwell Ct,Pittsburgh,PA,3,2.833,1.667,15,4.333,2
+315 Howard Dr,Pittsburgh,PA,33,3.421,1.737,145,4,2.412
+912 S Trenton Ave,Pittsburgh,PA,20,3.867,1.6,37,4.091,2
+708 Lamar Ave,Pittsburgh,PA,37,3.889,1.556,98,4.474,2.105
+23 Swiss Mt,Pittsburgh,PA,0,-1,-1,0,-1,-1
+38 Kenneth Dr,Pittsburgh,PA,9,2.714,1.286,20,4,2
+825 Morewood Ave E E,Pittsburgh,PA,80,3.825,1.75,85,4.225,2.3
+270 Laveton St,Pittsburgh,PA,28,3.714,1.357,96,4.367,2.067
+1601 Duffield St,Pittsburgh,PA,3,4.25,1.5,6,3,1
+12715 Frankstown Rd,Pittsburgh,PA,12,4,1.333,16,5,2
+1703 Reed St,Pittsburgh,PA,38,3.618,1.706,77,4.375,2.167
+5742 5th Ave 202,Pittsburgh,PA,49,4.025,2.1,111,4.25,2.45
+736 Stanton Ave,Pittsburgh,PA,16,4.045,1.545,77,4.469,2.062
+324 Cross Creek Ct,Pittsburgh,PA,12,3.222,1.333,12,3.929,1.571
+100 De Arment Pkwy,Pittsburgh,PA,32,3.421,1.737,138,4,2.412
+530 Mount Royal Blvd,Pittsburgh,PA,4,2.25,1,12,5,2
+4919 Kincaid St,Pittsburgh,PA,43,4.125,1.8,43,4.278,1.722
+1297 Lakemont Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+915 Sadowski Ave,Pittsburgh,PA,17,3.562,1.375,31,4.167,2
+727 Whitney Ave,Pittsburgh,PA,29,3.75,1.571,89,4.559,1.941
+140 Stilwell Ct,Pittsburgh,PA,3,2.833,1.667,14,4.5,2
+112 8th Ave,Pittsburgh,PA,7,3.5,1.4,16,4.75,1.75
+720 New Texas Rd,Pittsburgh,PA,4,4.25,2,2,5,2
+110 Cobb Ave,Pittsburgh,PA,13,3.6,1.4,20,3.929,1.714
+1713 Grove Crest Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1425 Terrace Dr,Pittsburgh,PA,18,3.769,1.846,112,4.219,2.5
+2113 Lautner St,Pittsburgh,PA,10,3.4,1.6,13,1,2
+121 Ivory Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+210 Maxwell St,Pittsburgh,PA,24,3.786,1.5,53,4.265,1.824
+9283 N Florence Rd,Pittsburgh,PA,1,3,2,4,-1,-1
+205 Idaho Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+320 Fort Duquesne Blvd 5d,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+38 Schubert St,Pittsburgh,PA,4,4.5,1.5,8,-1,-1
+1474 Great Oak Dr,Pittsburgh,PA,1,3,2,5,3.25,2
+3230 Shadyway Dr,Pittsburgh,PA,9,3.5,1.333,14,4.5,1.5
+309 Elsdon St,Pittsburgh,PA,1,-1,-1,7,5,1
+147 North Dr,Pittsburgh,PA,1,3,2,2,5,3
+1818 Plainview Ave,Pittsburgh,PA,7,3.25,1,6,-1,-1
+5222 Forbes Ave,Pittsburgh,PA,17,3.3,1.4,34,4.176,2.529
+7103 Church St,Pittsburgh,PA,17,3.071,1.286,34,3.045,1.636
+210 Springhouse Ln,Pittsburgh,PA,0,-1,-1,33,3.944,2.556
+309 Oregon St,Pittsburgh,PA,11,3.8,1.2,18,5,3
+5744 Kentucky Ave,Pittsburgh,PA,52,4.025,2.1,119,4.275,2.45
+116 Ridgway Ct,Pittsburgh,PA,5,4.75,2,63,4.3,2.2
+404 Clair Dr,Pittsburgh,PA,27,3.444,1.722,83,3.625,2.375
+141 Highview Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+7005 Vivianna St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+6907 Standish St,Pittsburgh,PA,19,4.125,1.75,71,4.438,2
+120 Amanda Ave,Pittsburgh,PA,23,3.577,1.385,26,4,1.5
+836 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,13,3.5,2.4
+7006 Grand Ave,Pittsburgh,PA,2,-1,-1,4,-1,-1
+3240 Middletown Rd,Pittsburgh,PA,2,-1,-1,4,-1,-1
+1764 Moynelle Dr,Pittsburgh,PA,3,4,1.667,10,2.167,2
+4073 Cabinet St,Pittsburgh,PA,71,4.05,1.75,64,4.5,2.05
+704 New Texas Rd,Pittsburgh,PA,2,4.25,2,0,-1,-1
+1519 Evanston St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+9483 Saratoga Dr,Pittsburgh,PA,8,3.125,1.75,16,3.25,2.25
+2034 Eggers St,Pittsburgh,PA,10,3.4,1.6,14,2.25,1.5
+2162 Whited St,Pittsburgh,PA,5,3.875,1.25,3,3.75,1.5
+132 2nd St,Pittsburgh,PA,13,3.688,1.375,63,4.179,2.5
+210 Arizona Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+121 Ridgway Ct,Pittsburgh,PA,5,4.75,2,63,4.3,2.2
+2807 Homehurst Ave,Pittsburgh,PA,6,3.417,1.5,6,3.75,1.5
+119 Walpole Dr,Pittsburgh,PA,3,2.5,1,20,2.667,2
+1923 Lafayette St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+2537 Graham Blvd,Pittsburgh,PA,2,4.5,2,10,2.5,2
+4609 Friendship Ave,Pittsburgh,PA,65,4.075,1.75,53,4.395,1.842
+1120 Balkan Dr,Pittsburgh,PA,1,4,2,1,-1,-1
+121 Fremont St,Pittsburgh,PA,17,3.125,1.25,24,3.75,1.5
+436 Connor St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+2008 Forbes Ave,Pittsburgh,PA,86,4.15,1.7,130,4.342,1.895
+3831 Greensburg Pike,Pittsburgh,PA,3,3.75,1.5,3,-1,-1
+4321 Glen Lytle Rd,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+4104 Mary Dr,Pittsburgh,PA,14,4.286,1.429,73,4.433,2.067
+5509 Keefe St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+704 Jefferson Dr,Pittsburgh,PA,17,3.182,1.364,24,4.111,1.444
+1818 Woodward Ave,Pittsburgh,PA,8,3.1,1.2,6,-1,-1
+6930 Standish St,Pittsburgh,PA,14,4.143,1.857,65,4.438,2
+1408 Fairstead Ln,Pittsburgh,PA,6,3,1.333,10,4.333,2
+6957 Mount Vernon St,Pittsburgh,PA,9,4.167,1.333,8,-1,-1
+6932 Greenwood St,Pittsburgh,PA,13,3.9,1.9,5,3,1
+100 Falconhurst Dr N,Pittsburgh,PA,2,4,1,34,4.125,2.375
+21 Perryview Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+453 Dawson Ave,Pittsburgh,PA,24,3.667,1.467,86,4.25,1.938
+3416 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+7842 2jan Old Perry Hwy,Pittsburgh,PA,7,3.375,1.5,14,3.5,2
+124 Thornberry Dr,Pittsburgh,PA,6,3.375,1.25,5,-1,-1
+3284 Dawson St,Pittsburgh,PA,66,3.9,1.5,39,3.667,1.933
+228 Ella St,Pittsburgh,PA,69,4.1,1.75,59,4.474,2.053
+2146 Lautner St,Pittsburgh,PA,11,3.357,1.571,14,1,2
+720 Klemont Ave,Pittsburgh,PA,2,4.5,1,4,5,2
+49 Mazer St,Pittsburgh,PA,5,4.75,2,59,4.333,2
+2407 Glenarm Ave,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+711 Vermont Ave,Pittsburgh,PA,11,3.4,1.6,29,4.115,1.846
+1650 Fiat St,Pittsburgh,PA,4,4,1.333,7,3.75,1.5
+1734 S Shore Ct,Pittsburgh,PA,95,4.25,1.75,91,4.278,1.833
+110 Rochester Rd,Pittsburgh,PA,13,3.1,1.3,14,4.143,1.286
+3209 Middletown Rd,Pittsburgh,PA,4,3,2,7,-1,-1
+4772 Norma Dr,Pittsburgh,PA,3,3.75,1,2,-1,-1
+241 Church Rd,Pittsburgh,PA,20,3,1.875,112,3.912,2.059
+3912 Howley St,Pittsburgh,PA,66,3.95,1.9,64,4.65,1.95
+2041 Straubs Ln,Pittsburgh,PA,11,3.583,1.667,12,1,2
+210 Orchard St,Pittsburgh,PA,3,2.5,1,4,-1,-1
+212 Utah Ave,Pittsburgh,PA,3,2.5,1,0,-1,-1
+2344 Starkamp St,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+1406 Dagmar Ave,Pittsburgh,PA,14,3.714,1.286,4,-1,-1
+193 Connie Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+1017 Forest Ave,Pittsburgh,PA,1,-1,-1,4,5,2
+434 Connor St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+3761 Greensburg Pike,Pittsburgh,PA,0,-1,-1,3,-1,-1
+6914 Chaucer St,Pittsburgh,PA,7,3.75,1,7,-1,-1
+188 Chartiers Ave,Pittsburgh,PA,0,-1,-1,2,-1,-1
+4650 Mckee Dr,Pittsburgh,PA,9,3.9,1.8,16,3.125,1.75
+3925 Harry St,Pittsburgh,PA,72,4.1,1.85,48,4.35,2.05
+2301 Tilbury Ave,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+406 Fort Couch Rd,Pittsburgh,PA,20,3.036,1.714,101,3.9,2.6
+228 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,46,3.559,1.824
+104 Amanda Ave,Pittsburgh,PA,22,3.577,1.385,26,4,1.5
+126 Charles St,Pittsburgh,PA,23,3.577,1.385,27,4,1.6
+1518 Fallowfield Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+201 Springhouse Ln,Pittsburgh,PA,0,-1,-1,33,3.944,2.556
+6833 Meade St 17,Pittsburgh,PA,8,4.4,1.4,21,4.375,2
+198 Keifer Dr,Pittsburgh,PA,25,3.529,1.706,121,4.125,2.5
+7016 Tenner Way,Pittsburgh,PA,12,4.333,1.333,17,4.667,2
+104 Halsey Ct,Pittsburgh,PA,1,2.5,2,6,4.667,2
+433 Long Dr,Pittsburgh,PA,15,3.15,1.6,44,3.357,2.571
+6926 Kelly St,Pittsburgh,PA,10,4.4,1.4,17,4.75,2
+2449 Craftmont Ave,Pittsburgh,PA,3,3.333,1.667,12,-1,-1
+3012 Briscoe St,Pittsburgh,PA,5,3,2,8,-1,-1
+1328 Fairstead Ln,Pittsburgh,PA,6,3.083,1.333,11,5,2
+3 Pamela Dr,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+108 Bartley Rd,Pittsburgh,PA,39,3.45,1.8,198,4.029,2.412
+122 Bartley Rd,Pittsburgh,PA,34,3.425,1.7,150,4,2.412
+214 Mcmonagle Ave,Pittsburgh,PA,6,2.625,1.5,14,2.833,2.667
+1310 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+1401 Fallowfield Ave,Pittsburgh,PA,13,3.75,1.167,4,-1,-1
+3783 Greensburg Pike,Pittsburgh,PA,0,-1,-1,3,-1,-1
+9240 Highland Rd,Pittsburgh,PA,1,3,2,4,-1,-1
+201 Holmes Pl 9u 9u 9u,Pittsburgh,PA,58,3.9,1.5,32,3.615,2
+3816 Henley Dr,Pittsburgh,PA,2,3.5,1,7,-1,-1
+7728 Susquehanna St,Pittsburgh,PA,34,3.962,1.538,97,4.688,1.938
+116 Bradley Ct,Pittsburgh,PA,0,-1,-1,3,-1,-1
+106 Gist St,Pittsburgh,PA,34,3.769,1.615,88,4.385,2.077
+271 Rochester Rd,Pittsburgh,PA,3,3.833,1.333,5,4.5,2
+3723 Henley Dr,Pittsburgh,PA,0,-1,-1,5,-1,-1
+320 Fort Duquesne Blvd 10h,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+8162 Edwood Rd,Pittsburgh,PA,6,3.625,1.75,19,4.375,2
+1605 Jancey St,Pittsburgh,PA,9,4.071,2,6,3,1
+133 Conover Rd,Pittsburgh,PA,17,3.179,1.357,45,4,2.312
+5742 5th Ave 103,Pittsburgh,PA,11,3.7,1.5,16,4.375,1.75
+111 Catskill Ave,Pittsburgh,PA,29,3.867,1.333,92,4.286,2.143
+203 Joyce Dr,Pittsburgh,PA,13,4.286,1.429,73,4.433,2.067
+115 Charles St,Pittsburgh,PA,23,3.577,1.385,28,4,1.6
+124 Valley Fields Dr,Pittsburgh,PA,3,2.5,1,1,-1,-1
+3176 Ladoga St,Pittsburgh,PA,6,3.167,1.667,14,3.5,1.333
+323 W Burgess St,Pittsburgh,PA,2,4.5,2,9,5,1
+6922 Chaucer St,Pittsburgh,PA,7,3.75,1,6,-1,-1
+1726 Meadville St,Pittsburgh,PA,28,3.944,1.444,21,4.2,2
+655 Miranda Rd,Pittsburgh,PA,6,3.3,1.6,5,1.75,2
+136 Halsey Ct,Pittsburgh,PA,7,3.143,1.714,26,4.364,1.909
+5 Woodland Ter,Pittsburgh,PA,14,3.182,1.364,18,4.125,1.375
+223 Belleau St,Pittsburgh,PA,29,4,1.5,22,4.2,2
+1445 Leaside Dr,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2005 Lafayette St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+2120 Letsche St,Pittsburgh,PA,11,3.562,1.625,9,4.5,1.5
+531 Rosewood Dr,Pittsburgh,PA,6,3.9,1.4,5,4,2
+126 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+92 Adams Dr,Pittsburgh,PA,43,3.425,1.85,228,4.059,2.353
+731 Pinetree Rd,Pittsburgh,PA,24,3.211,1.789,19,3.5,2.111
+3266 Dawson St,Pittsburgh,PA,38,3.825,1.45,14,4.083,1.833
+1218 Gallupe Dr,Pittsburgh,PA,7,4.3,1.4,9,4.75,3
+801 Sebring Ave,Pittsburgh,PA,16,3.75,1.25,5,5,1
+1209 Tyndall St,Pittsburgh,PA,5,-1,-1,7,-1,-1
+216 Locust Ln,Pittsburgh,PA,27,3.556,1.722,118,4.062,2.5
+220 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+861 Killarney Dr,Pittsburgh,PA,10,3.35,1.5,13,3.5,2.4
+141 College Ave,Pittsburgh,PA,3,3,1.5,3,-1,-1
+1265 Gallupe Dr,Pittsburgh,PA,4,4.5,1.667,7,3.75,1.5
+2402 Bellwood Ct,Pittsburgh,PA,0,-1,-1,1,-1,-1
+2205 Lynnbrook Ave,Pittsburgh,PA,2,4.5,1,5,3.75,1.5
+333 Long Dr,Pittsburgh,PA,41,3.45,1.8,217,4.125,2.375
+2311 Glenarm Ave,Pittsburgh,PA,17,3.929,1.214,14,4.25,2.5
+3943 Liberty Ave,Pittsburgh,PA,75,3.975,1.95,68,4.625,2
+142 Seneca Dr,Pittsburgh,PA,6,3.25,1.833,30,2.962,2.462
+942 Mckinley Ter,Pittsburgh,PA,2,4.5,2,2,-1,-1
+127 8th Ave,Pittsburgh,PA,9,3.643,1.571,15,4.667,1.667
+320 Fort Duquesne Blvd 8g,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+5362 Tomfran Dr,Pittsburgh,PA,5,3.875,1.25,6,4,2
+2002 Forbes Ave,Pittsburgh,PA,87,4.175,1.7,132,4.342,1.895
+211 Southern Ave,Pittsburgh,PA,22,3.647,1.529,11,3.667,1.833
+209 Labelle St,Pittsburgh,PA,27,3.675,2.05,7,3.75,1.75
+135 Springhouse Ln,Pittsburgh,PA,1,3,2,34,4.05,2.6
+2003 Lafayette St,Pittsburgh,PA,27,3.176,1.353,96,4.111,1.778
+140 Hidden Valley Dr,Pittsburgh,PA,13,3.062,1.25,14,3.938,1.625
+4338 Haldane St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+760 Somerville Dr,Pittsburgh,PA,2,3,2,5,1,2
+525 Rodgers Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+188 Alma St,Pittsburgh,PA,3,1.5,1,12,5,2
+1146 Margray St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+5331 Tomfran Dr,Pittsburgh,PA,6,3.9,1.4,8,4,2
+6334 Crombie St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+1634 Fiat St,Pittsburgh,PA,4,4,1.333,7,3.75,1.5
+1130 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+103 Falconhurst Dr N,Pittsburgh,PA,2,4,1,34,4.125,2.375
+215 Wick St,Pittsburgh,PA,22,3.889,1.556,71,4.409,2.182
+7035 Penn Ave,Pittsburgh,PA,10,4.4,1.4,17,4.75,2
+1316 Firwood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+153 Fieldgate Dr,Pittsburgh,PA,28,3.158,1.684,132,3.969,2.375
+428 Fairway Dr,Pittsburgh,PA,5,3.75,1,10,4,2
+2005 Ley St,Pittsburgh,PA,11,3.583,1.667,14,2.25,1.5
+61 Waterfront Dr,Pittsburgh,PA,26,3.8,1.733,45,4.273,2.091
+1111 Shreve St,Pittsburgh,PA,2,3,1,2,-1,-1
+923 Valleyview Rd,Pittsburgh,PA,21,3.312,1.875,18,3.444,2
+13 Dawson Ct,Pittsburgh,PA,33,3.725,1.5,10,3.875,1.75
+102 Beech Rd,Pittsburgh,PA,1,-1,-1,0,-1,-1
+1406 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+1321 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+32 Sampson St,Pittsburgh,PA,24,3.786,1.5,54,4.265,1.824
+3233 Dawson St,Pittsburgh,PA,31,3.7,1.45,8,3.833,1.667
+1914 Forbes Ave,Pittsburgh,PA,88,4.2,1.75,134,4.342,1.895
+1215 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2009 Blvd Of The Allies,Pittsburgh,PA,101,4.2,1.8,139,4.263,1.842
+201 Timber Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+209 Arizona Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+5414 Fredanna St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2074 Whited St,Pittsburgh,PA,3,3.667,1.333,5,3,1.667
+809 Kerry Hill Dr,Pittsburgh,PA,8,3.438,1.625,8,3.5,1
+1509 Michael Dr,Pittsburgh,PA,2,3.5,1,0,-1,-1
+1320 Kenberma Ave,Pittsburgh,PA,14,3.714,1.286,7,5,1
+502 Transverse Ave,Pittsburgh,PA,20,3.111,1.111,23,3.75,1.5
+3265 Fadette St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+627 Louann St,Pittsburgh,PA,4,2.5,1,8,5,2
+216 Utah Ave,Pittsburgh,PA,3,2.5,1,0,-1,-1
+6933 Mount Vernon St,Pittsburgh,PA,8,3.75,1,10,-1,-1
+150 Chartiers Ave,Pittsburgh,PA,0,-1,-1,1,-1,-1
+4328 Winterburn Ave,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+153 Blackhawk St,Pittsburgh,PA,10,3.214,1.143,15,3.091,2
+115 Davis St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+102 Hidden Valley Dr,Pittsburgh,PA,13,3.1,1.3,15,4.062,1.5
+243 Southern Ave,Pittsburgh,PA,19,3.667,1.533,7,3.667,1.833
+185 Alma St,Pittsburgh,PA,4,2.5,1,12,5,2
+15 Amanda Ave,Pittsburgh,PA,22,3.577,1.385,26,4,1.5
+7031 Hamilton Ave,Pittsburgh,PA,12,4.333,1.333,18,4.667,2
+1306 Pocono St,Pittsburgh,PA,3,2.667,1,16,3.364,2
+2313 Glenarm Ave,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+1417 Dagmar Ave,Pittsburgh,PA,14,3.714,1.286,6,-1,-1
+301 Timber Ct,Pittsburgh,PA,2,4,1,2,-1,-1
+120 Seegar Rd,Pittsburgh,PA,13,3.429,1.571,55,3.6,2.4
+125 Cardiff Rd,Pittsburgh,PA,18,3.5,1.5,46,3.567,1.8
+3349 Parkview Ave,Pittsburgh,PA,75,3.95,1.4,42,3.765,2
+856 Lochlin Dr,Pittsburgh,PA,1,3.5,1,6,1,2
+139 Merrimac St,Pittsburgh,PA,50,3.9,2.15,20,3.778,2
+1323 Methyl St,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+552 N Neville St 45,Pittsburgh,PA,115,4,1.65,55,3.947,2.158
+407 Clair Dr,Pittsburgh,PA,22,3.294,1.765,73,3.625,2.375
+719 Pine Valley Dr,Pittsburgh,PA,3,4.5,2,4,5,3
+1112 N Murtland St,Pittsburgh,PA,11,4.4,1.4,9,-1,-1
+450 Orchard Ave,Pittsburgh,PA,22,3.821,1.571,84,4.3,1.933
+227 S Home Ave 609,Pittsburgh,PA,30,3.444,1.333,96,4.406,1.875
+2413 Cobden St,Pittsburgh,PA,69,4,1.9,64,4.079,2.053
+604 Perrilyn St,Pittsburgh,PA,18,3.833,1.267,13,4.25,2.5
+7110 Grand Ave,Pittsburgh,PA,5,3.833,1.667,4,-1,-1
+44 Oakwood Rd,Pittsburgh,PA,13,3.917,1.833,48,4.545,2
+822 S Trenton Ave 1,Pittsburgh,PA,20,3.781,1.562,32,4.278,2.111
+6843 Thomas Blvd,Pittsburgh,PA,13,3.889,1.444,30,4.667,2.444
+7216 Church St,Pittsburgh,PA,22,3.094,1.312,36,3.25,1.5
+8093 Peebles Rd,Pittsburgh,PA,17,3.464,1.714,55,3.633,1.867
+836 Western Ave,Pittsburgh,PA,48,3.789,1.789,32,4.5,2
+14 Glen Ridge Ln,Pittsburgh,PA,23,3.222,1.778,17,3.375,2.125
+607 Victory Rd,Pittsburgh,PA,3,4.5,2,25,4.55,1.8
+901 Eathan Ave,Pittsburgh,PA,17,3.929,1.214,14,4.25,2.5
+123 N Linden Ave,Pittsburgh,PA,16,3.154,1.308,40,4.125,2.375
+157 Southern Ave,Pittsburgh,PA,37,3.675,1.8,20,3.7,2
+3911 Howley St,Pittsburgh,PA,65,3.95,1.9,64,4.675,2.05
+360 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+105 Ordale Blvd,Pittsburgh,PA,16,3.773,1.818,96,4.147,2.235
+732 Ravenswood Ave,Pittsburgh,PA,1,4.5,1,4,5,2
+3240 Faronia St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+5825 5th Ave 204,Pittsburgh,PA,62,4.05,2.15,119,4.275,2.45
+3786 Rural Ct W,Pittsburgh,PA,0,-1,-1,3,-1,-1
+127 Hidden Valley Dr,Pittsburgh,PA,14,3.111,1.333,20,3.778,1.556
+129 Fremont St,Pittsburgh,PA,17,3.125,1.25,23,3.75,1.5
+241 Ella St,Pittsburgh,PA,76,4.1,1.75,59,4.421,1.947
+2296 Freeport Rd,Pittsburgh,PA,11,3.625,1.875,78,4.654,2.077
+3715 Poplar Ave,Pittsburgh,PA,21,3.767,1.533,91,4.167,2.267
+86 Evans Ave,Pittsburgh,PA,14,3.611,1.333,22,3.929,1.714
+305 S Main St,Pittsburgh,PA,17,3.562,1.375,34,4.75,2
+1212 Juniata St,Pittsburgh,PA,24,3.265,1.353,38,4.833,2
+1438 Swantek St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+752 S Linden Ave,Pittsburgh,PA,39,4,1.75,45,4.132,2.263
+1491 Mohican Dr,Pittsburgh,PA,20,3.633,1.8,116,4.219,2.5
+549 Foundry St,Pittsburgh,PA,19,3.455,1.364,31,3.1,1.8
+19 Locust Ln,Pittsburgh,PA,34,3.425,1.7,152,4.029,2.412
+533 Locust Ln,Pittsburgh,PA,16,3.429,1.786,51,3.625,2.5
+240 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+1406 Beechview Ave,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+6902 Walnut St,Pittsburgh,PA,3,2.5,1,4,-1,-1
+305 N Fairmount St,Pittsburgh,PA,40,4.075,2,81,4.1,2.533
+2236 Holyoke St,Pittsburgh,PA,2,4.5,2,9,5,1
+303 Larch Ln,Pittsburgh,PA,7,3.357,1.429,12,3.5,2.75
+2128 Delaware Ave,Pittsburgh,PA,22,3.433,1.467,97,4.361,1.778
+101 Biddle Ave,Pittsburgh,PA,13,3.667,1.583,17,3.917,2.167
+361 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+100 Point Breeze Pl,Pittsburgh,PA,17,3.179,1.357,41,4.125,2.375
+2327 Sherbrook St,Pittsburgh,PA,63,4.075,1.65,84,4.25,2.111
+123 Brallier Ct,Pittsburgh,PA,0,-1,-1,1,-1,-1
+140 Marshall Dr,Pittsburgh,PA,5,-1,-1,13,3.25,2.5
+209 Nebraska Ave,Pittsburgh,PA,3,2.5,1,2,-1,-1
+185 Orchard Spring Rd,Pittsburgh,PA,24,3.211,1.789,18,3.375,2.125
+88 Gensler Rd,Pittsburgh,PA,3,3.5,1,1,-1,-1
+1505 Greentree Rd,Pittsburgh,PA,5,3,1.75,9,3.7,1.8
+221 Springhouse Ln,Pittsburgh,PA,1,3,2,34,4.05,2.6
+1461 Swantek St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+518 Todd St,Pittsburgh,PA,37,3.889,1.556,100,4.444,2.111
+143 Altadena Dr,Pittsburgh,PA,15,3.591,1.909,93,4,2.176
+2926 Pioneer Ave,Pittsburgh,PA,28,3.763,1.211,38,3.923,2.154
+117 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+201 Field Club Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+1803 Mifflin Rd,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+117 Thornberry Dr,Pittsburgh,PA,5,3.5,1.4,9,2.5,2.5
+442 Wabana St,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+613 Little Pine Creek Rd,Pittsburgh,PA,2,-1,-1,8,5,2
+209 Valley Park Dr,Pittsburgh,PA,9,3.357,1.571,12,3.5,3
+1635 Lochlin Dr,Pittsburgh,PA,1,3.5,1,5,1,2
+4369 Winterburn Ave,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+1364 Washington Rd,Pittsburgh,PA,13,3.722,1.889,96,4.147,2.118
+220 Emerson Ave,Pittsburgh,PA,24,3.567,1.667,93,4.206,2.059
+401 Boggs Ave,Pittsburgh,PA,31,3.725,1.75,17,3.778,2
+848 Eisenhower Dr,Pittsburgh,PA,6,4.333,2,68,4.4,2.2
+4017 Mintwood St,Pittsburgh,PA,74,4,1.8,78,4.575,2.05
+1 Patton Dr,Pittsburgh,PA,33,3.421,1.737,149,3.941,2.412
+114 Beech Rd,Pittsburgh,PA,2,3.5,2,0,-1,-1
+94 Markham Dr,Pittsburgh,PA,8,3.25,2,30,3.125,2.5
+502 Grace St,Pittsburgh,PA,21,3.647,1.529,6,3.4,1.8
+120 Charles St,Pittsburgh,PA,23,3.577,1.385,27,4,1.6
+4333 Mccaslin St,Pittsburgh,PA,10,3.5,1.222,11,4.357,1.857
+5017 Windover Dr,Pittsburgh,PA,1,-1,-1,11,1.5,3
+4359 Lydia St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+181 Connie Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+1616 Mcbride St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+6833 Meade St 3,Pittsburgh,PA,8,4.4,1.4,21,4.375,2
+5825 5th Ave 119,Pittsburgh,PA,10,3.611,1.556,15,4.667,2
+1111 Oblock Rd,Pittsburgh,PA,5,4.25,2,5,5,2
+123 Cabin Ln,Pittsburgh,PA,2,4,1,34,4.125,2.375
+110 Markham Dr,Pittsburgh,PA,9,3.333,1.889,30,3.125,2.5
+104 Beech Rd,Pittsburgh,PA,1,-1,-1,0,-1,-1
+113 Pasadena Dr S,Pittsburgh,PA,14,3.273,1.273,34,3.5,1.895
+1741 Ballinger St,Pittsburgh,PA,6,3.5,1.2,6,3,1.667
+101 Merriman Mews,Pittsburgh,PA,0,-1,-1,1,-1,-1
+2270 Freeport Rd,Pittsburgh,PA,12,3.722,1.889,82,4.6,2
+313 Jumonville St,Pittsburgh,PA,101,4.2,1.85,141,4.275,1.85
+111 Mcmonagle Ave,Pittsburgh,PA,4,3.5,1.5,7,3.25,3
+162 Seneca Dr,Pittsburgh,PA,8,3.25,2,31,2.962,2.462
+60 Garden Ter,Pittsburgh,PA,3,3.75,1.5,5,-1,-1
+514 Loretto Rd,Pittsburgh,PA,5,4,1.2,4,4.5,1.667
+6844 Thomas Blvd,Pittsburgh,PA,11,3.5,1.5,23,4.375,2.75
+941 Penn Ave 501,Pittsburgh,PA,289,4.05,2.25,307,4.316,2
+4773 Norma Dr,Pittsburgh,PA,4,3.5,1,2,-1,-1
+127 Mckinley Ave,Pittsburgh,PA,15,3.562,1.375,65,4.531,2
+103 Oak Ln,Pittsburgh,PA,5,3.75,1.75,5,-1,-1
+1635 Harvest Hill Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+284 Yosemite Dr,Pittsburgh,PA,14,4,1.25,18,5,2
+716 Ravenswood Ave,Pittsburgh,PA,2,4.5,1,4,5,2
+2558 Plainview Ave,Pittsburgh,PA,26,3.6,1.3,19,4.143,2.571
+3289 Dawson St 4,Pittsburgh,PA,75,3.925,1.45,42,3.719,2
+125 Wade St,Pittsburgh,PA,28,3.737,1.737,16,3.778,2
+110 Biddle Ave,Pittsburgh,PA,14,3.792,1.583,21,4.071,2.143
+99 W Littlewood St,Pittsburgh,PA,6,2.333,1,9,5,2
+107 Catskill Ave,Pittsburgh,PA,29,3.867,1.333,92,4.286,2.143
+813 Somerville Dr,Pittsburgh,PA,2,3,2,6,1,2
+227 S Home Ave 611,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+400 Barclay Ave,Pittsburgh,PA,19,3.812,1.75,79,4.562,1.938
+28 S Starr Ave,Pittsburgh,PA,29,3.444,1.278,90,4.219,1.875
+247 Von Stein Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+1201 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+3300 Longbow Dr,Pittsburgh,PA,0,-1,-1,7,-1,-1
+1336 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+2048 Ley St,Pittsburgh,PA,10,3.4,1.6,11,1,2
+832 Mifflin Ave,Pittsburgh,PA,18,3.857,1.571,28,4.188,2
+5123 W Harbison Rd,Pittsburgh,PA,3,4.5,2,20,1.5,3
+2404 Michael Dr,Pittsburgh,PA,2,3.5,1,0,-1,-1
+1833 Blvd Of The Allies,Pittsburgh,PA,100,4.3,1.75,139,4.275,1.9
+437 Fisk St,Pittsburgh,PA,77,4.025,1.8,68,4.6,2.05
+448 Roberts Rd,Pittsburgh,PA,4,3,1.5,1,-1,-1
+3749 Margate Rd,Pittsburgh,PA,0,-1,-1,4,-1,-1
+16 Willow St,Pittsburgh,PA,4,3.75,1.75,5,-1,-1
+42 Mazer St,Pittsburgh,PA,5,4.75,2,59,4.333,2
+47 Schley Ave,Pittsburgh,PA,23,3.808,1.462,54,4.265,1.824
+2434 Smallman St 419,Pittsburgh,PA,64,4.175,1.65,66,4.25,2.278
+3945 Vinceton St,Pittsburgh,PA,0,-1,-1,5,1.5,1.5
+139 Moultrie St,Pittsburgh,PA,13,3.875,1.5,68,4.458,2.167
+14 Butterfield Ave,Pittsburgh,PA,11,4,1.333,66,4.531,2
+129 7th St,Pittsburgh,PA,10,3.556,1.667,16,3.4,1.4
+126 Bartley Rd,Pittsburgh,PA,33,3.421,1.737,144,4,2.412
+1085 Shady Ave,Pittsburgh,PA,25,3.675,1.6,60,3.719,2.562
+1232 Juniata St,Pittsburgh,PA,24,3.265,1.353,36,4.833,2
+2306 Whited St,Pittsburgh,PA,7,4.5,1.5,8,5,4
+2434 Smallman St 222,Pittsburgh,PA,64,4.175,1.65,66,4.25,2.278
+1776 Seegar Cir,Pittsburgh,PA,12,3.214,1.571,28,3,2.385
+304 Howard Dr,Pittsburgh,PA,36,3.475,1.75,181,4,2.471
+857 Killarney Dr,Pittsburgh,PA,10,3.35,1.5,13,3.5,2.4
+2306 Beaufort Ave,Pittsburgh,PA,20,3.706,1.235,14,4.25,2.5
+368 Orchard Spring Rd,Pittsburgh,PA,23,3.222,1.833,18,3.375,2.125
+5511 Himmer Way,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1488 Great Oak Dr,Pittsburgh,PA,2,2.5,1.5,7,3.375,2
+114 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+1946 Wightman St,Pittsburgh,PA,61,4.1,1.6,76,4.278,2.111
+1111 S Side Ave,Pittsburgh,PA,2,3,1,3,-1,-1
+3 Allequippa St,Pittsburgh,PA,15,3.5,1.333,75,4.423,2.077
+109 Eton Dr,Pittsburgh,PA,3,3.5,1,14,3.667,1.833
+27 Howard St,Pittsburgh,PA,16,4.045,1.545,79,4.469,2.062
+91 Cedar Ave,Pittsburgh,PA,6,4,1.833,6,-1,-1
+Parkedge Rd,Pittsburgh,PA,9,3.643,1.571,12,3.5,3
+210 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+206 Orchard St,Pittsburgh,PA,3,2.5,1,4,-1,-1
+5210 Forbes Ave,Pittsburgh,PA,26,3.559,1.471,48,4.105,2.421
+4325 Gladstone St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+806 Beech Ave,Pittsburgh,PA,56,3.947,1.737,28,4.5,2
+17 Evans Ave,Pittsburgh,PA,23,3.808,1.462,54,4.265,1.824
+7410 Yale Ave,Pittsburgh,PA,5,3.75,1.75,8,5,2
+24 Emma Dr,Pittsburgh,PA,8,2.667,1.333,15,4.333,2
+520 Colquitt Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+1225 Island Ave,Pittsburgh,PA,12,3.75,1.5,14,5,1.5
+1438 Duffield St,Pittsburgh,PA,4,4.25,1.5,6,3,1
+129 1st St,Pittsburgh,PA,12,3.727,1.455,18,4.5,1.6
+3412 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+3352 Kathy Dr,Pittsburgh,PA,4,3,2,7,-1,-1
+4061 Howley St,Pittsburgh,PA,73,4.025,1.75,67,4.525,2
+603 Orchard Hill Dr,Pittsburgh,PA,2,4,1,34,4.357,2.429
+424 Wickford Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+2721 Mission St,Pittsburgh,PA,57,3.95,1.9,60,3.95,2
+1418 Dagmar Ave,Pittsburgh,PA,14,3.714,1.286,4,-1,-1
+4 Patton Dr,Pittsburgh,PA,32,3.421,1.737,135,4,2.333
+513 Mount Royal Blvd,Pittsburgh,PA,3,1.5,1,12,5,2
+1200 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+1124 Sutherland St,Pittsburgh,PA,4,-1,-1,6,-1,-1
+2393 Bellwood Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+408 Biddle Ave,Pittsburgh,PA,23,3.781,1.562,38,4.3,2.1
+1207 Columbus Ave,Pittsburgh,PA,24,3.265,1.353,38,4.833,2
+1600 Duffield St,Pittsburgh,PA,4,4.333,2,6,3,1
+1361 Washington Rd,Pittsburgh,PA,14,3.55,1.8,96,4.206,2.176
+1423 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+114 Logan Dr,Pittsburgh,PA,1,-1,-1,6,3.75,2
+2338 Starkamp St,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+8408 Edwood Rd,Pittsburgh,PA,8,3.7,1.6,19,3.75,2
+909 Stanton Avenue Ext,Pittsburgh,PA,9,4.2,1.6,68,4.375,2.125
+372 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+104 Hidden Valley Dr,Pittsburgh,PA,13,3.1,1.3,15,4.062,1.5
+842 Newport Dr,Pittsburgh,PA,8,3.312,1.5,13,3.5,2.4
+3746 Rural Ct E,Pittsburgh,PA,0,-1,-1,3,-1,-1
+5619 5th Ave,Pittsburgh,PA,52,4.025,2.1,112,4.25,2.45
+1029 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+830 Stanton Ave,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+2050 Ley St,Pittsburgh,PA,10,3.4,1.6,11,1,2
+1518 Methyl St,Pittsburgh,PA,16,3.75,1.25,6,5,1
+829 S Braddock Ave,Pittsburgh,PA,15,3.464,1.571,16,3.583,2.167
+3204 Kestner Ave,Pittsburgh,PA,27,3.714,1.357,95,4.233,2
+1101 Tyndall St,Pittsburgh,PA,4,-1,-1,6,-1,-1
+1470 Greendale Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+6736 Mcpherson Blvd,Pittsburgh,PA,15,3.292,1.333,39,4.125,2.375
+49 Cobb Ave,Pittsburgh,PA,16,3.6,1.4,23,3.929,1.714
+133 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+317 Jackson Rd,Pittsburgh,PA,2,2.5,1,2,-1,-1
+1725 Forbes Ave,Pittsburgh,PA,61,3.925,1.85,110,4.219,1.875
+2214 Freeport Rd,Pittsburgh,PA,11,4.071,2,85,4.643,2
+125 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,26,3.95,1.4
+349 Boggs Ave,Pittsburgh,PA,31,3.725,1.75,17,3.778,2
+146 Whipple St,Pittsburgh,PA,2,3,1,11,3.25,2
+1416 Fairstead Ln,Pittsburgh,PA,6,3,1.333,16,3.833,2.5
+1117 Shady Ave,Pittsburgh,PA,17,3.8,1.667,40,3.833,2.733
+840 Eisenhower Dr,Pittsburgh,PA,1,3.5,2,9,4.25,2.5
+113 Fremont St,Pittsburgh,PA,18,3.278,1.222,27,3.75,1.5
+613 Driftwood Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+16 Schubert St,Pittsburgh,PA,4,4.5,1.5,9,-1,-1
+196 Valley Park Dr,Pittsburgh,PA,17,3.1,1.7,12,4.25,1.5
+89 N Duane St,Pittsburgh,PA,13,3.6,1.4,19,3.929,1.714
+12 Lopella St,Pittsburgh,PA,4,4.5,1.5,7,-1,-1
+139 Roosevelt Ave,Pittsburgh,PA,5,4.75,2,63,4.333,2
+235 N Fairmount St,Pittsburgh,PA,42,4.075,2,80,4.067,2.533
+185 Belonda St,Pittsburgh,PA,25,3.7,1.7,9,3.667,1.833
+3 Keifer Dr,Pittsburgh,PA,30,3.421,1.737,130,4.056,2.389
+1528 Alverado Ave,Pittsburgh,PA,14,3.643,1.286,5,5,1
+101 Earlwood Rd,Pittsburgh,PA,11,3.429,1.286,38,4.438,2.375
+811 Newport Dr,Pittsburgh,PA,8,3.312,1.5,12,3.5,2.4
+5 Locust Ln,Pittsburgh,PA,39,3.425,1.8,200,3.971,2.471
+708 Somerville Dr,Pittsburgh,PA,0,-1,-1,5,1,2
+232 Dinwiddie St,Pittsburgh,PA,22,4,1.667,66,4.409,2.182
+430 Fisk St,Pittsburgh,PA,77,4,1.8,73,4.625,2.1
+62 Garden Ter,Pittsburgh,PA,3,3.75,1.5,5,-1,-1
+2029 Eggers St,Pittsburgh,PA,10,3.4,1.6,15,2.25,1.5
+110 8th Ave,Pittsburgh,PA,9,3.5,1.333,13,4.667,2
+1245 Island Ave,Pittsburgh,PA,12,3.75,1.5,14,5,1.5
+2116 Edgebrook Ave,Pittsburgh,PA,14,4.042,1.25,13,4.25,2.5
+8179 Ohio River Blvd 35,Pittsburgh,PA,6,4,1.833,7,-1,-1
+4435 Rodenbaugh Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+312 Gist St,Pittsburgh,PA,99,4.25,1.8,139,4.275,1.85
+1120 Oblock Rd,Pittsburgh,PA,5,4.25,2,5,5,2.5
+747 Somerville Dr,Pittsburgh,PA,2,3,2,5,1,2
+1023 Hamilton Ave,Pittsburgh,PA,30,3.444,1.278,90,4.219,1.875
+5453 Albemarle Ave,Pittsburgh,PA,7,3.75,1,9,3.833,1.667
+213 Oak Ln,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+110 West Dr,Pittsburgh,PA,25,3.429,1.643,97,4.088,2
+3934 Mintwood St,Pittsburgh,PA,68,4,1.85,72,4.625,2.05
+4611 Friendship Ave,Pittsburgh,PA,65,4.075,1.75,53,4.395,1.842
+901 S Braddock Ave,Pittsburgh,PA,16,3.467,1.6,18,3.583,2.167
+348 Clair Dr,Pittsburgh,PA,38,3.45,1.75,194,4,2.529
+636 Morewood Ave,Pittsburgh,PA,80,3.95,1.75,68,4.316,2.368
+1289 Cedar Blvd,Pittsburgh,PA,2,3,2,4,1.75,2
+128 Bigham St,Pittsburgh,PA,29,3.65,1.95,10,3.4,1.8
+1200 Sutherland St,Pittsburgh,PA,4,-1,-1,6,-1,-1
+630 Kewanna Ave,Pittsburgh,PA,9,3.5,1.625,24,4.042,1.833
+5903 5th Ave 310,Pittsburgh,PA,62,4.05,2.15,117,4.15,2.5
+214 Whitridge St,Pittsburgh,PA,12,3.812,1.25,19,4,2
+125 Bartley Rd,Pittsburgh,PA,34,3.425,1.7,148,4,2.412
+1305 Methyl St,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+83 Sampson St,Pittsburgh,PA,15,3.6,1.4,24,3.929,1.714
+138 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+3839 Henley Dr,Pittsburgh,PA,5,3.167,1.333,8,-1,-1
+6310 Waldron St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+1449 Leaside Dr,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+616 N Dallas Ave,Pittsburgh,PA,10,4.4,1.4,27,4.857,2.143
+1040 Shreve St,Pittsburgh,PA,2,3,1,1,-1,-1
+2023 Lafayette St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+1215 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+120 Cherrydell Dr,Pittsburgh,PA,6,2.6,1.8,11,3.7,1.8
+210 Keifer Dr,Pittsburgh,PA,24,3.529,1.706,117,4.219,2.5
+206 Biddle Ave,Pittsburgh,PA,19,3.767,1.533,25,4.071,2
+221 Sleepy Hollow Rd,Pittsburgh,PA,16,3.111,1.667,10,4.25,1.5
+726 Kewanna Ave,Pittsburgh,PA,12,3.409,1.636,31,4.179,1.857
+138 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+515 Rosewood Dr,Pittsburgh,PA,6,3.9,1.4,5,4,2
+34 Emma Dr,Pittsburgh,PA,9,2.714,1.286,15,4.333,2
+4031 Howley St,Pittsburgh,PA,75,4,1.85,70,4.625,2.1
+218 Aidyl Ave,Pittsburgh,PA,30,3.842,1.211,39,4,2.071
+141 North Dr,Pittsburgh,PA,1,3,2,4,5,3
+133 Valley Hi Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+3184 Glendale Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+722 Vallevista Ave,Pittsburgh,PA,12,3.409,1.636,30,4.179,1.857
+306 Holmes Pl,Pittsburgh,PA,58,3.9,1.5,33,3.615,2
+687 Little Pine Creek Rd,Pittsburgh,PA,3,3.5,1,8,5,2
+442 Connor St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+6955 Mount Vernon St,Pittsburgh,PA,8,3.75,1,8,-1,-1
+119 Kilmeyer Dr,Pittsburgh,PA,4,3,1.5,2,-1,-1
+1434 Jancey St,Pittsburgh,PA,12,4.125,1.875,6,3,1
+124 Windvale Dr,Pittsburgh,PA,15,3.7,1.5,16,3.375,1.75
+209 New Haven Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+1237 Pocono St,Pittsburgh,PA,3,2.667,1,19,3.458,2.25
+826 Kerry Hill Dr,Pittsburgh,PA,9,3.278,1.556,9,3.5,1
+17 Hemingway St,Pittsburgh,PA,92,4.15,1.75,68,4.211,1.789
+19 S 16th St,Pittsburgh,PA,90,4.225,1.7,90,4.25,1.778
+516 Lincoln Ave,Pittsburgh,PA,8,3.833,1.167,28,4.167,2.444
+65 Waterfront Dr,Pittsburgh,PA,27,3.844,1.75,45,4.333,2.083
+1610 Chateau St,Pittsburgh,PA,18,3.35,1.7,22,5,2
+420 Clements Rd,Pittsburgh,PA,3,3,1.5,3,-1,-1
+5474 Hillcrest St,Pittsburgh,PA,37,4,2.05,70,4.107,2.357
+528 Bigelow St,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+211 Arizona Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+1122 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+780 Glenside St,Pittsburgh,PA,5,4.75,2,62,4.333,2
+406 Orchard Spring Rd,Pittsburgh,PA,23,3.222,1.833,18,3.375,2.125
+130 Whipple St,Pittsburgh,PA,3,2.667,1,12,3.222,2
+59 Van Braam St,Pittsburgh,PA,95,4.225,1.7,139,4.263,1.842
+111 Timberlane Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+1426 Rush St,Pittsburgh,PA,16,3.375,1.5,22,5,2
+2509 Michael Dr,Pittsburgh,PA,2,3.5,1,0,-1,-1
+621 Farragut St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+2630 Pioneer Ave,Pittsburgh,PA,18,3.625,1.25,16,4.143,2.571
+6227 Mellon Park Ct,Pittsburgh,PA,44,4.05,2.15,79,4,2.611
+438 Dawson Ave,Pittsburgh,PA,23,3.607,1.5,85,4.3,1.933
+310 Howard Dr,Pittsburgh,PA,33,3.421,1.737,145,4,2.412
+2912 Mary St,Pittsburgh,PA,45,3.9,1.85,47,3.882,2.059
+2223 Shady Ave,Pittsburgh,PA,60,4.05,1.65,76,4.306,2.111
+408 Gaywood Cir,Pittsburgh,PA,18,3.167,1.75,90,3.656,2.312
+1528 Fallowfield Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+110 Hays St,Pittsburgh,PA,18,4.042,1.583,80,4.469,2.062
+1713 Merriman Ct,Pittsburgh,PA,90,4.25,1.7,85,4.237,1.789
+4740 Child Dr,Pittsburgh,PA,10,3.75,1.5,17,3.375,1.75
+374 Greenway Dr,Pittsburgh,PA,3,-1,-1,8,-1,-1
+1343 Adams St,Pittsburgh,PA,14,3.071,1.286,20,5,2
+2456 Woodward Ave,Pittsburgh,PA,24,3.684,1.263,17,4.333,2.5
+5403 Fredanna St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+3920 Howley St,Pittsburgh,PA,70,3.95,1.9,66,4.675,1.95
+130 Woodshire Dr,Pittsburgh,PA,17,3.536,1.429,46,3.417,1.833
+95 Vista St,Pittsburgh,PA,14,3.643,1.429,63,4.531,2
+4010 Cabinet Way,Pittsburgh,PA,74,3.975,1.85,74,4.575,2.05
+3906 Howley St,Pittsburgh,PA,66,3.95,1.9,64,4.65,1.95
+1723 Forbes Ave,Pittsburgh,PA,61,3.925,1.85,110,4.219,1.875
+1505 Sturdy Oak Dr,Pittsburgh,PA,1,3,2,5,3.25,2
+124 Halsey Ct,Pittsburgh,PA,4,3,1.75,16,4.583,2.167
+1235 Dagmar Ave,Pittsburgh,PA,8,3.5,1.25,6,-1,-1
+120 N Balph Ave,Pittsburgh,PA,24,3.7,1.467,84,4.3,1.933
+6902 Standish St,Pittsburgh,PA,19,4.125,1.75,70,4.438,2
+4328 Stanley St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+6933 Standish St,Pittsburgh,PA,17,4.125,1.75,66,4.406,2
+810 Middle Rd,Pittsburgh,PA,8,3.312,1.5,13,3.5,2.4
+5112 W Harbison Rd,Pittsburgh,PA,1,-1,-1,16,1.5,3
+207 Arizona Ave,Pittsburgh,PA,3,2.5,1,4,-1,-1
+1440 Swantek St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+155 College Ave,Pittsburgh,PA,3,3,1.5,3,-1,-1
+320 Fort Duquesne Blvd 4f,Pittsburgh,PA,285,4.025,2.2,294,4.35,2.25
+6902 Mcclure Ave,Pittsburgh,PA,11,3,1.125,24,3.115,1.846
+1423 Scarlett Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+910 Mifflin Ave,Pittsburgh,PA,21,3.706,1.588,31,3.955,1.909
+3035 Fadette St,Pittsburgh,PA,4,3,2,7,-1,-1
+4059 Cabinet St,Pittsburgh,PA,72,4.025,1.75,67,4.525,2
+5742 5th Ave 101,Pittsburgh,PA,11,3.7,1.5,16,4.375,1.75
+2557 Plainview Ave,Pittsburgh,PA,25,3.632,1.263,16,4.143,2.571
+433 Macbeth Dr,Pittsburgh,PA,3,-1,-1,5,-1,-1
+150 Sceneridge Ave,Pittsburgh,PA,34,3.467,1.333,100,4.412,1.941
+2208 Whited St,Pittsburgh,PA,2,4.5,1,5,3.75,1.5
+3941 Liberty Ave,Pittsburgh,PA,75,3.975,1.95,68,4.625,2
+1303 Alton St,Pittsburgh,PA,6,3.667,1,5,-1,-1
+700 Ravenswood Ave,Pittsburgh,PA,2,3.5,2,7,5,2
+22 4th St,Pittsburgh,PA,19,3.95,1.9,89,4.357,2.214
+804 Somerville Dr,Pittsburgh,PA,2,3,2,6,1,2
+518 Malabar Dr,Pittsburgh,PA,4,4.5,2,6,5,2.5
+1307 Adams St,Pittsburgh,PA,16,3.056,1.222,22,5,2
+433 Kingsley Ave,Pittsburgh,PA,8,3.5,1.333,8,-1,-1
+145 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+2424 Craftmont Ave,Pittsburgh,PA,4,3.333,1.667,9,-1,-1
+307 Homer Dr,Pittsburgh,PA,2,3.5,1,6,-1,-1
+2331 Whited St,Pittsburgh,PA,7,4.3,1.4,9,4.75,3
+609 Victory Rd,Pittsburgh,PA,3,4.5,2,25,4.55,1.8
+148 Maple Heights Rd,Pittsburgh,PA,36,3.725,1.95,79,4.2,2.45
+722 Artvue Dr,Pittsburgh,PA,1,3.5,1,5,1,2
+1541 Orchardview Dr,Pittsburgh,PA,4,2.833,1.667,7,3.375,2
+157 Glenfield Dr,Pittsburgh,PA,5,3.25,1.25,36,4.438,2.375
+720 Sylvan Ave,Pittsburgh,PA,24,3.688,1.375,94,4.5,1.938
+211 Gist St,Pittsburgh,PA,99,4.25,1.8,141,4.275,1.85
+114 Ulysses St,Pittsburgh,PA,62,4.025,2.3,30,3.786,2.071
+1615 Jancey St,Pittsburgh,PA,11,4.125,1.875,6,3,1
+107 Long Dr,Pittsburgh,PA,42,3.425,1.85,220,4.059,2.353
+454 Orchard Ave,Pittsburgh,PA,22,3.821,1.571,84,4.3,1.933
+118 Kirkpatrick St,Pittsburgh,PA,12,4.667,1.667,61,4.458,2.167
+2900 Homehurst Ave,Pittsburgh,PA,6,3.417,1.5,7,3.333,2.333
+44 Beltzhoover Ave,Pittsburgh,PA,30,3.556,1.778,29,3.778,2.111
+1528 Greentree Rd,Pittsburgh,PA,5,3,1.75,8,3.7,1.8
+154 Maple Heights Rd,Pittsburgh,PA,37,3.725,1.95,79,4.2,2.45
+2105 Lonsdale St,Pittsburgh,PA,14,4.286,1.429,73,4.433,2.067
+103 W Sycamore St,Pittsburgh,PA,78,3.825,1.95,66,4,2
+22 Cannon St,Pittsburgh,PA,13,3.917,1.833,47,4.545,2
+224 Liberto Rd,Pittsburgh,PA,12,4,1.333,16,5,2
+100 Stilwell Ct,Pittsburgh,PA,0,-1,-1,2,-1,-1
+1131 Shady Ave,Pittsburgh,PA,15,3.769,1.846,27,3.625,2.583
+146 Nottingham Dr,Pittsburgh,PA,3,4.5,2,21,1.5,3
+450 Ryndwood Rd,Pittsburgh,PA,11,3.778,1.333,28,4.417,2.333
+107 John St,Pittsburgh,PA,22,3.577,1.385,25,4,1.5
+206 Idaho Ave,Pittsburgh,PA,3,2.5,1,3,-1,-1
+6820 Walnut St,Pittsburgh,PA,3,2.5,1,4,-1,-1
+237 Sleepy Hollow Rd,Pittsburgh,PA,14,3,1.714,12,4.5,1
+412 Maxwell St,Pittsburgh,PA,12,3.667,1.333,18,3.929,1.714
+98 Valley Hi Dr,Pittsburgh,PA,1,-1,-1,6,3.75,2
+813 Aisbett Way,Pittsburgh,PA,13,4.15,1.8,21,4.208,1.417
+825 Morewood Ave,Pittsburgh,PA,80,3.825,1.75,85,4.225,2.3
+303 Shiloh St,Pittsburgh,PA,59,3.8,1.85,35,3.727,2
+1668 Hallowell St,Pittsburgh,PA,2,3.75,1.5,6,3,1.667
+707 Thornwick Dr,Pittsburgh,PA,1,3.5,1,6,1,2
+1321 Columbus Ave,Pittsburgh,PA,17,2.8,1.2,21,5,2
+2019 Hampton St,Pittsburgh,PA,28,3.222,1.389,100,4.25,1.778
+426 Fisk St,Pittsburgh,PA,76,4,1.8,76,4.625,2.1
+221 Southern Ave,Pittsburgh,PA,22,3.647,1.529,9,3.667,1.833
+1643 Jancey St,Pittsburgh,PA,11,4.125,1.875,6,3,1
+125 Butler St,Pittsburgh,PA,18,4.042,1.583,81,4.469,2.062
+423 Kenmont Ave,Pittsburgh,PA,53,3.925,1.8,71,4.067,2.333
+5819 Howe St,Pittsburgh,PA,67,4.075,2.2,141,4.2,2.4
+19 Garden Ter,Pittsburgh,PA,0,-1,-1,5,-1,-1
+3940 Howley St,Pittsburgh,PA,70,4,1.9,68,4.675,2.05
+112 Chartiers Ave,Pittsburgh,PA,0,-1,-1,2,-1,-1
+17 Butler St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+1410 Kenberma Ave,Pittsburgh,PA,13,3.714,1.286,6,-1,-1
+1207 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+1926 Monroe St,Pittsburgh,PA,27,3.176,1.353,96,4.111,1.778
+7935 Tioga St,Pittsburgh,PA,34,3.625,1.5,89,4.676,1.941
+1412 Rutherford Ave,Pittsburgh,PA,14,3.714,1.286,6,-1,-1
+58 Gailey Ave,Pittsburgh,PA,5,4.75,2,60,4.333,2
+825 Morewood Ave G1,Pittsburgh,PA,80,3.825,1.75,85,4.225,2.3
+1418 Fallowfield Ave,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+13 Patton Dr,Pittsburgh,PA,32,3.421,1.737,135,4.028,2.389
+235 Bigham St,Pittsburgh,PA,32,3.825,1.9,9,3.4,1.8
+6805 Front River Rd,Pittsburgh,PA,3,2.5,1,4,-1,-1
+3307 Scathelocke Dr,Pittsburgh,PA,2,3.5,1,7,-1,-1
+1920 Lafayette St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+144 Thornberry Dr,Pittsburgh,PA,6,3.375,1.25,6,-1,-1
+1810 Ley St,Pittsburgh,PA,17,3.7,1.6,30,3.833,2.167
+3267 Shadyway Dr,Pittsburgh,PA,5,3.75,1,10,4,2
+587 Osage Rd,Pittsburgh,PA,15,3.107,1.786,21,3.889,2
+239 N Aiken Ave,Pittsburgh,PA,21,3.967,2,43,4.4,1.733
+3429 Ridgewood Dr,Pittsburgh,PA,2,4.5,3,16,4,2
+256 Ashford Ave,Pittsburgh,PA,19,3.231,1.385,28,4.045,1.455
+53 Fountain St,Pittsburgh,PA,32,4.176,1.529,23,4.2,2
+4043 Cabinet St,Pittsburgh,PA,76,4.025,1.8,66,4.625,2.1
+826 Savannah Ave,Pittsburgh,PA,18,3.857,1.571,22,3.889,1.889
+1410 Methyl St,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+125 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+2303 Michael Dr 109f 109f 109f,Pittsburgh,PA,2,3.5,1,0,-1,-1
+613 Farragut St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+1439 Jancey St,Pittsburgh,PA,10,4.071,2,6,3,1
+224 Timber Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+192 Seavey Rd,Pittsburgh,PA,9,4.25,1.5,63,4.562,2.062
+720 Perrymont Rd,Pittsburgh,PA,17,3.464,1.714,54,3.562,1.812
+132 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+75 Schley Ave,Pittsburgh,PA,15,3.6,1.4,23,3.929,1.714
+101 Schley Ave,Pittsburgh,PA,13,3.6,1.4,21,3.929,1.714
+135 Riverview Ter,Pittsburgh,PA,21,3.333,1.467,39,3.526,1.789
+1213 Michael Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+1922 Antietam St,Pittsburgh,PA,17,4.071,1.714,67,4.406,2
+108 Eton Dr,Pittsburgh,PA,2,3.5,1.5,6,3.875,2
+1090 Balkan Dr,Pittsburgh,PA,1,4,2,1,-1,-1
+428 Wabana St,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+27 Kenneth Dr,Pittsburgh,PA,7,2.8,1.2,13,5,2
+1312 Royal Oak Rd,Pittsburgh,PA,6,3.5,1.75,15,3.833,2.333
+410 Fort Couch Rd,Pittsburgh,PA,18,3.125,1.667,87,3.9,2.6
+132 N Woodland Rd,Pittsburgh,PA,52,4.125,2.25,85,4.056,2.556
+49 Rochester Rd,Pittsburgh,PA,20,3.231,1.385,31,4.045,1.455
+216 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+2184 Garrick Dr,Pittsburgh,PA,6,3.375,1.25,7,-1,-1
+104 8th Ave,Pittsburgh,PA,9,3.5,1.333,13,4.667,2
+5670 Cross St,Pittsburgh,PA,4,4.167,1.667,6,3,2
+2504 Swiss Mt Rd,Pittsburgh,PA,63,4.1,1.6,93,4.278,2.333
+5165 Schenley Ave,Pittsburgh,PA,11,4.125,1.875,24,4.269,1.462
+4703 Maripoe St,Pittsburgh,PA,78,4.1,1.85,46,3.944,2.056
+305 Bodkin St,Pittsburgh,PA,24,3.684,1.263,16,4.143,2.571
+2024 E Homestead St,Pittsburgh,PA,14,4.357,1.571,76,4.433,2.067
+147 E Francis Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+401 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+209 Field Club Ridge Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+3925 Howley St,Pittsburgh,PA,68,3.95,1.9,67,4.675,1.95
+2336 Beaufort Ave,Pittsburgh,PA,20,3.706,1.235,14,4.25,2.5
+5215 Forbes Ave,Pittsburgh,PA,30,3.605,1.632,61,4.075,2.4
+3785 Greensburg Pike,Pittsburgh,PA,0,-1,-1,3,-1,-1
+172 Glenfield Dr,Pittsburgh,PA,3,4.5,1,1,-1,-1
+3836 Henley Dr,Pittsburgh,PA,6,3.375,1.25,8,-1,-1
+890 Edgewood Ave,Pittsburgh,PA,9,3.556,1.444,13,3.5,2.4
+686 Gensler Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+110 The Oaks,Pittsburgh,PA,20,3.25,1.429,36,3.5,1.895
+64 Mount Lebanon Blvd,Pittsburgh,PA,15,3.625,1.833,94,4.156,2.312
+124 Homestead St,Pittsburgh,PA,2,3,1,14,3.1,2
+1704 Sedgwick St,Pittsburgh,PA,24,3.294,1.353,32,4.5,2.2
+927 Valleyview Rd,Pittsburgh,PA,21,3.312,1.875,18,3.444,2
+1430 Jefferson Heights Rd,Pittsburgh,PA,4,3.167,1.333,4,4,2
+3130 Middletown Rd,Pittsburgh,PA,3,3,2,6,-1,-1
+862 Macarthur Dr,Pittsburgh,PA,5,3.1,1.8,18,4.643,2.143
+1309 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+3447 Clearfield St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+775 Riehl Dr,Pittsburgh,PA,9,3.5,1.556,13,3.5,2.4
+712 Riehl Dr,Pittsburgh,PA,8,3.312,1.5,7,-1,-1
+5115 W Harbison Rd,Pittsburgh,PA,1,-1,-1,17,1.5,3
+77 Evans Ave,Pittsburgh,PA,14,3.611,1.333,22,3.929,1.714
+9273 Highland Rd,Pittsburgh,PA,4,3.75,2,28,4.55,1.8
+6913 Mcclure Ave,Pittsburgh,PA,10,3.071,1.143,19,3.091,1.909
+3741 Margate Rd,Pittsburgh,PA,0,-1,-1,5,-1,-1
+45 Greeley St,Pittsburgh,PA,90,4.075,1.85,84,4.15,1.9
+5033 Windover Dr,Pittsburgh,PA,1,-1,-1,14,1.5,3
+767 Riehl Dr,Pittsburgh,PA,9,3.5,1.556,12,3.5,2.4
+145 Amabell St,Pittsburgh,PA,38,3.825,2.1,13,3.4,1.8
+1341 Pinewood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+118 Eton Dr,Pittsburgh,PA,16,3.625,1.417,40,3.375,1.875
+1773 Arlington Ave 1,Pittsburgh,PA,17,3.125,1.25,24,3.667,1.333
+6908 Thomas Blvd,Pittsburgh,PA,13,3.889,1.444,26,4.25,2.333
+143 Glo Min Dr,Pittsburgh,PA,8,3.5,1.5,18,3.125,2.375
+150 Maple Heights Rd,Pittsburgh,PA,37,3.725,1.95,79,4.2,2.45
+1234 Pocono St,Pittsburgh,PA,3,2.667,1,20,3.538,2.231
+101 10th St,Pittsburgh,PA,284,4.1,2.2,306,4.316,2
+7951 Tioga St,Pittsburgh,PA,33,3.591,1.545,89,4.676,1.941
+5509 Koeffler Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+5640 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+4334 Stanley St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+1554 Greentree Rd,Pittsburgh,PA,5,3,1.75,10,3.7,1.8
+1418 Rutherford Ave,Pittsburgh,PA,14,3.714,1.286,6,-1,-1
+122 Lamar Rd,Pittsburgh,PA,12,3,1.833,84,3.844,2.438
+3254 Ward St,Pittsburgh,PA,58,3.9,1.5,33,3.615,2
+93 Ordale Blvd,Pittsburgh,PA,13,3.722,1.889,96,4.147,2.118
+836 Londonderry Dr,Pittsburgh,PA,10,3.35,1.5,8,3,2.5
+17 Locust Ln,Pittsburgh,PA,36,3.475,1.75,181,4,2.471
+731 New Texas Rd,Pittsburgh,PA,4,4.25,2,3,5,2
+2304 Starkamp St,Pittsburgh,PA,17,3.929,1.214,14,4.25,2.5
+227 S Home Ave 607,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+4637 Gardenville Rd,Pittsburgh,PA,9,3.9,1.8,16,3.125,1.75
+145 Peony Ave,Pittsburgh,PA,0,-1,-1,3,3.5,3
+30 Bascom Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+211 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,25,3.95,1.4
+408 Elias Dr,Pittsburgh,PA,3,2.5,1,16,2.667,2
+631 E Warrington Ave,Pittsburgh,PA,19,3.545,1.455,29,3.625,2
+4730 Hamilton Rd,Pittsburgh,PA,4,4.167,1.667,3,3,2
+120 Homestead St,Pittsburgh,PA,2,3,1,14,3.1,2
+184 Connie Dr,Pittsburgh,PA,6,4.75,2,62,4.333,2
+2052 Lowrie St,Pittsburgh,PA,10,3.4,1.6,11,1,2
+2434 Smallman St 315,Pittsburgh,PA,65,4.225,1.65,66,4.25,2.278
+120 Valley Dr,Pittsburgh,PA,24,3.567,1.667,94,4.206,2.059
+822 Newport Dr,Pittsburgh,PA,8,3.312,1.5,13,3.5,2.4
+308 Glenside St,Pittsburgh,PA,0,-1,-1,5,1.5,1.5
+2 Lanark St,Pittsburgh,PA,29,3.944,1.444,21,4.2,2
+67 Fountain St,Pittsburgh,PA,31,4.059,1.529,22,4.2,2
+172 Fieldgate Dr,Pittsburgh,PA,27,3.158,1.684,132,4.031,2.375
+24 S 17th St,Pittsburgh,PA,91,4.25,1.7,89,4.25,1.778
+1768 Meadowcrest Dr,Pittsburgh,PA,24,3.111,1.722,116,4.033,2.6
+5536 Kentucky Ave,Pittsburgh,PA,54,4.025,2.05,111,4.2,2.45
+811 Rolling Rock Rd,Pittsburgh,PA,8,3.312,1.5,12,3.5,2.75
+708 Thornwick Dr,Pittsburgh,PA,2,4,1.5,8,2.25,2
+298 Bascom Ave,Pittsburgh,PA,1,-1,-1,1,2,1
+3016 Briscoe St,Pittsburgh,PA,5,3,2,8,-1,-1
+1720 Merriman Ct,Pittsburgh,PA,93,4.25,1.75,89,4.278,1.833
+4049 Cabinet St,Pittsburgh,PA,75,4.025,1.8,66,4.6,1.95
+20 Dawson Ct,Pittsburgh,PA,38,3.825,1.45,14,4.083,1.833
+152 Thornberry Dr,Pittsburgh,PA,6,3.375,1.25,7,-1,-1
+30 Beltzhoover Ave,Pittsburgh,PA,31,3.556,1.778,30,3.778,2.111
+123 Fremont St,Pittsburgh,PA,17,3.125,1.25,23,3.75,1.5
+9429 Magellan Dr,Pittsburgh,PA,12,3.208,1.583,21,3.292,2
+143 Southern Ave,Pittsburgh,PA,39,3.675,1.9,20,3.7,2
+108 Bentley Dr,Pittsburgh,PA,0,-1,-1,33,3.944,2.556
+7 Wyoming St,Pittsburgh,PA,88,3.9,2,74,4.077,2.154
+149 Jucunda St,Pittsburgh,PA,23,3.577,1.385,26,4,1.5
+1426 Scarlett Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+3104 Terrace St,Pittsburgh,PA,18,3.708,1.25,22,4,2.2
+1424 Fallowfield Ave,Pittsburgh,PA,15,3.714,1.286,6,5,1
+1427 Fallowfield Ave,Pittsburgh,PA,15,3.714,1.286,5,5,1
+1923 Ley St,Pittsburgh,PA,14,3.722,1.556,24,3.6,2
+3033 Fadette St,Pittsburgh,PA,4,3,2,8,-1,-1
+2041 E Homestead St,Pittsburgh,PA,15,4.25,1.5,74,4.433,2.067
+467 Norton St,Pittsburgh,PA,31,3.675,1.75,20,3.7,2
+825 Morewood Ave N N,Pittsburgh,PA,80,3.825,1.75,85,4.225,2.3
+363 Outlook St,Pittsburgh,PA,34,3.467,1.333,101,4.382,1.882
+509 Carolyn Ave,Pittsburgh,PA,23,3.607,1.429,84,4.367,2
+47 Glen Ridge Ln,Pittsburgh,PA,20,3.267,1.8,10,2.833,2.667
+98 Lodge St,Pittsburgh,PA,6,3.125,1,11,4.25,1.5
+1202 Romanhoff St,Pittsburgh,PA,4,2.75,1.5,6,-1,-1
+743 Pinetree Rd,Pittsburgh,PA,24,3.211,1.789,19,3.5,2.111
+4315 Haldane St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+200 Maple Ln,Pittsburgh,PA,5,3.75,1.75,4,-1,-1
+1826 Elbow St,Pittsburgh,PA,15,3.722,1.556,31,3.583,2
+5816 Kentucky Ave,Pittsburgh,PA,55,4.025,2.15,121,4.3,2.45
+360 Greenway Dr,Pittsburgh,PA,3,-1,-1,8,-1,-1
+2734 Shelly St,Pittsburgh,PA,55,3.925,1.9,56,3.95,2
+1471 Great Oak Dr,Pittsburgh,PA,3,2.5,1.5,7,3.375,2
+1303 Mutual St,Pittsburgh,PA,3,-1,-1,5,-1,-1
+564 Bigelow St,Pittsburgh,PA,10,3.5,1.222,7,4.6,2
+295 Barclay Ave,Pittsburgh,PA,8,4.25,1.75,62,4.559,2.176
+3 Reserve St,Pittsburgh,PA,14,4.222,1.556,73,4.469,2.062
+3182 Ladoga St,Pittsburgh,PA,6,3.167,1.667,14,3.5,1.333
+2125 Federal Street Ext,Pittsburgh,PA,11,3.562,1.625,9,4.5,1.5
+1335 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+1137 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+1931 Antietam St,Pittsburgh,PA,17,4.071,1.714,69,4.4,2
+1422 Duffield St,Pittsburgh,PA,4,4.25,1.5,6,3,1
+501 Mount Royal Blvd,Pittsburgh,PA,4,2.25,1,12,5,2
+3336 Ajax St,Pittsburgh,PA,8,4.125,1.5,23,4.357,1.571
+776 Somerville Dr,Pittsburgh,PA,2,3,2,6,1,2
+1102 Hillsboro St,Pittsburgh,PA,5,-1,-1,6,-1,-1
+126 Homestead St,Pittsburgh,PA,2,3,1,14,3.1,2
+209 Harrow Rd,Pittsburgh,PA,0,-1,-1,34,4.125,2.375
+101 Point Breeze Pl,Pittsburgh,PA,17,3.179,1.357,41,4.125,2.375
+3910 Mintwood St 1,Pittsburgh,PA,64,3.975,1.9,68,4.625,2.05
+130 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+437 Perrymont Rd,Pittsburgh,PA,8,3.7,1.6,20,4,2
+748 Thornwick Dr,Pittsburgh,PA,2,3,2,6,1,2
+1418 Cathell Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+9 Vinecliffe St,Pittsburgh,PA,63,4.1,1.6,93,4.278,2.333
+1107 Lindbergh Ave,Pittsburgh,PA,9,2.833,1,14,4.667,2.667
+15 Mitchell Dr,Pittsburgh,PA,32,3.421,1.737,141,3.971,2.471
+140 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+454 Francis Rd,Pittsburgh,PA,2,3.5,2,0,-1,-1
+86 Gensler Rd,Pittsburgh,PA,3,3.5,1,1,-1,-1
+413 Center St,Pittsburgh,PA,29,3.75,1.571,89,4.559,1.941
+113 Snowden Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+5179 Rosetta St,Pittsburgh,PA,27,4,1.611,34,4.206,1.471
+85 Stancey Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+2101 Eggers St,Pittsburgh,PA,10,3.4,1.6,13,1,2
+3857 Greensburg Pike,Pittsburgh,PA,3,3.75,1.5,2,-1,-1
+3207 Beechdale St,Pittsburgh,PA,13,3.5,1.167,22,4.5,1.5
+7201 Front River Rd,Pittsburgh,PA,4,3.833,1.667,4,-1,-1
+152 N Woodland Rd,Pittsburgh,PA,51,4.075,2.2,87,4.118,2.471
+320 Fort Duquesne Blvd 7b,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+215 Maxwell St,Pittsburgh,PA,24,3.786,1.5,53,4.265,1.824
+1497 Sturdy Oak Dr,Pittsburgh,PA,1,3,2,5,3.25,2
+1266 Love St,Pittsburgh,PA,3,2.667,1,12,3.222,2
+5903 5th Ave 107,Pittsburgh,PA,11,3.7,1.5,15,4.375,1.75
+227 S Home Ave 407,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+320 Fort Duquesne Blvd 9b,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+501 Grandview Ave,Pittsburgh,PA,71,3.975,2.25,41,3.778,2.167
+320 Fort Duquesne Blvd 7g,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+409 Mount Royal Blvd,Pittsburgh,PA,4,2.25,1,12,5,2
+2434 Smallman St 219,Pittsburgh,PA,64,4.175,1.65,66,4.25,2.278
+1323 Tyndall St,Pittsburgh,PA,5,3,2,8,-1,-1
+7048 Fleury Way,Pittsburgh,PA,12,4.417,1.5,17,4.75,2
+1610 Harvest Hill Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+125 Marshall Dr,Pittsburgh,PA,5,-1,-1,13,3.25,2.5
+76 Woodland Rd,Pittsburgh,PA,31,3.85,2,66,3.971,2.529
+3843 Greensburg Pike,Pittsburgh,PA,3,3.75,1.5,2,-1,-1
+2635 Pioneer Ave,Pittsburgh,PA,17,3.625,1.25,13,4.2,2.8
+122 Peony Ave,Pittsburgh,PA,0,-1,-1,2,3.5,3
+613 Louann St,Pittsburgh,PA,3,1.5,1,10,5,2
+2724 Shelly St,Pittsburgh,PA,57,3.95,1.9,60,3.95,2
+3348 Middletown Rd,Pittsburgh,PA,2,-1,-1,4,-1,-1
+129 N Linden Ave,Pittsburgh,PA,16,3.154,1.308,40,4.125,2.375
+6824 Thomas Blvd,Pittsburgh,PA,12,3.444,1.444,31,4.318,2.545
+4836 Mossfield Ct,Pittsburgh,PA,39,4.125,1.75,37,4.235,1.824
+320 Fort Duquesne Blvd 15k,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+2371 Whited St,Pittsburgh,PA,8,4.167,1.333,10,4.5,2.333
+1645 Lochlin Dr,Pittsburgh,PA,1,3.5,1,5,1,2
+15 Locust St,Pittsburgh,PA,14,3.562,1.375,72,4.533,2
+331 Darsie St,Pittsburgh,PA,86,4.05,1.85,67,4.525,1.85
+812 Grandview Ave 2b,Pittsburgh,PA,30,3.75,1.95,12,3.583,1.833
+1673 Durbin St,Pittsburgh,PA,6,3.5,1.75,13,-1,-1
+215 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+300 Coleman Way,Pittsburgh,PA,8,4.167,1.667,62,4.562,2.062
+1504 Orchardview Dr,Pittsburgh,PA,2,3,2,6,3.25,2
+56 Sampson St,Pittsburgh,PA,23,3.786,1.5,54,4.265,1.824
+139 Hidden Valley Dr,Pittsburgh,PA,13,3.062,1.25,19,3.778,1.556
+4320 New Texas Rd,Pittsburgh,PA,0,-1,-1,27,4.6,2.2
+175 Gass Rd,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+5825 5th Ave 310,Pittsburgh,PA,62,4.025,2.1,118,4.275,2.45
+101 Eton Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+1903 Woodward Ave,Pittsburgh,PA,8,3.1,1.2,8,3.5,3
+118 Ulysses St,Pittsburgh,PA,62,4.025,2.3,30,3.786,2.071
+3220 Villawood Ave,Pittsburgh,PA,8,3.5,1.333,8,-1,-1
+1525 Orchardview Dr,Pittsburgh,PA,3,2.5,1.5,7,3.375,2
+117 Marshall Dr,Pittsburgh,PA,3,-1,-1,13,3.25,2.5
+886 Macarthur Dr,Pittsburgh,PA,3,2.833,1.667,13,4.8,2
+2327 5th Ave,Pittsburgh,PA,32,3.735,1.529,90,4.267,1.933
+436 Norton St,Pittsburgh,PA,39,3.675,1.9,20,3.7,2
+114 Hidden Valley Dr,Pittsburgh,PA,14,3.222,1.333,17,4.056,1.556
+4063 Howley St,Pittsburgh,PA,73,4.025,1.75,67,4.525,2
+1056 Shady Ave,Pittsburgh,PA,35,3.825,2.1,70,4.029,2.529
+4611 Hamilton Rd,Pittsburgh,PA,3,3.75,1.5,6,3,2
+103 W Genessee St,Pittsburgh,PA,7,2.625,1,9,5,2
+1003 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+147 Moultrie St,Pittsburgh,PA,13,3.875,1.5,68,4.458,2.167
+818 Rolling Rock Rd,Pittsburgh,PA,7,3.357,1.429,12,3.5,2.75
+183 Alma St,Pittsburgh,PA,4,2.5,1,12,5,2
+125 Moultrie St,Pittsburgh,PA,14,3.875,1.5,72,4.375,2.083
+1429 Nixon St,Pittsburgh,PA,11,3.75,1.5,19,5,1.667
+515 Grandview Ave,Pittsburgh,PA,63,3.975,2.35,30,3.786,2.071
+6 Enfield St,Pittsburgh,PA,76,4.125,1.85,54,4,1.889
+715 Marzolf Road Ext,Pittsburgh,PA,3,3.5,1,8,5,2
+1700 Grove Crest Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+5505 Himmer Way,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1790 Norsen Dr,Pittsburgh,PA,3,4,1.667,10,2.167,2
+334 Winders St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+882 Edgewood Ave,Pittsburgh,PA,8,3.562,1.5,13,3.5,2.4
+5518 Kentucky Ave,Pittsburgh,PA,55,4.025,2.05,107,4.2,2.45
+3260 Dawson St,Pittsburgh,PA,42,3.85,1.4,16,4.083,1.833
+57 Grandview Ave,Pittsburgh,PA,1,-1,-1,1,2,1
+6942 Kelly St,Pittsburgh,PA,10,4.4,1.4,17,4.75,2
+428 Center New Texas Rd,Pittsburgh,PA,2,3.5,2,0,-1,-1
+4442 Rodenbaugh Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+1105 Onondago St,Pittsburgh,PA,0,-1,-1,0,-1,-1
+827 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,11,3.375,2.5
+820 Stanton Ave,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+4513 Torley St,Pittsburgh,PA,63,4.075,1.75,53,4.395,1.842
+211 Shady Knoll Dr,Pittsburgh,PA,2,2.5,1.5,7,3.375,2
+2016 Hampton St,Pittsburgh,PA,28,3.222,1.389,101,4.25,1.778
+1607 Chelsea Ct,Pittsburgh,PA,0,-1,-1,1,-1,-1
+5413 Page Dr,Pittsburgh,PA,8,3.875,1.75,14,2.667,2
+136 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+320 Fort Duquesne Blvd 14m,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+4317 Tesla St,Pittsburgh,PA,9,3.438,1.125,13,4.357,1.857
+9 Promenade St,Pittsburgh,PA,3,3.25,1.5,4,-1,-1
+118 Cabin Ln,Pittsburgh,PA,2,4,1,35,4.125,2.375
+2126 Lautner St,Pittsburgh,PA,10,3.4,1.6,13,1,2
+319 Preston Ave,Pittsburgh,PA,3,3.5,2,3,3,1.5
+7308 Church St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+130 Amabell St,Pittsburgh,PA,36,3.875,2.05,11,3.4,1.8
+601 Osage Rd,Pittsburgh,PA,15,3.107,1.786,23,3.9,2
+1057 Maple Heights Ct,Pittsburgh,PA,41,3.8,2.1,81,4.2,2.45
+302 Howard Dr,Pittsburgh,PA,36,3.475,1.75,181,4,2.471
+104 1st St,Pittsburgh,PA,13,3.409,1.455,15,4.167,1.333
+2717 Shelly St,Pittsburgh,PA,57,3.95,1.9,61,3.95,2
+4337 Lydia St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+225 Orchard Spring Rd,Pittsburgh,PA,24,3.211,1.789,18,3.375,2.125
+1834 Locust St,Pittsburgh,PA,100,4.3,1.75,139,4.275,1.9
+2417 Bellwood Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+849 Kerry Hill Dr,Pittsburgh,PA,8,3.438,1.625,7,3.5,1
+167 Glenfield Dr,Pittsburgh,PA,4,3.333,1,2,-1,-1
+247 Lafayette Ave,Pittsburgh,PA,4,4,2,7,5,1
+1795 Norsen Dr,Pittsburgh,PA,3,4,1.667,10,2.167,2
+207 Maple Ln,Pittsburgh,PA,5,3.75,1.75,5,-1,-1
+401 Orchard Spring Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+1410 Tyndall St,Pittsburgh,PA,5,3,2,8,-1,-1
+124 Carnegie Pl,Pittsburgh,PA,11,4.25,1.5,16,4.667,2
+303 Holmes Pl,Pittsburgh,PA,58,3.9,1.5,33,3.615,2
+3049 Fadette St,Pittsburgh,PA,3,-1,-1,6,-1,-1
+1211 Columbus Ave,Pittsburgh,PA,24,3.265,1.353,38,4.833,2
+3207 Spangler Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+1232 Dagmar Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+1332 Malvern Ave,Pittsburgh,PA,13,3.417,1.167,10,4.125,2
+1206 Elwell St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+163 Goucher Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+138 Van Buren St,Pittsburgh,PA,6,4.75,2,63,4.333,2
+48 Bethany Dr B,Pittsburgh,PA,9,2.75,1.375,16,2.75,1.75
+823 Londonderry Dr,Pittsburgh,PA,10,3.35,1.5,9,3.5,1
+5753 Interboro Ave,Pittsburgh,PA,4,4.333,1.333,4,-1,-1
+143 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1347 Squirrel Hill Ave,Pittsburgh,PA,8,3.833,1.333,13,4.125,2
+867 Reserve St,Pittsburgh,PA,12,4.143,1.571,70,4.433,2.067
+316 Darsie St,Pittsburgh,PA,85,4.05,1.85,67,4.5,1.95
+25 Ryan Dr,Pittsburgh,PA,5,3,1.75,11,3.7,1.8
+955 Jackman Ave,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+438 Orchard Ave,Pittsburgh,PA,22,3.821,1.571,84,4.3,1.933
+1143 Shady Ave,Pittsburgh,PA,13,3.636,1.909,20,3.722,2.333
+1125 Glenn Ave,Pittsburgh,PA,17,4,1.667,75,4.656,2.125
+2132 Delaware Ave,Pittsburgh,PA,21,3.321,1.5,97,4.361,1.778
+4622 Gardenville Rd,Pittsburgh,PA,9,3.9,1.8,15,3.125,1.75
+192 Connie Dr,Pittsburgh,PA,6,4.75,2,63,4.333,2
+540 N Neville St 602,Pittsburgh,PA,115,4,1.65,55,4,2.15
+1110 N Murtland St,Pittsburgh,PA,11,4.4,1.4,9,-1,-1
+1711 Michael Dr 112b 112b 112b,Pittsburgh,PA,3,3.5,1,1,-1,-1
+737 Artvue Dr,Pittsburgh,PA,2,3,2,5,1,2
+192 Alma St,Pittsburgh,PA,6,2.5,1.25,12,5,2
+96 Bartley Rd,Pittsburgh,PA,42,3.425,1.85,216,4,2.353
+1532 Orchardview Dr,Pittsburgh,PA,3,2.5,1.5,7,3.375,2
+807 Stanton Ave,Pittsburgh,PA,14,4.222,1.556,75,4.469,2.062
+1580 Spreading Oak Dr,Pittsburgh,PA,4,3,1.75,8,3.7,1.8
+1348 Firwood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+10 Grandview Ave,Pittsburgh,PA,111,3.875,2,98,4.167,2.267
+301 Holmes Pl,Pittsburgh,PA,58,3.9,1.5,33,3.615,2
+3262 Ward St,Pittsburgh,PA,66,3.9,1.5,40,3.667,1.933
+6 Green Oak Ln,Pittsburgh,PA,5,3,1.75,10,3.7,1.8
+190 Shadow Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+87 Cedar Ave,Pittsburgh,PA,5,4,1.8,6,-1,-1
+600 Horning St,Pittsburgh,PA,9,3.5,1.167,14,4.125,1.5
+826 E End Ave,Pittsburgh,PA,14,3.577,1.615,18,3.75,2
+914 Penn St,Pittsburgh,PA,15,4.4,1.8,86,4.607,2
+466 Ryndwood Rd,Pittsburgh,PA,13,3.85,1.3,35,4.25,2.167
+401 Roberts Rd,Pittsburgh,PA,3,2.5,1,1,-1,-1
+307 Gist St,Pittsburgh,PA,99,4.25,1.8,142,4.275,1.85
+1501 Michael Dr,Pittsburgh,PA,2,3.5,1,0,-1,-1
+3751 Greensburg Pike,Pittsburgh,PA,0,-1,-1,5,-1,-1
+2308 Shady Ave,Pittsburgh,PA,61,4.075,1.65,84,4.25,2.111
+833 Somerville Dr,Pittsburgh,PA,2,3,2,6,1,2
+1406 Fairstead Ln,Pittsburgh,PA,6,3,1.333,10,4.333,2
+1 E Sycamore St,Pittsburgh,PA,81,3.925,1.85,61,4,2.067
+130 Bellevue Ave,Pittsburgh,PA,17,3.208,1.417,27,3.95,1.4
+440 Biddle Ave,Pittsburgh,PA,31,3.889,1.611,96,4.444,2.111
+1408 Juniata St,Pittsburgh,PA,15,2.75,1.25,21,5,2
+524 Perrymont Rd,Pittsburgh,PA,9,3.786,1.571,32,3.9,1.9
+137 Lilac Ave,Pittsburgh,PA,0,-1,-1,4,3.75,2.5
+518 Mount Royal Blvd,Pittsburgh,PA,4,2.25,1,12,5,2
+1402 Washington Rd,Pittsburgh,PA,16,3.773,1.818,97,4.147,2.235
+924 Oakdale Ave,Pittsburgh,PA,10,3.35,1.5,13,3.5,2.4
+115 Rodgers Dr W,Pittsburgh,PA,2,4,1,3,-1,-1
+1226 Michael Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+106 Whipple St,Pittsburgh,PA,3,2.667,1,13,3.222,2
+3731 Henley Dr,Pittsburgh,PA,0,-1,-1,6,-1,-1
+1217 Island Ave,Pittsburgh,PA,12,3.75,1.5,14,5,1.5
+706 S Linden Ave,Pittsburgh,PA,35,3.975,1.75,44,4.111,2.222
+536 Perrymont Rd,Pittsburgh,PA,13,3.409,1.727,39,3.769,1.923
+139 Charles St,Pittsburgh,PA,23,3.577,1.385,28,4,1.6
+232 Phillips Ave,Pittsburgh,PA,5,3.25,1.5,1,4,1
+204 New Haven Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+1332 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+9255 Highland Rd,Pittsburgh,PA,1,3,2,4,-1,-1
+320 Fort Duquesne Blvd 6k,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+3013 Fadette St,Pittsburgh,PA,4,-1,-1,8,-1,-1
+306 Elsdon St,Pittsburgh,PA,1,-1,-1,6,5,1
+307 Oregon St,Pittsburgh,PA,11,3.8,1.2,18,5,3
+3227 Nottingham Dr,Pittsburgh,PA,1,-1,-1,7,-1,-1
+2256 Webster Ave,Pittsburgh,PA,53,4.2,1.6,100,4.361,2.222
+844 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,13,3.5,2.4
+4314 Mccaslin St,Pittsburgh,PA,9,3.438,1.125,7,4.6,2
+100 Rutledge Dr,Pittsburgh,PA,25,3.429,1.643,96,4.088,2
+204 3rd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+1400 Wynette St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+1045 Lapish Rd,Pittsburgh,PA,4,3.167,1.667,4,4.5,2
+72 Waterfront Dr,Pittsburgh,PA,38,4.05,1.8,54,4.25,2.25
+1936 Ley St,Pittsburgh,PA,14,3.722,1.556,21,3.625,2
+104 Bart Dr,Pittsburgh,PA,3,2.5,1,16,2.667,2
+910 Oakdale Ave,Pittsburgh,PA,9,3.389,1.444,14,3.5,2.4
+247 4th St,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1444 Duffield St,Pittsburgh,PA,4,4.333,2,6,3,1
+345 Roberts Rd,Pittsburgh,PA,3,2.5,1,1,-1,-1
+2003 Wyandotte St,Pittsburgh,PA,20,3.929,1.429,76,4.375,2.083
+830 S Trenton Ave,Pittsburgh,PA,19,3.867,1.6,33,4.35,2.1
+21 Marne Way,Pittsburgh,PA,21,3.647,1.529,7,3.667,1.833
+320 Fort Duquesne Blvd 14h,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+1606 Merriman Ct,Pittsburgh,PA,89,4.25,1.7,87,4.25,1.778
+320 Fort Duquesne Blvd 21c,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+109 De Arment Pkwy,Pittsburgh,PA,32,3.421,1.737,130,3.972,2.333
+115 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+2178 Garrick Dr,Pittsburgh,PA,6,3.375,1.25,7,-1,-1
+114 Hays St,Pittsburgh,PA,18,4.042,1.583,80,4.469,2.062
+200 Valley Fields Dr,Pittsburgh,PA,3,2.5,1,1,-1,-1
+7 Allequippa St,Pittsburgh,PA,15,3.5,1.333,75,4.423,2.077
+133 Hidden Valley Dr,Pittsburgh,PA,14,3.111,1.333,20,3.778,1.556
+1643 Duffield St,Pittsburgh,PA,4,4.333,2,6,3,1
+20 Beltzhoover Ave,Pittsburgh,PA,35,3.525,1.85,30,3.778,2.111
+227 S Home Ave 408,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+2391 Bellwood Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+6912 Greenwood St,Pittsburgh,PA,10,3.875,1.875,3,3,1
+176 Valley Fields Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+5109 Grand Ave,Pittsburgh,PA,5,3.25,1.5,1,4,1
+910 S Trenton Ave,Pittsburgh,PA,20,3.867,1.6,37,4.091,2
+120 Halsey Ct,Pittsburgh,PA,4,3,1.75,16,4.583,2.167
+4316 Stanley St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+2713 Kingwood St,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+1010 Towervue Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+1917 Monroe St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+114 Orchard Pl,Pittsburgh,PA,22,3.577,1.385,26,4,1.5
+2906 Mary St,Pittsburgh,PA,45,3.9,1.85,47,3.882,2.059
+1118 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+5201 Front River Rd,Pittsburgh,PA,5,3.25,1.5,1,4,1
+4909 Gardenville Rd,Pittsburgh,PA,3,3.75,1.5,3,3,2
+814 Kerry Hill Dr,Pittsburgh,PA,8,3.438,1.625,8,3.5,1
+729 Savannah Ave,Pittsburgh,PA,21,3.781,1.5,23,4.125,2
+2434 Smallman St 317,Pittsburgh,PA,65,4.225,1.65,66,4.25,2.278
+3426 Clearfield St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+217 Walter St,Pittsburgh,PA,24,3.588,1.471,37,3.458,2.083
+3251 Parkview Ave,Pittsburgh,PA,29,3.7,1.4,8,3.833,1.667
+833 Killarney Dr,Pittsburgh,PA,9,3.5,1.556,12,3.5,2.4
+873 Reserve St,Pittsburgh,PA,11,4.143,1.571,70,4.433,2.067
+225 Chester Ave,Pittsburgh,PA,1,-1,-1,6,5,1
+47 Greeley St,Pittsburgh,PA,90,4.075,1.85,84,4.15,1.9
+628 Field Club Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+173 Thornberry Dr,Pittsburgh,PA,2,3.5,1,5,-1,-1
+119 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+511 Carolyn Ave,Pittsburgh,PA,23,3.607,1.429,84,4.367,2
+1070 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+320 Fort Duquesne Blvd 5b 5b 5b,Pittsburgh,PA,196,4.025,2.2,213,4.289,2.368
+233 Sleepy Hollow Rd,Pittsburgh,PA,14,3,1.714,13,4.25,1.5
+10 Mitchell Dr,Pittsburgh,PA,32,3.421,1.737,143,3.971,2.471
+514 Teece Ave,Pittsburgh,PA,25,3.7,1.467,83,4.3,1.933
+304 S Home Ave,Pittsburgh,PA,31,3.474,1.263,89,4.406,1.875
+2118 Letsche St,Pittsburgh,PA,11,3.562,1.625,9,4.5,1.5
+1705 N Highland Rd,Pittsburgh,PA,39,3.425,1.8,199,3.971,2.471
+3045 Fadette St,Pittsburgh,PA,3,-1,-1,6,-1,-1
+1926 Lafayette St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+3128 Elroy Ave,Pittsburgh,PA,26,4,1.308,85,4.429,2.143
+58 Stancey Rd,Pittsburgh,PA,22,3.294,1.882,19,3.444,2
+6934 Manistee St,Pittsburgh,PA,17,4.071,1.714,68,4.406,2
+200 Thornberry Dr,Pittsburgh,PA,0,-1,-1,7,-1,-1
+1485 Mohican Dr,Pittsburgh,PA,20,3.633,1.8,116,4.219,2.5
+800 Beech Ave,Pittsburgh,PA,56,3.947,1.737,28,4.5,2
+1840 Locust St,Pittsburgh,PA,100,4.25,1.8,138,4.275,1.9
+1537 Orchardview Dr,Pittsburgh,PA,4,2.833,1.667,7,3.375,2
+509 Transverse Ave,Pittsburgh,PA,20,3.111,1.111,23,3.75,1.5
+3064 Swallow Hill Cir,Pittsburgh,PA,18,3.462,1.923,17,3.25,2.125
+764 Thornwick Dr,Pittsburgh,PA,2,3,2,6,1,2
+375 Greenway Dr,Pittsburgh,PA,10,2.25,1,12,-1,-1
+3926 Howley St,Pittsburgh,PA,69,3.95,1.9,67,4.675,1.95
+1358 S Side Ave,Pittsburgh,PA,6,3,1,6,-1,-1
+2209 Bond St,Pittsburgh,PA,0,-1,-1,0,-1,-1
+4750 Mckee Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+4858 Mossfield Ct,Pittsburgh,PA,36,4.15,1.7,33,4.235,1.588
+883 Macarthur Dr,Pittsburgh,PA,4,3,1.75,13,4.8,2
+336 Roberts Rd,Pittsburgh,PA,2,2.5,1,2,-1,-1
+5825 5th Ave 213,Pittsburgh,PA,62,4.025,2.1,119,4.275,2.45
+2064 Whited St,Pittsburgh,PA,3,3.667,1.333,5,3,1.667
+6 Waterside Pl,Pittsburgh,PA,26,3.8,1.733,45,4.273,2.091
+2034 Alfred St,Pittsburgh,PA,15,4.25,1.5,74,4.433,2.067
+400 Bodkin St,Pittsburgh,PA,21,3.667,1.278,14,4.333,2.5
+104 De Arment Pkwy,Pittsburgh,PA,32,3.421,1.737,136,3.917,2.389
+1216 Pocono St,Pittsburgh,PA,3,2.667,1,22,3.464,2.214
+422 Fisk St,Pittsburgh,PA,76,4,1.8,76,4.625,2.1
+125 8th Ave,Pittsburgh,PA,9,3.643,1.571,15,4.667,1.667
+144 Merrimac St,Pittsburgh,PA,46,3.9,2.15,20,3.778,2
+6340 Crombie St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+1446 N Franklin St,Pittsburgh,PA,18,3.35,1.7,22,5,2
+674 Fruithurst Dr,Pittsburgh,PA,3,2.5,1.5,8,4,2
+1121 Shady Ave,Pittsburgh,PA,17,3.833,1.8,35,3.6,2.6
+2006 Forbes Ave,Pittsburgh,PA,86,4.15,1.7,130,4.342,1.895
+2400 Michael Dr,Pittsburgh,PA,2,3.5,1,0,-1,-1
+4111 Perrysville Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+1301 Kenberma Ave,Pittsburgh,PA,13,3.714,1.286,6,-1,-1
+538 Beaufort Ave,Pittsburgh,PA,18,3.833,1.267,13,4.25,2.5
+2429 Cobden St,Pittsburgh,PA,63,4,1.9,57,4.079,2.053
+3300 Oregon St,Pittsburgh,PA,11,3.8,1.2,18,5,3
+2717 Kingwood St,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+7832 Old Perry Hwy,Pittsburgh,PA,12,3.75,1.375,59,4.346,2.385
+6436 Nicholson St,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+205 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+130 Blackhawk St,Pittsburgh,PA,10,3.071,1.143,18,3.091,2
+341 Long Dr,Pittsburgh,PA,36,3.45,1.8,153,4,2.438
+3266 Ward St 11,Pittsburgh,PA,75,3.925,1.45,43,3.719,2
+1283 Cedar Blvd,Pittsburgh,PA,2,3,2,3,1.75,2
+3415 Middletown Rd,Pittsburgh,PA,2,-1,-1,4,-1,-1
+5660 Koeffler Dr,Pittsburgh,PA,3,3.75,1.5,2,3,2
+3469 Harrisburg St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+5640 Cross St,Pittsburgh,PA,6,4.167,1.667,9,2,2
+473 Perrymont Rd,Pittsburgh,PA,9,3.833,1.5,28,4.125,1.75
+8179 Ohio River Blvd 37b,Pittsburgh,PA,6,4,1.833,7,-1,-1
+552 N Neville St 95,Pittsburgh,PA,108,3.925,1.7,49,3.8,2.15
+107 Orchard Pl,Pittsburgh,PA,22,3.577,1.385,27,4,1.5
+611 Louann St,Pittsburgh,PA,3,1.5,1,10,5,2
+5742 5th Ave 304,Pittsburgh,PA,49,4.025,2.1,111,4.25,2.45
+3031 Huxley St,Pittsburgh,PA,4,-1,-1,6,-1,-1
+897 Macarthur Dr,Pittsburgh,PA,4,3,1.75,13,4.8,2
+1029 Tyndall St,Pittsburgh,PA,4,-1,-1,6,-1,-1
+51 Van Braam St,Pittsburgh,PA,95,4.225,1.7,138,4.263,1.842
+2326 Primrose St,Pittsburgh,PA,79,4.05,1.85,71,4.15,1.95
+1530 Fallowfield Ave,Pittsburgh,PA,16,3.75,1.25,6,5,1
+119 Amabell St,Pittsburgh,PA,39,3.825,2.1,13,3.4,1.8
+1 Seneca St,Pittsburgh,PA,67,3.9,1.65,111,4.25,1.938
+120 Woodshire Dr,Pittsburgh,PA,10,3.688,1.25,29,3.643,1.857
+149 Whipple St,Pittsburgh,PA,3,2.667,1,4,2.75,2
+227 Lexington Ave,Pittsburgh,PA,24,3.571,1.643,92,4.088,1.941
+18 S 17th St,Pittsburgh,PA,91,4.25,1.7,89,4.25,1.778
+1956 Antietam St,Pittsburgh,PA,16,4.071,1.714,68,4.4,2
+4030 Perrysville Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+118 Clara St,Pittsburgh,PA,16,4.045,1.545,78,4.469,2.062
+721 Klemont Ave,Pittsburgh,PA,2,4.5,1,4,5,2
+833 Reserve St,Pittsburgh,PA,13,4.125,1.625,73,4.469,2.062
+110 Cabin Ln,Pittsburgh,PA,2,4,1,36,4.125,2.375
+3750 Margate Rd,Pittsburgh,PA,0,-1,-1,4,-1,-1
+4 Heather Ct,Pittsburgh,PA,0,-1,-1,27,4.6,2.2
+302 Miltenberger St,Pittsburgh,PA,96,4.25,1.8,134,4.25,1.85
+116 Stilwell Ct,Pittsburgh,PA,3,2.833,1.667,11,4.75,2
+1542 Greentree Rd,Pittsburgh,PA,5,3,1.75,9,3.7,1.8
+1805 Middle St,Pittsburgh,PA,17,4.083,1.833,71,4.464,1.929
+2328 Primrose St,Pittsburgh,PA,75,4.05,1.85,69,4.125,2
+1445 Mohican Dr,Pittsburgh,PA,19,3.679,1.786,111,4.219,2.5
+946 Clive St,Pittsburgh,PA,29,3.444,1.333,93,4.406,1.875
+136 Valley Hi Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+24 Perry Ln,Pittsburgh,PA,2,4.25,1.5,10,4.25,2
+4320 Tesla St,Pittsburgh,PA,9,3.438,1.125,12,4.357,1.857
+200 Falconhurst Dr N,Pittsburgh,PA,2,4,1,34,4.125,2.375
+2320 Primrose St,Pittsburgh,PA,79,4.05,1.85,71,4.15,1.95
+1950 Antietam St,Pittsburgh,PA,16,4.071,1.714,68,4.4,2
+2221 Lynnbrook Ave,Pittsburgh,PA,2,4.5,1,5,3.75,1.5
+2 Fountain St,Pittsburgh,PA,1,3,2,3,-1,-1
+120 Timberlane Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1648 Duffield St,Pittsburgh,PA,4,4.333,2,6,3,1
+1407 Dagmar Ave,Pittsburgh,PA,14,3.714,1.286,6,-1,-1
+233 3rd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+1810 Plainview Ave,Pittsburgh,PA,7,3.25,1,6,-1,-1
+125 Seegar Rd,Pittsburgh,PA,14,3.167,1.778,67,3.469,2.375
+1411 Beechview Ave,Pittsburgh,PA,14,3.714,1.286,5,-1,-1
+303 Timber Ct,Pittsburgh,PA,2,4,1,2,-1,-1
+3294 Dawson St,Pittsburgh,PA,75,3.925,1.45,42,3.719,2
+55 Grandview Ave,Pittsburgh,PA,1,-1,-1,0,-1,-1
+3055 Fadette St,Pittsburgh,PA,3,-1,-1,6,-1,-1
+1802 Forbes Ave,Pittsburgh,PA,91,4.225,1.7,130,4.342,1.895
+3245 Shadyway Dr,Pittsburgh,PA,8,3.5,1.333,13,4,2
+2644 Pioneer Ave,Pittsburgh,PA,18,3.618,1.235,15,4,2.833
+1746 Moynelle Dr,Pittsburgh,PA,3,4,1.667,10,2.75,2
+127 Bartley Rd,Pittsburgh,PA,33,3.421,1.737,143,4,2.412
+905 Eathan Ave,Pittsburgh,PA,17,3.929,1.214,14,4.25,2.5
+114 Sedgwick St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+2700 Shelly St A3 A3 A3,Pittsburgh,PA,58,3.95,1.9,64,3.95,2
+113 Davis St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+1251 Parkview Blvd,Pittsburgh,PA,3,3.167,1.333,2,5,2
+207 Sapling Way,Pittsburgh,PA,73,4.025,1.8,62,4.421,1.895
+120 Hidden Valley Dr,Pittsburgh,PA,14,3.222,1.333,20,3.9,1.5
+4135 Perrysville Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+510 Malabar Dr,Pittsburgh,PA,4,4.5,2,5,5,2.5
+107 Davis St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+135 9th St,Pittsburgh,PA,292,4.1,2.3,300,4.342,2.158
+501 Grandview Ave,Pittsburgh,PA,71,3.975,2.25,41,3.778,2.167
+1525 Mansion Pl,Pittsburgh,PA,18,3.033,1.267,36,2.909,1.636
+1314 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,4,-1,-1
+5903 5th Ave 102,Pittsburgh,PA,10,3.722,1.556,16,4.375,1.75
+1308 Sterling St,Pittsburgh,PA,62,4.05,1.8,53,4.158,2
+830 Field Club Rd,Pittsburgh,PA,2,4,1,34,4.357,2.429
+2033 Lafayette St,Pittsburgh,PA,27,3.176,1.353,97,4.111,1.778
+5513 Broad St,Pittsburgh,PA,55,4.075,2.2,96,4.25,2.5
+312 Howard Dr,Pittsburgh,PA,33,3.421,1.737,145,4,2.412
+400 Bark St,Pittsburgh,PA,1,-1,-1,2,-1,-1
+428 Bark St,Pittsburgh,PA,1,-1,-1,2,-1,-1
+5612 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+104 Ridgway Ct,Pittsburgh,PA,0,-1,-1,4,-1,-1
+1656 Harvest Hill Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+213 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+311 Biddle Ave,Pittsburgh,PA,22,3.794,1.529,32,4.222,2.111
+11 5th Ave,Pittsburgh,PA,272,4.075,2.2,286,4.289,2.263
+851 Reserve St,Pittsburgh,PA,12,4.143,1.571,71,4.433,2.067
+111 Mckinley Ave,Pittsburgh,PA,15,3.562,1.375,66,4.531,2
+3223 Shadyway Dr,Pittsburgh,PA,9,3.5,1.333,14,4.5,1.5
+214 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+1232 Malvern Ave,Pittsburgh,PA,25,3.618,1.529,48,4.105,2.421
+3114 Terrace St,Pittsburgh,PA,27,3.5,1.2,28,3.667,2.167
+405 Bigelow St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+829 Kerry Hill Dr,Pittsburgh,PA,9,3.278,1.556,9,3.5,1
+2434 Smallman St 321,Pittsburgh,PA,64,4.175,1.65,66,4.25,2.278
+113 E Undercliff St,Pittsburgh,PA,5,2.333,1,12,5,2
+2006 Forbes Ave,Pittsburgh,PA,86,4.15,1.7,130,4.342,1.895
+105 W Pennview St,Pittsburgh,PA,3,1.5,1,8,5,2
+6810 Mcpherson Blvd,Pittsburgh,PA,12,3.444,1.444,31,4.318,2.545
+1407 Columbus Ave,Pittsburgh,PA,14,2.786,1.286,21,5,2
+208 Crestview Rd,Pittsburgh,PA,11,3.9,1.4,16,5,2
+111 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+32 Beltzhoover Ave,Pittsburgh,PA,31,3.556,1.778,30,3.778,2.111
+5903 5th Ave 208,Pittsburgh,PA,62,4.05,2.15,114,4.225,2.55
+310 Surrey Pl,Pittsburgh,PA,1,-1,-1,5,-1,-1
+123 Washington St,Pittsburgh,PA,9,4.625,1.5,62,4.531,2
+1780 Moynelle Dr,Pittsburgh,PA,2,4,1.5,8,2.25,2
+29 S 16th St,Pittsburgh,PA,90,4.225,1.7,90,4.25,1.778
+311 Howard Dr,Pittsburgh,PA,34,3.425,1.7,150,4,2.412
+904 Western Ave,Pittsburgh,PA,35,3.7,1.85,32,4.5,2
+706 Ravenswood Ave,Pittsburgh,PA,2,4.5,1,5,5,2
+49 Bascom Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+306 Bodkin St,Pittsburgh,PA,25,3.632,1.263,16,4.143,2.571
+3349 Parkview Ave,Pittsburgh,PA,75,3.95,1.4,42,3.765,2
+309 Wyoming St,Pittsburgh,PA,58,3.9,1.9,25,3.7,2.1
+9277 N Florence Rd,Pittsburgh,PA,1,3,2,4,-1,-1
+105 Clara St,Pittsburgh,PA,16,4.045,1.545,78,4.469,2.062
+10 Garden Ter,Pittsburgh,PA,2,3.5,1,3,-1,-1
+698 Filmore Rd,Pittsburgh,PA,1,-1,-1,5,-1,-1
+1308 S Side Ave,Pittsburgh,PA,3,3,1,6,-1,-1
+1151 Oblock Rd,Pittsburgh,PA,3,4.25,2,2,-1,-1
+36 Miltenberger St,Pittsburgh,PA,99,4.25,1.8,136,4.289,1.895
+4 Edith Pl,Pittsburgh,PA,77,3.95,1.4,44,3.765,2
+419 Forest Ave,Pittsburgh,PA,23,3.75,1.5,83,4.344,1.938
+11 Reserve St,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+5111 Front River Rd,Pittsburgh,PA,4,3.25,1.5,1,4,1
+650 Perrymont Rd,Pittsburgh,PA,15,3.423,1.692,52,3.562,1.812
+2415 Bellwood Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+321 Evergreen Ave,Pittsburgh,PA,18,4.042,1.583,81,4.469,2.062
+27 Bascom Ave,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+825 Morewood Ave H1,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+4311 Winterburn Ave,Pittsburgh,PA,5,4,1.2,4,4.5,1.667
+4327 Stanley St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+3844 Rural Ct W,Pittsburgh,PA,3,3.75,1.5,3,-1,-1
+201 3rd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+30 S Starr Ave,Pittsburgh,PA,29,3.444,1.278,90,4.219,1.875
+831 S Trenton Ave,Pittsburgh,PA,21,3.867,1.6,38,4.35,2.1
+551 Foundry St,Pittsburgh,PA,19,3.455,1.364,30,3.1,1.8
+3427 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+773 Brafferton Dr,Pittsburgh,PA,5,3,1.5,8,4,2
+225 Sleepy Hollow Rd,Pittsburgh,PA,14,3,1.714,10,4.25,1.5
+967 Mccormick Ln,Pittsburgh,PA,5,3.3,1.2,8,3.5,1.75
+3821 Rural Ct W,Pittsburgh,PA,2,3.5,1,3,-1,-1
+1417 Fallowfield Ave,Pittsburgh,PA,14,3.714,1.286,4,-1,-1
+2512 Burham St,Pittsburgh,PA,67,4,1.85,63,4.079,2.053
+1416 Columbus Ave,Pittsburgh,PA,12,3.1,1.4,21,5,2
+177 Shadow Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+757 Artvue Dr,Pittsburgh,PA,2,3,2,5,1,2
+1443 Orchardview Dr,Pittsburgh,PA,2,3,2,5,3.25,2
+552 N Neville St 54,Pittsburgh,PA,115,4,1.65,55,3.947,2.158
+185 Black Oak Dr,Pittsburgh,PA,3,3.833,1,2,-1,-1
+4120 Grizella St,Pittsburgh,PA,6,4.75,2,63,4.333,2
+1634 Hallowell St,Pittsburgh,PA,2,3.75,1.5,5,3,1.667
+8207 Brightwood Trl,Pittsburgh,PA,8,3.7,1.6,23,4.5,2.4
+631 Glenside St,Pittsburgh,PA,0,-1,-1,5,1.5,1.5
+6910 Mcclure Ave,Pittsburgh,PA,10,3.071,1.143,21,3.083,1.833
+55 Waterfront Dr,Pittsburgh,PA,26,3.8,1.733,44,4.273,2.091
+7400 Brighton Rd,Pittsburgh,PA,4,3.75,1.75,3,-1,-1
+6504 Grand Ave,Pittsburgh,PA,3,2.5,1,3,-1,-1
+608 Perrilyn St,Pittsburgh,PA,18,3.833,1.267,13,4.25,2.5
+202 3rd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+60 Waterfront Dr,Pittsburgh,PA,26,3.8,1.733,45,4.273,2.091
+6 Butterfield Ave,Pittsburgh,PA,9,4.25,1.5,64,4.562,2.062
+1117 Tyndall St,Pittsburgh,PA,5,-1,-1,6,-1,-1
+1500 Navahoe Dr,Pittsburgh,PA,19,3.679,1.786,111,4.219,2.5
+608 Farragut St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+1723 Merriman Ct,Pittsburgh,PA,93,4.25,1.75,89,4.278,1.833
+107 Valley Dr,Pittsburgh,PA,24,3.571,1.643,93,4.118,2.059
+759 Thornwick Dr,Pittsburgh,PA,0,-1,-1,6,1,2
+119 Mckinley Ave,Pittsburgh,PA,15,3.562,1.375,65,4.531,2
+1020 Pennsylvania Ave,Pittsburgh,PA,33,3.5,1.611,31,4.5,2.2
+2434 Smallman St 519,Pittsburgh,PA,64,4.175,1.65,68,4.25,2.278
+1308 Tyndall St,Pittsburgh,PA,4,-1,-1,8,-1,-1
+1153 Oblock Rd,Pittsburgh,PA,4,4.25,2,4,5,2
+5618 Maple Heights Ct,Pittsburgh,PA,40,3.8,2.1,82,4.2,2.45
+514 Rosewood Dr,Pittsburgh,PA,6,3.9,1.4,5,4,2
+1309 Fallowfield Ave,Pittsburgh,PA,8,3.5,1.25,3,-1,-1
+4305 Winterburn Ave,Pittsburgh,PA,5,4,1.2,4,4.5,1.667
+1910 Monroe St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+1725 Grove Crest Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+204 Falconhurst Dr N,Pittsburgh,PA,0,-1,-1,34,4.125,2.375
+1423 Beechview Ave,Pittsburgh,PA,15,3.714,1.286,6,5,1
+701 Thornwick Dr,Pittsburgh,PA,1,3.5,1,6,1,2
+201 Holmes Pl 8,Pittsburgh,PA,58,3.9,1.5,32,3.615,2
+3907 Howley St,Pittsburgh,PA,65,3.95,1.9,64,4.675,2.05
+2311 Shady Ave,Pittsburgh,PA,59,4.075,1.65,78,4.278,2.111
+5818 Howe St,Pittsburgh,PA,65,4.075,2.2,133,4.2,2.4
+3900 Howley St,Pittsburgh,PA,65,3.95,1.9,64,4.65,1.95
+720 Mifflin Ave,Pittsburgh,PA,21,3.781,1.5,28,4.125,2
+4315 Winterburn Ave,Pittsburgh,PA,5,4,1.2,4,4.5,1.667
+2268 Whited St,Pittsburgh,PA,4,4.5,1.667,7,3.75,1.5
+4628 Gardenville Rd,Pittsburgh,PA,8,3.875,1.75,12,2,2
+4339 Lydia St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+4317 Mccaslin St,Pittsburgh,PA,9,3.438,1.125,11,4.357,1.857
+63 Fountain St,Pittsburgh,PA,32,4.176,1.529,23,4.2,2
+4825 Gardenville Rd,Pittsburgh,PA,3,3.75,1.5,3,3,2
+6410 Nicholson St,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+2182 Beulah Rd,Pittsburgh,PA,6,3.375,1.25,7,-1,-1
+34 Fountain St,Pittsburgh,PA,0,-1,-1,2,-1,-1
+135 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+238 Dilworth St,Pittsburgh,PA,21,3.647,1.529,7,3.667,1.833
+3009 Fadette St,Pittsburgh,PA,4,-1,-1,8,-1,-1
+11 5th Ave,Pittsburgh,PA,272,4.075,2.2,286,4.289,2.263
+5903 5th Ave 111,Pittsburgh,PA,11,3.65,1.5,15,4.375,1.75
+5457 Kincaid St,Pittsburgh,PA,46,4.1,2.15,81,4.2,2.267
+116 Sedgwick St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+31 Glen Ridge Ln,Pittsburgh,PA,22,3.294,1.824,14,3.5,2.167
+208 New Haven Ln,Pittsburgh,PA,5,3.75,1.75,8,5,2
+642 Perrymont Rd,Pittsburgh,PA,15,3.423,1.692,49,3.5,1.867
+2468 Woodward Ave,Pittsburgh,PA,24,3.684,1.263,17,4.333,2.5
+5825 5th Ave 110,Pittsburgh,PA,10,3.667,1.556,13,3.75,1.5
+222 Carnegie Pl,Pittsburgh,PA,11,4.25,1.5,16,4.667,2
+4056 Vinceton St,Pittsburgh,PA,1,-1,-1,5,1.5,1.5
+99 Seneca Dr,Pittsburgh,PA,9,3.333,1.889,30,3.125,2.5
+836 Kerry Hill Dr,Pittsburgh,PA,9,3.278,1.556,7,3.5,1
+1445 Jancey St,Pittsburgh,PA,10,4.071,2,6,3,1
+3758 Rural Ct E,Pittsburgh,PA,0,-1,-1,3,-1,-1
+204 Howard Dr,Pittsburgh,PA,40,3.425,1.85,215,4,2.353
+112 Stilwell Ct,Pittsburgh,PA,1,2.5,2,6,4.667,2
+35 Mazer St,Pittsburgh,PA,5,4.75,2,60,4.333,2
+1508 Dagmar Ave,Pittsburgh,PA,16,3.75,1.25,5,5,1
+110 The Maples,Pittsburgh,PA,21,3.333,1.467,46,3.559,1.824
+349 Tall Tree Dr,Pittsburgh,PA,5,-1,-1,12,-1,-1
+1369 Washington Rd,Pittsburgh,PA,16,3.591,1.727,97,4.206,2.176
+1218 Brighton Rd,Pittsburgh,PA,52,3.947,1.737,25,4.5,2
+312 Aidyl Ave,Pittsburgh,PA,28,3.763,1.211,37,4,2.286
+426 Bark St,Pittsburgh,PA,1,-1,-1,2,-1,-1
+73 Standish Blvd,Pittsburgh,PA,13,3.722,1.889,95,4.147,2.176
+5747 5th Ave,Pittsburgh,PA,51,4.025,2.1,116,4.275,2.45
+2168 Whited St,Pittsburgh,PA,5,3.875,1.25,6,3.75,1.5
+5825 5th Ave 302,Pittsburgh,PA,56,4.025,2.15,118,4.3,2.45
+3428 Harrisburg St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+116 Marshall Dr,Pittsburgh,PA,4,-1,-1,13,3.25,2.5
+101 Perryview Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+3010 Fadette St,Pittsburgh,PA,4,-1,-1,8,-1,-1
+2434 Smallman St 112,Pittsburgh,PA,64,4.175,1.65,66,4.25,2.278
+7 Lodge St,Pittsburgh,PA,6,3.125,1,11,4.25,1.5
+4334 Winterburn Ave,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+9427 Saratoga Dr,Pittsburgh,PA,12,3.208,1.583,22,3.292,2
+902 Delafield Rd,Pittsburgh,PA,13,3.45,1.3,42,3.559,1.765
+137 Riverview Ter,Pittsburgh,PA,20,3.25,1.429,36,3.5,1.895
+822 Middle Rd,Pittsburgh,PA,7,3.357,1.429,13,3.5,2.4
+1104 S Side Ave,Pittsburgh,PA,2,3,1,3,-1,-1
+434 Orchard Ave,Pittsburgh,PA,22,3.821,1.571,84,4.3,1.933
+1543 Evanston St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+2441 Plainview Ave,Pittsburgh,PA,26,3.684,1.263,15,4.4,2.2
+1222 Uptegraf St,Pittsburgh,PA,3,2.667,1,10,3.429,2
+307 Holmes Pl,Pittsburgh,PA,58,3.9,1.5,33,3.615,2
+729 Ravenswood Ave,Pittsburgh,PA,1,4.5,1,4,5,2
+1440 Mohican Dr,Pittsburgh,PA,18,3.769,1.846,111,4.219,2.5
+1818 Antietam St,Pittsburgh,PA,11,3.889,1.889,4,3,1
+3251 Fadette St,Pittsburgh,PA,2,-1,-1,3,-1,-1
+909 Edgewood Ave,Pittsburgh,PA,8,3.562,1.5,13,3.5,2.4
+315 Carnegie Pl,Pittsburgh,PA,11,4.25,1.5,15,4.667,2
+6330 Waldron St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+106 Jucunda St,Pittsburgh,PA,23,3.577,1.385,28,4,1.6
+624 Orchard Hill Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+2470 Woodward Ave,Pittsburgh,PA,24,3.684,1.263,19,4.143,2.571
+101 Davis St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+123 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+119 Yorkshire Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+589 Blessing St,Pittsburgh,PA,74,4.1,1.85,46,4.3,2
+16 Ryan Dr,Pittsburgh,PA,5,3,1.75,10,3.7,1.8
+2001 Tustin St,Pittsburgh,PA,96,4.225,1.8,139,4.275,1.85
+1305 Alton St,Pittsburgh,PA,6,3.667,1,5,-1,-1
+627 Kewanna Ave,Pittsburgh,PA,11,3.4,1.6,29,4.115,1.846
+1020 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+540 Horning St,Pittsburgh,PA,9,3.5,1.167,14,3.8,1.8
+104 E Genessee St,Pittsburgh,PA,9,2.833,1,13,5,2
+6837 Thomas Blvd,Pittsburgh,PA,11,3.5,1.5,30,4.667,2.444
+248 Dilworth St,Pittsburgh,PA,19,3.633,1.533,7,3.667,1.833
+320 Fort Duquesne Blvd 9c,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+1455 Greentree Rd,Pittsburgh,PA,5,3,1.75,9,3.7,1.8
+1825 Ley St,Pittsburgh,PA,15,3.722,1.556,28,3.6,2.2
+2611 Plainview Ave,Pittsburgh,PA,26,3.6,1.3,19,4.143,2.571
+116 Merrimac St,Pittsburgh,PA,47,3.9,2.15,20,3.778,2
+532 Perrymont Rd,Pittsburgh,PA,14,3.542,1.583,39,3.808,1.923
+5833 Kentucky Ave,Pittsburgh,PA,65,4.025,2.15,127,4.2,2.4
+2115 Lowrie St,Pittsburgh,PA,10,3.4,1.6,12,1,2
+710 Stanton Ave,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+831 Field Club Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+429 E Burgess St,Pittsburgh,PA,1,-1,-1,1,-1,-1
+345 Clair Dr,Pittsburgh,PA,38,3.45,1.75,197,4,2.529
+2328 Spring Garden Ave,Pittsburgh,PA,4,4.5,1.5,9,-1,-1
+1443 Mohican Dr,Pittsburgh,PA,18,3.769,1.846,111,4.219,2.5
+1533 Napoleon St,Pittsburgh,PA,14,3.643,1.286,5,5,1
+109 Bentley Dr,Pittsburgh,PA,0,-1,-1,33,3.944,2.556
+227 Dilworth St,Pittsburgh,PA,22,3.694,1.556,8,3.667,1.833
+92 Bartley Rd,Pittsburgh,PA,42,3.425,1.85,220,4.059,2.294
+6 Sampson St,Pittsburgh,PA,10,4.3,1.4,65,4.531,2
+788 Somerville Dr,Pittsburgh,PA,2,3,2,6,1,2
+3239 Faronia St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+6321 Waldron St,Pittsburgh,PA,59,4.05,1.65,76,4.306,2.111
+1455 Mohican Dr,Pittsburgh,PA,19,3.679,1.786,111,4.219,2.5
+361 Roberts Rd,Pittsburgh,PA,3,2.5,1,1,-1,-1
+201 Karen Dr,Pittsburgh,PA,11,4.143,1.571,70,4.433,2.067
+1224 Juniata St,Pittsburgh,PA,24,3.265,1.353,36,4.833,2
+203 Field Club Ridge Rd,Pittsburgh,PA,2,4,1,2,-1,-1
+110 Bigham St,Pittsburgh,PA,30,3.75,1.95,10,3.4,1.8
+3258 Dawson St,Pittsburgh,PA,38,3.825,1.45,14,4.083,1.833
+4334 Haldane St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+2105 Columbia Ave,Pittsburgh,PA,28,3.294,1.412,99,4.25,1.778
+2012 Forbes Ave,Pittsburgh,PA,95,4.225,1.75,137,4.263,1.842
+817 Kerry Hill Dr,Pittsburgh,PA,8,3.438,1.625,8,3.5,1
+11 Vine St,Pittsburgh,PA,40,3.529,1.706,84,4.423,2.154
+4710 Mckee Dr,Pittsburgh,PA,4,4.167,1.667,8,3,2
+1716 Nevada St,Pittsburgh,PA,13,2.75,1.1,19,2.833,1.778
+120 De Arment Pkwy,Pittsburgh,PA,32,3.421,1.737,131,3.917,2.333
+3248 Ward St,Pittsburgh,PA,45,3.85,1.4,25,3.6,2
+2014 Tustin St,Pittsburgh,PA,98,4.2,1.8,139,4.263,1.842
+140 Labelle St,Pittsburgh,PA,23,3.667,2.111,5,3.333,1.667
+1602 Fiat St,Pittsburgh,PA,4,4,1.333,4,3.75,1.5
+3209 Spangler Ave,Pittsburgh,PA,22,3.909,1.364,85,4.429,2.143
+117 Valley Dr,Pittsburgh,PA,24,3.567,1.667,94,4.206,2.059
+5743 Villa Haven Dr,Pittsburgh,PA,3,3.75,1.5,6,3,2
+33 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+9301 Highland Rd,Pittsburgh,PA,4,3.75,2,28,4.55,1.8
+714 Vallevista Ave,Pittsburgh,PA,12,3.409,1.636,31,4.179,1.857
+771 Riehl Dr,Pittsburgh,PA,9,3.5,1.556,12,3.5,2.4
+3289 Dawson St 1,Pittsburgh,PA,66,3.9,1.5,39,3.667,1.933
+116 Mcmonagle Ave,Pittsburgh,PA,6,3.5,1.75,9,3.833,2.333
+247 Dilworth St,Pittsburgh,PA,20,3.719,1.5,7,3.667,1.833
+213 Dinwiddie St,Pittsburgh,PA,24,3.708,1.583,73,4.409,2.182
+46 Waterfront Dr,Pittsburgh,PA,27,3.844,1.75,44,4.273,2.091
+227 S Home Ave 508,Pittsburgh,PA,30,3.5,1.316,97,4.406,1.875
+676 Fruithurst Dr,Pittsburgh,PA,3,2.5,1.5,7,4,2
+3062 Swallow Hill Cir,Pittsburgh,PA,18,3.462,1.923,17,3.25,2.125
+6816 Mcpherson Blvd,Pittsburgh,PA,11,3.5,1.5,29,4.667,2.444
+3939 Liberty Ave,Pittsburgh,PA,69,3.95,1.95,66,4.65,2
+115 Clara St,Pittsburgh,PA,16,4.045,1.545,78,4.469,2.062
+2710 Shelly St,Pittsburgh,PA,57,3.95,1.9,61,3.95,2
+176 6th Ave,Pittsburgh,PA,7,3.667,1.5,13,4.5,2
+74 Parker St,Pittsburgh,PA,14,3.643,1.429,65,4.531,2
+3826 Greensburg Pike,Pittsburgh,PA,3,3.75,1.5,3,-1,-1
+142 Shady Ln,Pittsburgh,PA,23,3.633,1.667,99,4.088,2
+219 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,45,3.559,1.824
+151 College Ave,Pittsburgh,PA,3,3,1.5,3,-1,-1
+1134 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+137 Seegar Rd,Pittsburgh,PA,8,3.5,1.5,25,3.182,2.455
+4603 Torley St,Pittsburgh,PA,63,4.025,1.75,53,4.421,1.895
+4309 Stanley St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+2217 Romine St,Pittsburgh,PA,5,3.4,1.6,5,3.5,1
+141 Hidden Valley Dr,Pittsburgh,PA,12,3,1.143,17,3.778,1.556
+101 Ridgway Ct,Pittsburgh,PA,0,-1,-1,3,-1,-1
+213 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+129 E Sycamore St,Pittsburgh,PA,82,3.925,1.9,56,3.75,2.083
+23 Garden Ter,Pittsburgh,PA,1,-1,-1,5,-1,-1
+13 Garden Ter,Pittsburgh,PA,2,3.5,1,3,-1,-1
+744 Artvue Dr,Pittsburgh,PA,2,3,2,5,1,2
+92 Gensler Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+2328 Eldridge St,Pittsburgh,PA,63,4.075,1.6,85,4.278,2.056
+60 Gensler Rd,Pittsburgh,PA,3,3.5,1,1,-1,-1
+28 Howard St,Pittsburgh,PA,16,4.045,1.545,78,4.469,2.062
+3445 Harrisburg St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+599 Short Ave,Pittsburgh,PA,8,4.167,1.667,60,4.562,2.062
+2707 Cobden St,Pittsburgh,PA,55,3.95,1.9,55,4.079,2.053
+854 Lochlin Dr,Pittsburgh,PA,1,3.5,1,6,1,2
+814 Middle Rd,Pittsburgh,PA,7,3.357,1.429,13,3.5,2.4
+1764 Arlington Ave,Pittsburgh,PA,18,3.278,1.222,25,3.667,1.333
+638 Arden Ln,Pittsburgh,PA,15,3.107,1.786,21,3.889,2
+1604 Chelsea Ct,Pittsburgh,PA,0,-1,-1,1,-1,-1
+243 Ella St,Pittsburgh,PA,76,4.1,1.75,59,4.421,1.947
+2108 James Dr,Pittsburgh,PA,13,4.167,1.5,74,4.469,2.062
+318 North Ave,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+1206 N Murtland St,Pittsburgh,PA,11,4.4,1.4,8,-1,-1
+3084 Swallow Hill Cir,Pittsburgh,PA,17,3.458,1.917,17,3.25,2.125
+110 Rutledge Dr,Pittsburgh,PA,25,3.429,1.643,94,4.088,2
+431 Francis Rd,Pittsburgh,PA,2,3.5,2,1,-1,-1
+838 Kerry Hill Dr,Pittsburgh,PA,9,3.278,1.556,7,3.5,1
+1745 Hallowell St,Pittsburgh,PA,3,3.667,1.333,5,3,1.667
+114 9th St,Pittsburgh,PA,8,3.667,1.5,15,4.375,1.75
+213 Steuben St,Pittsburgh,PA,11,3.833,1.167,15,3.75,2.5
+547 Foundry St,Pittsburgh,PA,19,3.455,1.364,31,3.1,1.8
+5519 Broad St,Pittsburgh,PA,55,4.075,2.2,96,4.25,2.5
+1402 Juniata St,Pittsburgh,PA,15,2.75,1.25,21,5,2
+217 Davis Ave,Pittsburgh,PA,8,4.167,1.667,55,4.533,2.133
+210 Elwyn Ave,Pittsburgh,PA,6,3.417,1.5,7,3.75,1.5
+2326 Whited St,Pittsburgh,PA,8,4.167,1.333,10,4.5,2.333
+1636 Mcbride St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+126 Seegar Rd,Pittsburgh,PA,13,3.429,1.571,54,3.6,2.4
+2469 Plainview Ave,Pittsburgh,PA,24,3.684,1.263,15,4.4,2.2
+97 Sampson St,Pittsburgh,PA,15,3.6,1.4,23,3.929,1.714
+5406 Fredanna St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+2206 Michael Dr,Pittsburgh,PA,2,3.5,1,1,-1,-1
+1724 Chislett St,Pittsburgh,PA,11,3.889,1.889,6,3,1
+297 Yosemite Dr,Pittsburgh,PA,14,4,1.25,17,5,2
+1085 Windy Oak Dr,Pittsburgh,PA,1,-1,-1,27,4.6,2.2
+1416 Hamlin St,Pittsburgh,PA,21,3.036,1.429,23,5,2
+3924 Howley St,Pittsburgh,PA,69,3.95,1.9,67,4.675,1.95
+3109 Terrace St,Pittsburgh,PA,18,3.708,1.25,22,4,2.2
+4013 Howley St,Pittsburgh,PA,76,3.975,1.85,72,4.625,2.1
+221 E Waldheim Rd,Pittsburgh,PA,21,3.333,1.467,45,3.559,1.824
+119 Morewood Ave,Pittsburgh,PA,79,4.075,1.8,55,4.053,1.842
+320 Fort Duquesne Blvd 5n,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+767 Newport Dr,Pittsburgh,PA,8,3.312,1.5,11,3.5,2.75
+2123 Whited St,Pittsburgh,PA,3,3.667,1.333,4,3,1.667
+1440 Cathell Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+840 College Ave,Pittsburgh,PA,69,4.075,2.1,141,4.2,2.4
+826 S Trenton Ave,Pittsburgh,PA,19,3.867,1.6,33,4.35,2.1
+180 Springmeadow Dr,Pittsburgh,PA,22,3.107,1.714,112,3.781,2.375
+46 Clairmont Ave,Pittsburgh,PA,5,3.75,1.5,12,5,2
+334 Prospect St,Pittsburgh,PA,37,3.7,1.85,20,3.7,2
+5631 Cross St,Pittsburgh,PA,4,4.167,1.667,4,3,2
+315 Homer Dr,Pittsburgh,PA,5,3.167,1.333,6,-1,-1
+2039 Eggers St,Pittsburgh,PA,10,3.4,1.6,14,2.25,1.5
+9354 Aldenford Dr,Pittsburgh,PA,12,3.208,1.583,13,3.278,1.778
+218 Dinwiddie St,Pittsburgh,PA,22,4,1.667,67,4.409,2.182
+666 Charlotte Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+290 Wade St,Pittsburgh,PA,29,3.675,1.75,18,3.7,2
+29 Kenneth Dr,Pittsburgh,PA,7,2.8,1.2,16,5,2
+2324 Pittock St,Pittsburgh,PA,63,4.075,1.65,84,4.25,2.111
+1621 Lowrie St,Pittsburgh,PA,26,3.824,1.824,37,4.056,2.222
+2490 Craftmont Ave,Pittsburgh,PA,7,3.667,1.5,14,-1,-1
+200 Davis Ave,Pittsburgh,PA,8,4.167,1.667,56,4.533,2
+109 Markham Dr,Pittsburgh,PA,14,3.591,1.909,89,4.147,2.235
+88 N Duane St,Pittsburgh,PA,13,3.6,1.4,20,3.929,1.714
+9224 Willoughby Rd,Pittsburgh,PA,4,3.75,2,28,4.55,1.8
+1296 Lakemont Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+36 Greenwood Ave,Pittsburgh,PA,14,3.6,1.4,20,3.929,1.714
+612 Driftwood Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+7927 Lloyd Ave,Pittsburgh,PA,12,3.75,1.667,76,4.471,1.824
+125 Woodshire Dr,Pittsburgh,PA,10,3.688,1.25,28,3.615,1.846
+7119 Grand Ave,Pittsburgh,PA,4,3.833,1.667,4,-1,-1
+11 Dawson Ct,Pittsburgh,PA,33,3.725,1.5,10,3.875,1.75
+1335 Pinewood Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+1430 Morningside Ave,Pittsburgh,PA,8,4.1,2,6,3,1
+2325 Whited St,Pittsburgh,PA,7,4.3,1.4,8,5,4
+847 Kerry Hill Dr,Pittsburgh,PA,9,3.278,1.556,7,3.5,1
+320 Fort Duquesne Blvd 7n,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+410 Wickford Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+1648 Harvest Hill Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+9467 Saratoga Dr,Pittsburgh,PA,10,3.1,1.7,18,3.2,2
+3402 Clearfield St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+1126 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+7357 Denniston Ave,Pittsburgh,PA,27,3.176,1.353,99,4.25,1.722
+2415 Starkamp St,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+1456 Greentree Rd,Pittsburgh,PA,4,2.833,1.667,8,3.375,2
+378 Tall Tree Dr,Pittsburgh,PA,4,-1,-1,12,-1,-1
+1904 Plainview Ave,Pittsburgh,PA,8,3.5,1.2,9,3.5,3
+913 Galveston Ave,Pittsburgh,PA,35,3.7,1.85,32,4.5,2
+3829 Rural Ct W,Pittsburgh,PA,2,3.5,1,3,-1,-1
+124 8th Ave,Pittsburgh,PA,9,3.643,1.571,15,4.667,1.667
+104 Priscilla Dr,Pittsburgh,PA,8,3.714,1.571,15,4.3,1.6
+825 Stanton Ave,Pittsburgh,PA,14,4.222,1.556,74,4.469,2.062
+137 Warwick Dr,Pittsburgh,PA,14,3.167,1.778,81,3.531,2.375
+535 Beaufort Ave,Pittsburgh,PA,18,3.833,1.267,13,4.25,2.5
+1225 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+120 Rose Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+15 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+1320 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+4716 Gardenville Rd,Pittsburgh,PA,4,4.167,1.667,8,3,2
+222 Dinwiddie St,Pittsburgh,PA,22,4,1.667,67,4.409,2.182
+4213 Main St 2jan 2jan 2jan,Pittsburgh,PA,72,4.1,1.7,67,4.45,1.95
+4343 Mccaslin St,Pittsburgh,PA,10,3.5,1.222,11,4.357,1.857
+36 Fornoff St,Pittsburgh,PA,18,4.042,1.583,79,4.469,2.062
+1217 Malvern Ave,Pittsburgh,PA,34,3.675,1.75,68,4.15,2.45
+1778 Seegar Cir,Pittsburgh,PA,13,3.25,1.5,32,3.033,2.4
+425 Fisk St,Pittsburgh,PA,77,4.025,1.8,68,4.6,2.05
+1222 Pocono St,Pittsburgh,PA,3,2.667,1,20,3.538,2.231
+2022 Hampton St,Pittsburgh,PA,28,3.222,1.389,100,4.25,1.778
+28 Emma Dr,Pittsburgh,PA,8,2.667,1.333,15,4.333,2
+125 9th Ave,Pittsburgh,PA,7,3.5,1.4,16,4.75,1.75
+6930 Bishop St,Pittsburgh,PA,13,4.143,1.857,65,4.438,2
+11 5th Ave,Pittsburgh,PA,272,4.075,2.2,286,4.289,2.263
+1216 Dagmar Ave,Pittsburgh,PA,8,3.5,1.25,3,-1,-1
+5228 Forbes Ave,Pittsburgh,PA,17,3.3,1.4,34,4.176,2.529
+7 Patton Dr,Pittsburgh,PA,32,3.421,1.737,141,3.972,2.389
+618 Griffin St,Pittsburgh,PA,11,3.562,1.5,5,3.875,1.75
+255 Ashford Ave,Pittsburgh,PA,18,3.231,1.385,28,4.045,1.455
+159 Angena Dr,Pittsburgh,PA,5,3.6,1.4,9,-1,-1
+6350 Phillips Ave,Pittsburgh,PA,59,4.05,1.65,75,4.306,2.111
+1034 Towervue Dr,Pittsburgh,PA,1,-1,-1,0,-1,-1
+1323 Powers Run Rd,Pittsburgh,PA,2,4,1,34,4.125,2.375
+700 Scrubgrass Rd,Pittsburgh,PA,13,2.923,1.769,14,3.611,2
+227 S Home Ave 703,Pittsburgh,PA,30,3.5,1.316,96,4.406,1.875
+463 Perrymont Rd,Pittsburgh,PA,9,3.786,1.571,32,3.9,1.9
+154 Merrimac St,Pittsburgh,PA,45,3.9,2.15,20,3.778,2
+3826 Rural Ct W,Pittsburgh,PA,2,3.5,1,3,-1,-1
+7038 Mcclure Ave,Pittsburgh,PA,13,2.75,1.1,21,2.85,1.8
+Interboro Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+102 N Woodland Rd,Pittsburgh,PA,52,4.075,2.1,91,4.175,2.65
+149 Moultrie St,Pittsburgh,PA,13,3.875,1.5,68,4.458,2.167
+9443 Saratoga Dr,Pittsburgh,PA,11,3.182,1.636,19,3.227,2
+318 W Burgess St,Pittsburgh,PA,1,-1,-1,8,5,1
+53 Waterfront Dr,Pittsburgh,PA,27,3.844,1.75,46,4.333,2.083
+155 Glenfield Dr,Pittsburgh,PA,7,3.4,1.2,37,4.438,2.375
+500 Chautauqua St,Pittsburgh,PA,6,3.4,1.6,10,4.5,1.5
+28 Cannon St,Pittsburgh,PA,13,3.917,1.833,46,4.545,2
+156 Nottingham Dr,Pittsburgh,PA,3,4.5,2,21,1.5,3
+136 Graeser Ave,Pittsburgh,PA,21,3.029,1.824,116,3.938,2.062
+3132 Terrace St,Pittsburgh,PA,32,3.6,1.2,30,3.643,2.143
+17 Winders St,Pittsburgh,PA,7,4,1.429,3,4.5,1.667
+219 Southern Ave,Pittsburgh,PA,22,3.647,1.529,9,3.667,1.833
+6911 Thomas Blvd,Pittsburgh,PA,13,3.889,1.444,33,4.7,2.3
+316 N Mathilda St,Pittsburgh,PA,53,4.075,1.9,47,4.342,1.789
+1810 Antietam St,Pittsburgh,PA,13,3.9,1.9,5,3,1
+10 Hemingway St,Pittsburgh,PA,83,4.1,1.8,61,4.211,1.789
+2503 Cobden St,Pittsburgh,PA,67,4,1.85,63,4.079,2.053
+4447 Rodenbaugh Ave,Pittsburgh,PA,6,4.75,2,62,4.333,2
+1328 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+6221 Mellon Park Ct,Pittsburgh,PA,41,4,2.1,74,4,2.611
+170 Sunset Dr,Pittsburgh,PA,4,3.5,1.667,14,4,2
+5616 Interboro Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+6905 Standish St,Pittsburgh,PA,19,4.125,1.75,71,4.438,2
+74 Waterfront Dr,Pittsburgh,PA,43,4.175,1.7,54,4.25,2.25
+5505 Beacon St,Pittsburgh,PA,49,4.025,1.6,54,4.222,2
+320 Fort Duquesne Blvd 10n,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+128 De Ruad St,Pittsburgh,PA,16,4.1,1.4,74,4.375,2.083
+552 N Neville St 32,Pittsburgh,PA,115,4,1.65,55,3.947,2.158
+144 Warwick Dr,Pittsburgh,PA,7,3.5,1.5,29,3.077,2.385
+1774 Norsen Dr,Pittsburgh,PA,3,4,1.667,11,2.75,2
+2414 Burham St,Pittsburgh,PA,71,4.05,1.85,69,4.053,2.053
+1329 Beechview Ave,Pittsburgh,PA,8,3.5,1.25,5,-1,-1
+732 Savannah Ave,Pittsburgh,PA,16,3.692,1.538,21,4,2.143
+183 Connie Dr,Pittsburgh,PA,6,4.75,2,62,4.333,2
+116 Bigham St,Pittsburgh,PA,30,3.75,1.95,10,3.4,1.8
+108 Stilwell Ct,Pittsburgh,PA,1,2.5,2,6,4.667,2
+113 Morewood Ave,Pittsburgh,PA,79,4.075,1.8,55,4.053,1.842
+617 Farragut St,Pittsburgh,PA,18,4.042,1.583,78,4.469,2.062
+145 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+5825 5th Ave 309,Pittsburgh,PA,56,4.025,2.15,117,4.275,2.45
+7007 Vivianna St,Pittsburgh,PA,2,-1,-1,4,-1,-1
+1216 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+821 Mifflin Ave,Pittsburgh,PA,19,3.867,1.6,31,4.278,2.111
+6833 Meade St 18,Pittsburgh,PA,8,4.4,1.4,21,4.375,2
+319 W Burgess St,Pittsburgh,PA,2,4.5,2,8,5,1
+29 S 17th St,Pittsburgh,PA,90,4.25,1.7,85,4.237,1.789
+25 S 17th St,Pittsburgh,PA,90,4.25,1.7,85,4.237,1.789
+951 Agnew Rd,Pittsburgh,PA,2,4,2,0,-1,-1
+169 Thornberry Dr,Pittsburgh,PA,5,3.167,1.333,5,-1,-1
+169 Amabell St,Pittsburgh,PA,36,3.875,2.05,11,3.4,1.8
+208 2nd St,Pittsburgh,PA,4,3.25,1.5,1,4,1
+208 Ella St,Pittsburgh,PA,68,4.175,1.7,57,4.474,2.053
+132 Glo Min Dr 101,Pittsburgh,PA,9,3.4,1.6,17,3.125,2.375
+6955 Thomas Blvd,Pittsburgh,PA,10,4.4,1.4,17,4.75,2
+35 Bateman St,Pittsburgh,PA,16,4.045,1.545,78,4.469,2.062
+972 Agnew Rd,Pittsburgh,PA,2,4,2,0,-1,-1
+875 Killarney Dr,Pittsburgh,PA,10,3.35,1.5,13,3.5,2.4
+5825 5th Ave 206,Pittsburgh,PA,56,4.025,2.15,118,4.3,2.45
+1015 Sanda Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+1407 Fallowfield Ave,Pittsburgh,PA,14,3.714,1.286,4,-1,-1
+227 N Fairmount St,Pittsburgh,PA,46,4.075,2.2,82,4.133,2.533
+1811 Sillview Dr,Pittsburgh,PA,3,4,1.667,11,2.75,2
+312 Preston Ave,Pittsburgh,PA,2,3.5,2,2,2,1
+8211 Brightwood Trl,Pittsburgh,PA,9,3.833,1.5,30,4.3,2.2
+8179 Ohio River Blvd,Pittsburgh,PA,6,4,1.833,6,-1,-1
+320 Fort Duquesne Blvd 23h,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+540 N Neville St 807,Pittsburgh,PA,115,4,1.65,55,4,2.15
+137 Liberto Rd,Pittsburgh,PA,12,4,1.333,12,5,2
+125 Black Oak Dr,Pittsburgh,PA,3,3.833,1,1,-1,-1
+3212 Shadyway Dr,Pittsburgh,PA,12,3.4,1.2,17,4.5,1.5
+401 Clair Dr,Pittsburgh,PA,26,3.389,1.722,112,3.9,2.467
+5532 Kentucky Ave,Pittsburgh,PA,54,4.025,2.05,111,4.2,2.45
+179 6th Ave,Pittsburgh,PA,9,3.688,1.625,11,4,2
+1654 Durbin St,Pittsburgh,PA,5,3.5,1.75,14,-1,-1
+800 E End Ave,Pittsburgh,PA,12,3.773,1.636,15,4,2.4
+5630 Villa Haven Dr,Pittsburgh,PA,3,3.75,1.5,2,3,2
+761 Somerville Dr,Pittsburgh,PA,2,3,2,5,1,2
+143 Ulysses St,Pittsburgh,PA,68,3.975,2.25,41,3.778,2.167
+2434 Smallman St 421,Pittsburgh,PA,65,4.225,1.65,66,4.25,2.278
+2411 Bellwood Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+104 E Francis Ave,Pittsburgh,PA,29,3.867,1.333,92,4.286,2.143
+2651 Pioneer Ave,Pittsburgh,PA,16,3.6,1.267,15,4,2.833
+233 Ingram Ave,Pittsburgh,PA,22,3.769,1.462,53,4.265,1.824
+940 Jackman Ave,Pittsburgh,PA,26,3.368,1.316,93,4.406,1.938
+172 Thornberry Dr,Pittsburgh,PA,1,-1,-1,6,-1,-1
+405 Pearce Rd,Pittsburgh,PA,4,3.125,1.5,6,-1,-1
+123 E Sycamore St,Pittsburgh,PA,78,3.925,1.9,56,3.75,2.083
+2277 Tilbury Ave,Pittsburgh,PA,59,4.075,1.65,76,4.306,2.111
+5503 Koeffler Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+9 Norton St,Pittsburgh,PA,39,3.675,1.9,20,3.7,2
+414 N Mathilda St,Pittsburgh,PA,49,4.125,1.85,45,4.342,1.789
+320 Fort Duquesne Blvd 23l,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+2210 Starkamp St,Pittsburgh,PA,15,3.885,1.231,14,4.25,2.5
+1325 Malvern Ave,Pittsburgh,PA,12,3.333,1.167,21,4.167,2.333
+124 Riverview Ter,Pittsburgh,PA,20,3.25,1.429,36,3.553,1.789
+1405 Fallowfield Ave,Pittsburgh,PA,14,3.714,1.286,4,-1,-1
+19 Glen Ridge Ln,Pittsburgh,PA,23,3.222,1.778,15,3.571,2.143
+1815 Fulton St,Pittsburgh,PA,16,3.056,1.222,22,5,2
+1422 Scarlett Ridge Dr,Pittsburgh,PA,0,-1,-1,1,-1,-1
+5514 Glass Rd,Pittsburgh,PA,3,4.5,2,20,1.5,3
+112 Marshall Dr,Pittsburgh,PA,2,-1,-1,11,3.25,2.5
+475 Orchard Ave,Pittsburgh,PA,23,3.786,1.5,84,4.3,1.933
+3269 Shadyway Dr,Pittsburgh,PA,5,3.75,1,10,4,2
+1519 Evan Dr,Pittsburgh,PA,2,-1,-1,5,-1,-1
+720 Ravenswood Ave,Pittsburgh,PA,2,4.5,1,4,5,2
+1782 Norsen Dr,Pittsburgh,PA,3,4,1.667,9,2.75,2
+4234 Perrysville Ave,Pittsburgh,PA,6,4.75,2,63,4.333,2
+5623 5th Ave,Pittsburgh,PA,52,4.025,2.1,112,4.25,2.45
+1519 Mansion Pl,Pittsburgh,PA,18,3,1.267,32,2.778,1.556
+1154 Cloverfield Dr,Pittsburgh,PA,2,4,2,0,-1,-1
+459 Long Dr,Pittsburgh,PA,12,3.062,1.625,25,3.333,2.5
+218 Ella St,Pittsburgh,PA,69,4.175,1.7,61,4.474,2.053
+865 Eisenhower Dr,Pittsburgh,PA,5,4.75,2,63,4.3,2.2
+263 Ashford Ave,Pittsburgh,PA,17,3.208,1.417,27,3.95,1.4
+874 Macarthur Dr,Pittsburgh,PA,3,2.833,1.667,14,4.75,2
+125 Bradley Ct,Pittsburgh,PA,5,4.75,2,63,4.3,2.2
+121 Valley Hi Dr,Pittsburgh,PA,0,-1,-1,0,-1,-1
+1705 Michael Dr 112e 112e 112e,Pittsburgh,PA,2,3.5,1,1,-1,-1
+113 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+156 E Sycamore St,Pittsburgh,PA,84,3.925,1.85,57,3.929,2.071
+4023 Howley St,Pittsburgh,PA,76,3.975,1.85,72,4.625,2.1
+8210 Fox Ridge Rd,Pittsburgh,PA,10,3.625,1.625,37,3.792,1.917
+1316 Fairstead Ln,Pittsburgh,PA,6,3.083,1.333,9,5,2
+1824 Jancey St,Pittsburgh,PA,22,4.125,1.75,72,4.5,1.933
+446 Natchez St,Pittsburgh,PA,33,3.65,1.8,15,3.778,2
+3022 Briscoe St,Pittsburgh,PA,4,3,2,7,-1,-1
+849 Elm Spring Rd,Pittsburgh,PA,23,3.222,1.778,15,3.571,2.143
+322 Cross Creek Ct,Pittsburgh,PA,12,3.222,1.333,12,3.929,1.571
+2840 Josephine St,Pittsburgh,PA,50,3.9,1.9,54,3.95,2
+4330 Glen Lytle Rd,Pittsburgh,PA,6,4,1.333,4,4.5,1.667
+17 Ryan Dr,Pittsburgh,PA,5,3,1.75,10,3.7,1.8
+5105 Grand Ave,Pittsburgh,PA,4,3.25,1.5,1,4,1
+313 8th St,Pittsburgh,PA,15,3.25,1.5,29,5,2
+6920 Greenwood St,Pittsburgh,PA,11,3.889,1.889,5,3,1
+1303 Windermere Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+5727 Villa Haven Dr,Pittsburgh,PA,3,3.75,1.5,3,3,2
+2 Alma Dr,Pittsburgh,PA,2,4,1,34,4.125,2.375
+1410 Rush St,Pittsburgh,PA,19,3.045,1.364,22,5,2
+4921 Rosetta St,Pittsburgh,PA,42,4.125,1.8,43,4.278,1.722
+127 Labelle St,Pittsburgh,PA,26,3.7,1.95,8,3.4,1.8
+805 Semple Ave,Pittsburgh,PA,11,4,1.5,77,4.656,1.938
+109 9th St,Pittsburgh,PA,8,3.429,1.429,11,4.5,2
+143 Highview Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+1204 Sutherland St,Pittsburgh,PA,3,-1,-1,5,-1,-1
+1909 Lafayette St,Pittsburgh,PA,22,3.094,1.312,35,3.318,1.455
+128 Lilac Ave,Pittsburgh,PA,0,-1,-1,3,3.75,2.5
+54 Beelen St,Pittsburgh,PA,36,3.889,1.611,95,4.25,2.125
+420 Fisk St,Pittsburgh,PA,76,4,1.8,76,4.625,2.1
+1770 Norsen Dr,Pittsburgh,PA,3,4,1.667,12,2.75,2
+2544 Hobbs St,Pittsburgh,PA,2,3,1,1,-1,-1
+7404 Grand Ave,Pittsburgh,PA,5,3.75,1.75,8,5,2
+1443 Muldowney Ave,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+24 Florence Dr,Pittsburgh,PA,2,4,1,2,-1,-1
+2007 Blvd Of The Allies,Pittsburgh,PA,101,4.2,1.8,139,4.263,1.842
+134 Moultrie St,Pittsburgh,PA,13,3.875,1.5,68,4.458,2.167
+1570 Greentree Rd,Pittsburgh,PA,6,2.6,1.8,10,3.7,1.8
+114 Valley Hi Dr,Pittsburgh,PA,0,-1,-1,2,-1,-1
+825 Morewood Ave G5,Pittsburgh,PA,81,3.85,1.75,85,4.225,2.3
+102 Gensler Rd,Pittsburgh,PA,0,-1,-1,1,-1,-1
+4906 Schenley Ave,Pittsburgh,PA,30,4.125,1.75,32,4.235,1.588
+4047 Cabinet St,Pittsburgh,PA,76,4.025,1.8,66,4.625,2.1
+148 Divine Dr,Pittsburgh,PA,14,3.722,1.444,17,3.375,1.75
+251 Dilworth St,Pittsburgh,PA,18,3.714,1.5,7,3.667,1.833
+5311 Front River Rd,Pittsburgh,PA,5,3.25,1.5,1,4,1
+1912 Hanover St,Pittsburgh,PA,22,3.094,1.312,36,3.25,1.5
+1304 Lakemont Dr,Pittsburgh,PA,2,3,2,4,1.75,2
+25 Telescope St,Pittsburgh,PA,48,3.9,1.9,51,3.917,2.056
+941 Penn Ave 602,Pittsburgh,PA,284,4.125,2.2,298,4.342,2.105
+6929 Bishop St,Pittsburgh,PA,13,4.143,1.857,65,4.438,2
+397 Greenway Dr,Pittsburgh,PA,6,-1,-1,12,-1,-1
+299 Barclay Ave,Pittsburgh,PA,9,4.1,1.8,62,4.559,2.176
+320 Fort Duquesne Blvd 16h,Pittsburgh,PA,285,4.05,2.2,294,4.35,2.25
+125 Stilwell Ct,Pittsburgh,PA,4,3,1.75,13,4.8,2
+1159 Shady Ave,Pittsburgh,PA,9,3.571,1.571,18,3.875,2.25
+536 Horning St,Pittsburgh,PA,9,3.5,1.167,14,3.8,1.8
+144 Shady Ln,Pittsburgh,PA,27,3.467,1.667,100,4.088,2
+1145 Rodgers St,Pittsburgh,PA,4,4.333,1.333,2,-1,-1
+43151 Stanley St,Pittsburgh,PA,6,4,1.333,3,4.5,1.667
+920 S Trenton Ave,Pittsburgh,PA,23,3.812,1.625,38,4.042,1.917
+3208 Faronia St,Pittsburgh,PA,2,-1,-1,5,-1,-1
+34 Oakwood Rd,Pittsburgh,PA,13,3.917,1.833,48,4.545,2
+6 Mitchell Dr,Pittsburgh,PA,34,3.425,1.7,154,4.029,2.412
+1003 Delafield Rd,Pittsburgh,PA,3,3.5,1.333,17,3.864,1.909
+6833 Meade St 19,Pittsburgh,PA,8,4.4,1.4,21,4.375,2
+1316 Columbus Ave,Pittsburgh,PA,17,2.8,1.2,21,5,2
+2410 Burham St,Pittsburgh,PA,73,4.05,1.85,70,4.053,2.053
+777 Brafferton Dr,Pittsburgh,PA,3,2.667,1.667,7,-1,-1
+906 Glenover Pl,Pittsburgh,PA,21,3.333,1.467,40,3.526,1.789
