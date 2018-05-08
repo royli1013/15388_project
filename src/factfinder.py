@@ -44,7 +44,7 @@ class FactFinder:
 		file_loc = "../data/neighbor_data.csv"
 		out_file = open(file_loc, 'wt', newline='')
 		writer = csv.writer(out_file)
-		writer.writerow(('zipcode', 'median_household_income', 'poverty', 'education_attainment'))
+		writer.writerow(('zip', 'median_household_income', 'poverty', 'education_attainment'))
 		zipcodes = set()
 		home_csv = "../data/full_data_randomized.csv"
 		with open(home_csv) as csvfile:
