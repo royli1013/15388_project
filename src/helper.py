@@ -26,6 +26,7 @@ def add_coords_to_csv(in_file, out_file):
 
 # Creates full addresses from data in in_file and write them to out_file
 # 1 address per line, created file can be geocoded manually
+# Used https://www.doogal.co.uk/BatchGeocoding.php to generate coordinates
 def create_geocode_addresses(in_file, out_file):
 	df = pd.read_csv(in_file)
 	out = open(out_file, 'w')
