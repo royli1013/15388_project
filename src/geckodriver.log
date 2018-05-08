@@ -2558,3 +2558,13 @@ JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.
 JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js, line 11: TypeError: a.ui is undefined
 JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js, line 11: TypeError: a.ui is undefined
 JavaScript error: https://assets.adobedtm.com/26357fc6b695ec32606172edcd4635830b9fbdf0/scripts/satellite-5ac4e70364746d0963000129.js, line 2: ReferenceError: passed is not defined
+[Parent 13216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 677: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x46000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

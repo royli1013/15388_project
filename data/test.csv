@@ -1,0 +1,7 @@
+long,lat,addr,city,state,zip,url,beds,baths,sqft,date,price
+-1,-1,1615 Duffield St,Pittsburgh,PA,15206,https://www.homes.com/property/1615-duffield-st-pittsburgh-pa-15206/id-400022634587/,3,1,1352,1930,158010
+-1,-1,1546 Greentree Rd,Pittsburgh,PA,15220,https://www.homes.com/property/1546-greentree-rd-pittsburgh-pa-15220/id-400022937363/,2,2,989,1955,110410
+-1,-1,107 W Pennview St,Pittsburgh,PA,15223,https://www.homes.com/property/107-w-pennview-st-pittsburgh-pa-15223/id-400030023872/,2,1,990,1940,121967
+-79.960612,40.473956,148 46th St,Pittsburgh,PA,15201,https://www.homes.com/property/148-46th-st-pittsburgh-pa-15201/id-400033134841/,6,2,2100,1900,135455
+-79.974959,40.458919,2901 Smallman St,Pittsburgh,PA,15201,https://www.homes.com/property/2901-smallman-st-pittsburgh-pa-15201/id-1000049535545/,1,1,1599,1998,408489
+-79.974959,40.458919,2901 Smallman St,Pittsburgh,PA,15201,https://www.homes.com/property/2901-smallman-st-pittsburgh-pa-15201/id-400022755615/,1,2,2063,1998,407451
