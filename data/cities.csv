@@ -1,0 +1,306 @@
+city,state,population_density,population_trend,lat,lon
+New York,New York,"28,317",+4.43%,40.6635,-73.9387
+Los Angeles,California,"8,484",+4.84%,34.0194,-118.4108
+Chicago,Illinois,"11,900",+0.35%,41.8376,-87.6818
+Houston,Texas,"3,613",+9.68%,29.7866,-95.3909
+Phoenix,Arizona,"3,120",+11.72%,33.5722,-112.0901
+Philadelphia,Pennsylvania,"11,683",+2.74%,40.0094,-75.1333
+San Antonio,Texas,"3,238",+12.44%,29.4724,-98.5251
+San Diego,California,"4,325",+7.59%,32.8153,-117.135
+Dallas,Texas,"3,866",+10.03%,32.7933,-96.7665
+San Jose,California,"5,777",+8.39%,37.2967,-121.8189
+Austin,Texas,"3,031",+19.93%,30.3039,-97.7544
+Jacksonville,Florida,"1,178",+7.16%,30.3369,-81.6616
+San Francisco,California,"18,569",+8.15%,37.7272,-123.0322
+Columbus,Ohio,"3,936",+9.28%,39.9852,-82.9848
+Indianapolis,Indiana,"2,366",+4.23%,39.7767,-86.1459
+Fort Worth,Texas,"2,491",+15.23%,32.7815,-97.3467
+Charlotte,North Carolina,"2,757",+15.12%,35.2078,-80.831
+Seattle,Washington,"8,405",+15.72%,47.6205,-122.3509
+Denver,Colorado,"4,521",+15.48%,39.7619,-104.8811
+El Paso,Texas,"2,660",+5.23%,31.8484,-106.427
+Washington,District of Columbia,"11,148",+13.20%,38.9041,-77.0172
+Boston,Massachusetts,"13,938",+9.00%,42.332,-71.0202
+Detroit,Michigan,"4,847",-5.74%,42.383,-83.1022
+Nashville,Tennessee,"1,388",+9.84%,36.1718,-86.785
+Memphis,Tennessee,"2,056",+0.90%,35.1028,-89.9774
+Portland,Oregon,"4,793",+9.61%,45.537,-122.65
+Oklahoma City,Oklahoma,"1,053",+10.06%,35.4671,-97.5137
+Las Vegas,Nevada,"4,709",+8.42%,36.2292,-115.2601
+Louisville,Kentucky,"2,339",+3.17%,38.1654,-85.6474
+Baltimore,Maryland,"7,598",-1.01%,39.3,-76.6105
+Milwaukee,Wisconsin,"6,186",+0.04%,43.0633,-87.9667
+Albuquerque,New Mexico,"2,972",+2.46%,35.1056,-106.6474
+Tucson,Arizona,"2,299",+2.04%,32.1531,-110.8706
+Fresno,California,"4,563",+5.54%,36.7836,-119.7934
+Sacramento,California,"5,059",+6.16%,38.5666,-121.4686
+Mesa,Arizona,"3,514",+10.37%,33.4019,-111.7174
+Kansas City,Missouri,"1,528",+4.71%,39.1251,-94.551
+Atlanta,Georgia,"3,539",+12.50%,33.7629,-84.4227
+Long Beach,California,"9,347",+1.70%,33.8092,-118.1553
+Colorado Springs,Colorado,"2,378",+11.69%,38.8673,-104.7607
+Raleigh,North Carolina,"3,163",+13.61%,35.8306,-78.6418
+Miami,Florida,"12,599",+13.55%,25.7752,-80.2086
+Virginia Beach,Virginia,"1,850",+3.34%,36.78,-76.0252
+Omaha,Nebraska,"3,356",+9.29%,41.2644,-96.0451
+Oakland,California,"7,514",+7.49%,37.7698,-122.2257
+Minneapolis,Minnesota,"7,660",+8.12%,44.9633,-93.2683
+Tulsa,Oklahoma,"2,048",+2.85%,36.1279,-95.9023
+Arlington,Texas,"4,100",+7.48%,32.7007,-97.1247
+New Orleans,Louisiana,"2,311",+13.86%,30.0534,-89.9345
+Wichita,Kansas,"2,431",+1.97%,37.6907,-97.3459
+Cleveland,Ohio,"4,965",-2.77%,41.4785,-81.6794
+Tampa,Florida,"3,326",+12.35%,27.9701,-82.4797
+Bakersfield,California,"2,529",+8.32%,35.3212,-119.0183
+Aurora,Colorado,"2,356",+11.27%,39.688,-104.6897
+Honolulu,Hawaii,"5,815",+4.31%,21.3243,-157.8476
+Anaheim,California,"7,021",+4.39%,33.8555,-117.7601
+Santa Ana,California,"12,333",+2.99%,33.7363,-117.883
+Corpus Christi,Texas,"1,866",+6.72%,27.7543,-97.1734
+Riverside,California,"3,999",+6.86%,33.9381,-117.3932
+Lexington,Kentucky,"1,123",+7.66%,38.0407,-84.4583
+St. Louis,Missouri,"5,023",-2.47%,38.6357,-90.2446
+Stockton,California,"4,977",+5.27%,37.9763,-121.3133
+Pittsburgh,Pennsylvania,"5,481",-0.68%,40.4398,-79.9766
+Saint Paul,Minnesota,"5,815",+6.08%,44.9489,-93.1041
+Cincinnati,Ohio,"3,860",+0.63%,39.1402,-84.5058
+Anchorage,Alaska,175,+2.18%,61.1743,-149.2843
+Henderson,Nevada,"2,798",+13.67%,36.0097,-115.0357
+Greensboro,North Carolina,"2,237",+6.44%,36.0951,-79.827
+Plano,Texas,"3,990",+10.09%,33.0508,-96.7479
+Newark,New Jersey,"11,691",+1.67%,40.7242,-74.1726
+Lincoln,Nebraska,"3,044",+8.51%,40.8105,-96.6803
+Toledo,Ohio,"3,451",-3.03%,41.6641,-83.5819
+Orlando,Florida,"2,635",+16.31%,28.4166,-81.2736
+Chula Vista,California,"5,387",+9.53%,32.6277,-117.0152
+Irvine,California,"4,057",+25.31%,33.6784,-117.7713
+Fort Wayne,Indiana,"2,391",+4.26%,41.0882,-85.1439
+Jersey City,New Jersey,"17,848",+6.69%,40.7114,-74.0648
+Durham,North Carolina,"2,395",+15.19%,35.9811,-78.9029
+St. Petersburg,Florida,"4,223",+6.63%,27.762,-82.6441
+Laredo,Texas,"2,544",+8.92%,27.5604,-99.4892
+Buffalo,New York,"6,359",-1.69%,42.8925,-78.8597
+Madison,Wisconsin,"3,280",+8.29%,43.0878,-89.4299
+Lubbock,Texas,"2,027",+9.99%,33.5656,-101.8867
+Chandler,Arizona,"3,813",+4.81%,33.2829,-111.8549
+Scottsdale,Arizona,"1,341",+13.46%,33.6843,-111.8611
+Glendale,Arizona,"4,161",+8.46%,33.5331,-112.1899
+Reno,Nevada,"2,286",+8.90%,39.5491,-119.8499
+Norfolk,Virginia,"4,599",+0.95%,36.923,-76.2446
+Winston–Salem,North Carolina,"1,828",+5.48%,36.1027,-80.261
+North Las Vegas,Nevada,"2,436",+10.02%,36.2857,-115.0939
+Irving,Texas,"3,557",+10.17%,32.8577,-96.97
+Chesapeake,Virginia,703,+7.08%,36.6794,-76.3018
+Gilbert,Arizona,"3,487",+13.76%,33.3103,-111.7431
+Hialeah,Florida,"10,995",+5.22%,25.8699,-80.3029
+Garland,Texas,"4,122",+3.56%,32.9098,-96.6303
+Fremont,California,"3,008",+8.90%,37.4945,-121.9412
+Baton Rouge,Louisiana,"2,651",-0.77%,30.4422,-91.1309
+Richmond,Virginia,"3,732",+9.28%,37.5314,-77.476
+Boise,Idaho,"2,718",+8.50%,43.6002,-116.2317
+San Bernardino,California,"3,516",+3.01%,34.1416,-117.2936
+Spokane,Washington,"3,144",+3.38%,47.6669,-117.4333
+Des Moines,Iowa,"2,424",+5.92%,41.5726,-93.6102
+Modesto,California,"4,934",+5.47%,37.6375,-121.003
+Birmingham,Alabama,"1,452",-0.04%,33.5274,-86.799
+Tacoma,Washington,"4,251",+6.49%,47.2522,-122.4598
+Fontana,California,"4,876",+6.93%,34.109,-117.4629
+Rochester,New York,"5,835",-0.80%,43.1699,-77.6169
+Oxnard,California,"7,729",+5.06%,34.2023,-119.2046
+Moreno Valley,California,"4,006",+6.28%,33.9233,-117.2057
+Fayetteville,North Carolina,"1,386",+2.09%,35.0828,-78.9735
+Aurora,Illinois,"4,479",+1.62%,41.7635,-88.2901
+Glendale,California,"6,606",+4.75%,34.1814,-118.2458
+Yonkers,New York,"11,156",+2.47%,40.9459,-73.8674
+Huntington Beach,California,"7,459",+5.61%,33.6906,-118.0093
+Montgomery,Alabama,"1,252",-2.79%,32.3472,-86.2661
+Amarillo,Texas,"1,968",+4.66%,35.1999,-101.8302
+Little Rock,Arkansas,"1,673",+2.59%,34.7254,-92.3586
+Akron,Ohio,"3,188",-0.74%,41.0805,-81.5214
+Columbus,Georgia,913,+4.00%,32.5102,-84.8749
+Augusta,Georgia,652,+0.63%,33.3655,-82.0734
+Grand Rapids,Michigan,"4,424",+4.47%,42.9612,-85.6556
+Shreveport,Louisiana,"1,820",-2.20%,32.4669,-93.7922
+Salt Lake City,Utah,"1,742",+3.92%,40.7769,-111.931
+Huntsville,Alabama,905,+7.20%,34.699,-86.673
+Mobile,Alabama,"1,384",-1.13%,30.6684,-88.1002
+Tallahassee,Florida,"1,901",+5.25%,30.4551,-84.2534
+Grand Prairie,Texas,"2,637",+8.72%,32.6869,-97.0211
+Overland Park,Kansas,"2,516",+8.99%,38.889,-94.6906
+Knoxville,Tennessee,"1,891",+4.12%,35.9707,-83.9493
+Port St. Lucie,Florida,"1,557",+12.47%,27.2806,-80.3883
+Worcester,Massachusetts,"4,933",+1.91%,42.2695,-71.8078
+Brownsville,Texas,"1,387",+5.03%,25.9991,-97.455
+Tempe,Arizona,"4,562",+12.85%,33.3884,-111.9318
+Santa Clarita,California,"3,446",+3.21%,34.403,-118.5042
+Newport News,Virginia,"2,631",+0.61%,37.0762,-76.522
+Cape Coral,Florida,"1,703",+16.53%,26.6432,-81.9974
+Providence,Rhode Island,"9,740",+0.66%,41.8231,-71.4188
+Fort Lauderdale,Florida,"5,166",+7.99%,26.1412,-80.1467
+Chattanooga,Tennessee,"1,241",+5.90%,35.066,-85.2484
+Rancho Cucamonga,California,"4,413",+6.82%,34.1233,-117.5642
+Oceanside,California,"4,249",+5.01%,33.2245,-117.3062
+Santa Rosa,California,"4,241",+4.37%,38.4468,-122.7061
+Garden Grove,California,"9,714",+2.33%,33.7788,-117.9605
+Vancouver,Washington,"3,728",+8.06%,45.6349,-122.5957
+Sioux Falls,South Dakota,"2,312",+13.30%,43.5383,-96.732
+Ontario,California,"3,471",+5.67%,34.0394,-117.6042
+McKinney,Texas,"2,735",+31.41%,33.1985,-96.668
+Elk Grove,California,"4,022",+10.93%,38.4146,-121.385
+Jackson,Mississippi,"1,524",-2.52%,32.3158,-90.2128
+Pembroke Pines,Florida,"5,109",+9.46%,26.021,-80.3404
+Salem,Oregon,"3,445",+8.27%,44.9237,-123.0232
+Springfield,Missouri,"2,033",+4.90%,37.1942,-93.2913
+Corona,California,"4,222",+9.46%,33.862,-117.5655
+Eugene,Oregon,"3,777",+6.65%,44.0567,-123.1162
+Fort Collins,Colorado,"2,943",+14.04%,40.5482,-105.0648
+Peoria,Arizona,934,+6.56%,33.7862,-112.308
+Frisco,Texas,"2,417",+39.89%,33.1554,-96.8226
+Cary,North Carolina,"2,873",+20.03%,35.7809,-78.8133
+Lancaster,California,"1,698",+2.22%,34.6936,-118.1753
+Hayward,California,"3,493",+10.23%,37.6287,-122.1024
+Palmdale,California,"1,484",+3.02%,34.591,-118.1054
+Salinas,California,"6,662",+4.50%,36.6902,-121.6337
+Alexandria,Virginia,"10,387",+11.32%,38.8201,-77.0841
+Lakewood,Colorado,"3,599",+7.98%,39.6989,-105.1176
+Springfield,Massachusetts,"4,830",+0.66%,42.1155,-72.54
+Pasadena,Texas,"3,525",+2.89%,29.6586,-95.1506
+Sunnyvale,California,"6,944",+9.06%,37.3858,-122.0263
+Macon,Georgia,612,+67.00%,32.8088,-83.6942
+Pomona,California,"6,630",+2.31%,34.0585,-117.7611
+Hollywood,Florida,"5,568",+7.98%,26.031,-80.1646
+Kansas City,Kansas,"1,216",+4.06%,39.1225,-94.7418
+Escondido,California,"4,087",+5.35%,33.1331,-117.074
+Clarksville,Tennessee,"1,529",+13.06%,36.5664,-87.3452
+Joliet,Illinois,"2,302",+0.56%,41.5177,-88.1488
+Rockford,Illinois,"2,325",-3.41%,42.2588,-89.0646
+Torrance,California,"7,180",+1.21%,33.835,-118.3414
+Naperville,Illinois,"3,802",+3.71%,41.7492,-88.162
+Paterson,New Jersey,"17,500",+0.55%,40.9148,-74.1628
+Savannah,Georgia,"1,417",+7.69%,32.0025,-81.1536
+Bridgeport,Connecticut,"9,064",+1.18%,41.1874,-73.1958
+Mesquite,Texas,"3,045",+2.80%,32.7629,-96.5888
+Killeen,Texas,"2,680",+12.10%,31.0777,-97.732
+Syracuse,New York,"5,735",-1.23%,43.041,-76.1436
+McAllen,Texas,"2,435",+9.50%,26.2322,-98.2464
+Pasadena,California,"6,176",+3.60%,34.1606,-118.1396
+Bellevue,Washington,"4,221",+15.56%,47.5979,-122.1565
+Fullerton,California,"6,282",+4.11%,33.8857,-117.928
+Orange,California,"5,532",+3.00%,33.787,-117.8613
+Dayton,Ohio,"2,522",-0.73%,39.7774,-84.1996
+Miramar,Florida,"4,709",+13.44%,25.977,-80.3358
+Thornton,Colorado,"3,829",+15.10%,39.9194,-104.9428
+West Valley City,Utah,"3,847",+5.48%,40.6885,-112.0118
+Olathe,Kansas,"2,225",+7.63%,38.8843,-94.8195
+Hampton,Virginia,"2,629",-1.47%,37.048,-76.2971
+Warren,Michigan,"3,928",+0.80%,42.4929,-83.025
+Midland,Texas,"1,809",+21.11%,32.0246,-102.1135
+Waco,Texas,"1,510",+7.71%,31.5601,-97.186
+Charleston,South Carolina,"1,233",+11.91%,32.8179,-79.959
+Columbia,South Carolina,"1,006",+3.90%,34.0291,-80.898
+Denton,Texas,"1,433",+18.01%,33.2166,-97.1414
+Carrollton,Texas,"3,674",+11.97%,32.9884,-96.8998
+Surprise,Arizona,"1,230",+12.90%,33.6706,-112.4527
+Roseville,California,"3,085",+11.69%,38.769,-121.3189
+Sterling Heights,Michigan,"3,628",+2.10%,42.5812,-83.0303
+Murfreesboro,Tennessee,"2,360",+21.32%,35.8522,-86.416
+Gainesville,Florida,"2,112",+5.82%,29.6788,-82.3461
+Cedar Rapids,Iowa,"1,852",+3.80%,41.967,-91.6778
+Visalia,California,"3,495",+5.33%,36.3273,-119.3289
+Coral Springs,Florida,"5,465",+7.40%,26.2707,-80.2593
+New Haven,Connecticut,"6,948",+0.12%,41.3108,-72.925
+Stamford,Connecticut,"3,434",+5.28%,41.0799,-73.546
+Thousand Oaks,California,"2,335",+1.74%,34.1933,-118.8742
+Concord,California,"4,221",+5.46%,37.9722,-122.0016
+Elizabeth,New Jersey,"10,459",+2.94%,40.6664,-74.1935
+Lafayette,Louisiana,"2,372",+5.81%,30.2074,-92.0285
+Kent,Washington,"3,784",+37.99%,47.388,-122.2127
+Topeka,Kansas,"2,062",-0.52%,39.0347,-95.6962
+Simi Valley,California,"3,044",+1.68%,34.2669,-118.7485
+Santa Clara,California,"6,845",+8.14%,37.3646,-121.9679
+Athens,Georgia,"1,060",+6.86%,33.9496,-83.3701
+Hartford,Connecticut,"7,083",-1.23%,41.7659,-72.6816
+Victorville,California,"1,668",+5.49%,34.5277,-117.3536
+Abilene,Texas,"1,146",+4.41%,32.4545,-99.7381
+Norman,Oklahoma,683,+10.15%,35.2406,-97.3453
+Vallejo,California,"3,951",+4.62%,38.1079,-122.264
+Berkeley,California,"11,547",+7.69%,37.867,-122.2991
+Round Rock,Texas,"3,396",+21.03%,30.5252,-97.666
+Ann Arbor,Michigan,"4,298",+6.01%,42.2761,-83.7309
+Fargo,North Dakota,"2,450",+14.41%,46.8652,-96.829
+Columbia,Missouri,"1,856",+11.16%,38.9473,-92.3264
+Allentown,Pennsylvania,"6,882",+2.04%,40.5936,-75.4784
+Evansville,Indiana,"2,526",+1.74%,37.9877,-87.5347
+Odessa,Texas,"2,608",+17.94%,31.8838,-102.3411
+Wilmington,North Carolina,"2,278",+10.38%,34.2092,-77.8858
+Arvada,Colorado,"3,043",+10.35%,39.8337,-105.1503
+Independence,Missouri,"1,504",+0.17%,39.0855,-94.3521
+Provo,Utah,"2,803",+3.89%,40.2453,-111.6448
+Lansing,Michigan,"2,967",+1.51%,42.7143,-84.5593
+El Monte,California,"12,063",+2.06%,34.0746,-118.0291
+Springfield,Illinois,"1,925",-0.46%,39.7911,-89.6446
+Fairfield,California,"2,806",+8.96%,38.2593,-122.0321
+Clearwater,Florida,"4,415",+6.20%,27.9789,-82.7666
+Peoria,Illinois,"2,371",-0.65%,40.7515,-89.6174
+Rochester,Minnesota,"2,088",+6.78%,44.0154,-92.4772
+Carlsbad,California,"3,023",+8.19%,33.1239,-117.2828
+Westminster,Colorado,"3,592",+7.31%,39.8822,-105.0644
+West Jordan,Utah,"3,520",+9.63%,40.6024,-112.0008
+Pearland,Texas,"2,453",+24.46%,29.5558,-95.3231
+Richardson,Texas,"3,963",+14.23%,32.9723,-96.7081
+Downey,California,"9,134",+1.34%,33.9382,-118.1309
+Miami Gardens,Florida,"6,212",+5.50%,25.9489,-80.2436
+Temecula,California,"3,031",+12.94%,33.4931,-117.1317
+Costa Mesa,California,"7,186",+2.60%,33.6659,-117.9123
+College Station,Texas,"2,199",+19.48%,30.5852,-96.2964
+Elgin,Illinois,"2,998",+3.64%,42.0396,-88.3217
+Murrieta,California,"3,324",+7.93%,33.5721,-117.1904
+Gresham,Oregon,"4,786",+5.61%,45.5023,-122.4416
+High Point,North Carolina,"2,015",+6.57%,35.99,-79.9905
+Antioch,California,"3,772",+8.33%,37.9791,-121.7962
+Inglewood,California,"12,160",+0.89%,33.9561,-118.3443
+Cambridge,Massachusetts,"17,289",+5.22%,42.376,-71.1187
+Lowell,Massachusetts,"8,129",+3.79%,42.639,-71.3211
+Manchester,New Hampshire,"3,339",+0.86%,42.9849,-71.4441
+Billings,Montana,"2,525",+5.91%,45.7885,-108.5499
+Pueblo,Colorado,"2,058",+3.47%,38.2699,-104.6123
+Palm Bay,Florida,"1,676",+6.70%,27.9856,-80.6626
+Centennial,Colorado,"3,727",+9.52%,39.5906,-104.8691
+Richmond,California,"3,648",+5.89%,37.9523,-122.3606
+Ventura,California,"5,027",+2.97%,34.2678,-119.2542
+Pompano Beach,Florida,"4,558",+9.56%,26.2416,-80.1339
+North Charleston,South Carolina,"1,483",+12.13%,32.9178,-80.065
+Everett,Washington,"3,275",+5.85%,47.9566,-122.1914
+Waterbury,Connecticut,"3,799",-1.90%,41.5585,-73.0367
+West Palm Beach,Florida,"1,963",+8.25%,26.7464,-80.1251
+Boulder,Colorado,"4,358",+10.99%,40.027,-105.2519
+West Covina,California,"6,740",+1.65%,34.0559,-117.9099
+Broken Arrow,Oklahoma,"1,741",+8.65%,36.0365,-95.781
+Clovis,California,"4,404",+11.45%,36.8282,-119.6849
+Daly City,California,"14,009",+5.29%,37.7009,-122.465
+Lakeland,Florida,"1,615",+9.24%,28.0555,-81.9549
+Santa Maria,California,"4,662",+6.77%,34.9332,-120.4438
+Norwalk,California,"10,946",+0.60%,33.9076,-118.0835
+Sandy Springs,Georgia,"2,804",+12.63%,33.9315,-84.3687
+Hillsboro,Oregon,"4,207",+14.79%,45.528,-122.9357
+Green Bay,Wisconsin,"2,316",+1.04%,44.5207,-87.9842
+Tyler,Texas,"1,852",+8.15%,32.3173,-95.3059
+Wichita Falls,Texas,"1,450",+0.16%,33.9067,-98.5259
+Lewisville,Texas,"2,852",+9.83%,33.0466,-96.9818
+Burbank,California,"6,003",+1.07%,34.1901,-118.3264
+Greeley,Colorado,"2,176",+11.95%,40.4153,-104.7697
+San Mateo,California,"8,592",+6.95%,37.5603,-122.3106
+El Cajon,California,"7,156",+4.31%,32.8017,-116.9604
+Rialto,California,"4,633",+4.18%,34.1118,-117.3883
+Davenport,Iowa,"1,631",+2.94%,41.5541,-90.604
+League City,Texas,"1,992",+22.08%,29.4901,-95.1091
+Edison,New Jersey,"3,389",+2.03%,40.504,-74.3494
+Davie,Florida,"2,919",+10.74%,26.0791,-80.285
+Las Cruces,New Mexico,"1,323",+4.24%,32.3264,-106.7897
+South Bend,Indiana,"2,457",+0.56%,41.6769,-86.269
+Vista,California,"5,436",+8.34%,33.1895,-117.2386
+Woodbridge,New Jersey,"4,351",+1.81%,40.5607,-74.2927
+Renton,Washington,"4,314",+11.03%,47.4761,-122.192
+Lakewood,New Jersey,"4,079",+8.53%,40.0771,-74.2004
+San Angelo,Texas,"1,681",+8.05%,31.4411,-100.4505
+Clinton,Michigan,"3,573",+3.72%,42.5903,-82.917
