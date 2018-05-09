@@ -61,7 +61,6 @@ class KNN:
 			estimate = sum([dist[1] for dist in dists[:self.k]]) / self.k
 			percent_error += abs(row_v[self.label] - estimate) / row_v[self.label]
 		mean_percent_error = percent_error / len(self.df_val)
-		print(len(self.df_val))
 		print(mean_percent_error)
 
 	# params is a map with keys equal to elements in params_to_use
@@ -75,6 +74,6 @@ class KNN:
 		return estimate
 
 
-#knn = KNN('../data/full_data_randomized.csv', ['long', 'lat', 'sqft', 'beds', 'baths', 'date'], 'price')
-#knn.validate()
-#print(knn.predict({'long' : -80, 'lat' : 40, 'sqft' : 1800, 'beds' : 4, 'baths' : 3, 'date' : 2000}))
+for i in range(1, 11):
+	knn = KNN('../data/full_data_randomized.csv', ['long', 'lat', 'sqft', 'beds', 'baths', 'date'], 'price', k=i)
+	knn.validate()
