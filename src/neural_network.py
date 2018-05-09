@@ -16,13 +16,15 @@ class Network:
 			df_new[attr] = (df[attr] - self.mins[attr]) / (self.maxes[attr] - self.mins[attr])
 		return df_new
 
-	def __init__(self, data_file, params_to_use, label, hidden_nodes=15, percent_train=0.8):
+	def __init__(self, data_file, params_to_use, label, hidden_nodes=200, percent_train=0.8):
 		self.data_file = data_file
 		self.params_to_use = params_to_use
 		self.label = label
 		self.model = Sequential()
 		self.layer1 = Dense(hidden_nodes, input_shape=(len(params_to_use),))
 		self.model.add(self.layer1)
+		self.model.add(Dense(64))
+		self.model.add(Dense(32))
 		#self.model.add(Activation('sigmoid'))
 		#self.model.add(Dense(hidden_nodes//2))
 		#self.model.add(Activation('softmax'))
@@ -41,7 +43,7 @@ class Network:
 		self.X_v = self.X[n:, :]
 		self.y_v = self.y[n:]
 
-	def train(self, epochs=30, batch_size=32):
+	def train(self, epochs=200, batch_size=32):
 		self.model.fit(self.X_t, self.y_t, epochs=epochs, batch_size=batch_size)
 		#print(self.y_t[:10])
 		#print(self.layer1.get_weights())
