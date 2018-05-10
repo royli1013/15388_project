@@ -25,18 +25,21 @@ class Median:
 	def validate(self):
 		y = self.df_val[self.label].values
 		percent_error = abs(y - self.avg) / y
-		print(y[:10])
-		print(percent_error[:10])
-		print(sum(percent_error) / len(y))
+		# print(y[:10])
+		# print(percent_error[:10])
+		return sum(percent_error) / len(y)
 
 	def predict(self, params):
 		return self.avg
 
+def main():
+	m = Median('../data/full_data_randomized.csv', 'price', method='median')
+	m.train()
+	m.validate()
 
-m = Median('../data/full_data_randomized.csv', 'price')
-m.train()
-m.validate()
+	m = Median('../data/full_data_randomized.csv', 'price', method='mean')
+	m.train()
+	m.validate()
 
-m = Median('../data/full_data_randomized.csv', 'price', method='mean')
-m.train()
-m.validate()
+if __name__ == "__main__":
+    main()

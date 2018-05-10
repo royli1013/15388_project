@@ -131,10 +131,13 @@ def create_coords(data_file, out_file):
 	#df.to_csv(out_file, index=False)
 	
 
+def main():
+	#add_coords_to_csv('../data/pittsburgh_housing_data.csv', '../data/pittsburgh_housing_data_coords.csv')
+	#create_geocode_addresses('../data/pittsburgh_housing_data.csv', '../data/addresses.txt')
+	#add_coords('../data/partial_coords_1.csv', '../data/pittsburgh_housing_data.csv', '../data/pittsburgh_housing_data_coords.csv')
+	#combine_data('../data/pittsburgh_housing_data_coords.csv', '../data/pittsburgh_housing_data_2.csv', '../data/full_data_with_partial_coord.csv')
+	#create_geocode_addresses('../data/full_data_with_partial_coord.csv', '../data/addresses.txt')
+	create_coords('../data/full_data_with_partial_coord.csv', '../data/full_data.csv')
 
-#add_coords_to_csv('../data/pittsburgh_housing_data.csv', '../data/pittsburgh_housing_data_coords.csv')
-#create_geocode_addresses('../data/pittsburgh_housing_data.csv', '../data/addresses.txt')
-#add_coords('../data/partial_coords_1.csv', '../data/pittsburgh_housing_data.csv', '../data/pittsburgh_housing_data_coords.csv')
-#combine_data('../data/pittsburgh_housing_data_coords.csv', '../data/pittsburgh_housing_data_2.csv', '../data/full_data_with_partial_coord.csv')
-#create_geocode_addresses('../data/full_data_with_partial_coord.csv', '../data/addresses.txt')
-create_coords('../data/full_data_with_partial_coord.csv', '../data/full_data.csv')
+if __name__ == "__main__":
+    main()

@@ -342,7 +342,10 @@ class CityScraper2:
 # cs = CityScraper('PA', 'Pittsburgh', 'https://www.homes.com/home-prices/pittsburgh-pa/', '../data/pittsburgh_housing_data.csv', debug=True)
 # cs.scrape()
 
+def main():
+	cs2 = CityScraper2('PA', 'Pittsburgh', 'https://www.homes.com/home-prices/pittsburgh-pa/', '../data/pittsburgh_housing_data_2.csv',\
+					   zip_ignores=['15201'], debug=True)
+	cs2.scrape()
 
-cs2 = CityScraper2('PA', 'Pittsburgh', 'https://www.homes.com/home-prices/pittsburgh-pa/', '../data/pittsburgh_housing_data_2.csv',\
-				   zip_ignores=['15201'], debug=True)
-cs2.scrape()
+if __name__ == "__main__":
+    main()
