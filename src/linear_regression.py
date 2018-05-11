@@ -36,6 +36,10 @@ class LinearReg:
 		y = df["price"].values.copy()
 		return (X, y)
 
+	def get_sqft(self, df):
+		X = np.array([df['sqft']]).T
+		return X
+
 	def preprocessing2(self, df):
 		df['neighbor_amenity_index'] = list(map(self.neighbor_amenity_index, df['restaurant_count'], df['restaurant_rating'], df['restaurant_price'],
 			df['shopping_count'], df['shopping_rating'], df['shopping_price']))
@@ -127,16 +131,11 @@ class LinearReg:
 		print(error)
 		model1 = self.train(X, y)
 
-		#regress between price_per_sqft and sqft
-		price_per_sqfts, price = self.getPricePerSqftData(df)
-		print(price_per_sqfts.shape)
-		model2 = self.train(price_per_sqfts, price)
-
+		sqfts = self.get_sqft(df)
+		_, price = self.getPricePerSqftData(df)
 		y_layer1 = model1.predict(X)
 		y_layer1 = y_layer1.reshape((len(y_layer1), 1))
-		y_pred = model2.predict(y_layer1)
-		print(y_pred)
-		print(price)
+		y_pred = np.multiply(y_layer1, sqfts)
 		error = self.error(price, y_pred)
 		print(error)
 
