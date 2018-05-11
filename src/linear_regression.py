@@ -50,6 +50,18 @@ class LinearReg:
 		y = df["price_per_sqft"].values.copy()
 		return (X, y)
 
+	def preprocessing3(self, df):
+		df['neighbor_amenity_index'] = list(map(self.neighbor_amenity_index, df['restaurant_count'], df['restaurant_rating'], df['restaurant_price'],
+			df['shopping_count'], df['shopping_rating'], df['shopping_price']))
+		df['newness'] = df["date"].apply(lambda d: (d - 1850)**2)
+		df["price_per_sqft"] = list(map(lambda x,y : float(x)/y, df['price'], df['sqft']))
+		X = np.array([df['neighbor_amenity_index'], df['newness'], 
+			df['median_household_income'], df['education_attainment']]).T
+		X_sqft = np.array([df['sqft']]).T
+		y_price_per_sqft = df["price_per_sqft"].values.copy()
+		y = df["price"].values.copy()
+		return (X, X_sqft, y_price_per_sqft, y)
+
 	def getPricePerSqftData(self, df):
 		df["price_per_sqft"] = list(map(lambda x,y : float(x)/y, df['price'], df['sqft']))
 		X = np.array([df['price_per_sqft']]).T
@@ -92,6 +104,29 @@ class LinearReg:
 			total_error += error
 		return total_error / k
 
+	def k_folds_validation_2(self, X, X_sqft, y_price_per_sqft, y, blocks):
+		k = len(blocks)
+		total_error = 0.0
+		for validation_indexes in blocks:
+			X_v = X[validation_indexes]
+			X_sqft_v = X_sqft[validation_indexes]
+			y_v = y[validation_indexes]
+			training_indexes = []
+			for block in blocks:
+				if not np.array_equal(block, validation_indexes):
+					training_indexes = np.append(training_indexes, [block])
+					training_indexes = [int(i) for i in training_indexes]
+			X_t = X[training_indexes]
+			y_price_per_sqft_t = y_price_per_sqft[training_indexes]
+			model = self.train(X_t, y_price_per_sqft_t)
+			y_v_price_per_sqft = model.predict(X_v)
+			y_v_price_per_sqft = y_v_price_per_sqft.reshape((len(y_v_price_per_sqft), 1))
+			y_v_p = np.multiply(y_v_price_per_sqft, X_sqft_v)
+			y_v_p = y_v_p.reshape(len(y_v_p))
+			error = self.error(y_v, y_v_p)
+			total_error += error
+		return total_error / k
+
 	def predict(self, model, Xnew):
 		return model.predict(Xnew)
 
@@ -120,7 +155,6 @@ class LinearReg:
 		blocks = self.split_data(n, 10)
 		error = self.k_folds_validation(X, y, blocks)
 		print(error)
-		model = self.train(X, y)
 
 	def regression_against_price_per_sqft(self):
 		df = self.get_data()
@@ -129,21 +163,20 @@ class LinearReg:
 		blocks = self.split_data(n, 10)
 		error = self.k_folds_validation(X, y, blocks)
 		print(error)
-		model1 = self.train(X, y)
 
-		sqfts = self.get_sqft(df)
-		_, price = self.getPricePerSqftData(df)
-		y_layer1 = model1.predict(X)
-		y_layer1 = y_layer1.reshape((len(y_layer1), 1))
-		y_pred = np.multiply(y_layer1, sqfts)
-		error = self.error(price, y_pred)
-		print(error)
-
+	def regression(self):
+		df = self.get_data()
+		X, X_sqft, y_price_per_sqft, y = self.preprocessing3(df)
+		n,params = X.shape
+		blocks = self.split_data(n, 10)
+		error = self.k_folds_validation_2(X, X_sqft, y_price_per_sqft, y, blocks)
+		return error
 
 def main():
 	lg = LinearReg()
 	lg.regression_against_price()
 	lg.regression_against_price_per_sqft()
+	print(lg.regression())
 
 if __name__ == "__main__":
     main()
